@@ -21,7 +21,16 @@ jobs:
         run: |
           git config --global user.name 'AI Scout Bot'
           git config --global user.email 'bot@noreply.github.com'
+          
+          # 1. Recupera le modifiche che hai fatto tu a mano (il reset del JSON)
+          git fetch origin main
+          git pull --rebase origin main
+          
+          # 2. Aggiungi il file aggiornato dallo script
           git add database_notifiche.json
-          git pull --rebase origin main # Prende i cambiamenti fatti da te (il reset del JSON)
-          git commit -m "Aggiorna database notifiche" || exit 0
-          git push
+          
+          # 3. Commit solo se ci sono cambiamenti
+          git commit -m "Update notified repos [skip ci]" || echo "No changes to commit"
+          
+          # 4. Spingi le modifiche
+          git push origin main

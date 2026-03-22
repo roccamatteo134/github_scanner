@@ -19,15 +19,31 @@ def save_history(history):
         json.dump(list(history), f)
 
 def send_telegram(repo):
+    # Assicurati che queste variabili prendano i valori corretti
     url = f"https://api.telegram.org/bot{TG_TOKEN}/sendMessage"
+    
     msg = (
-        f"🌟 *Nuova Risorsa AI Individuata*\n\n"
-        f"📦 *Progetto:* {repo['full_name']}\n"
-        f"⭐ *Stars:* {repo['stargazers_count']}\n"
-        f"📖 *Info:* {repo['description']}\n\n"
-        f"🔗 [Apri su GitHub]({repo['html_url']})"
+        f"🚀 *Test Notifica*\n"
+        f"Repo: {repo['full_name']}\n"
+        f"Stars: {repo['stargazers_count']}"
     )
-    requests.post(url, json={'chat_id': TG_CHAT_ID, 'text': msg, 'parse_mode': 'Markdown'})
+    
+    payload = {
+        'chat_id': TG_CHAT_ID, 
+        'text': msg, 
+        'parse_mode': 'Markdown'
+    }
+    
+    print(f"Tentativo di invio a ID: {TG_CHAT_ID}...")
+    
+    try:
+        response = requests.post(url, json=payload)
+        if response.status_code != 200:
+            print(f"❌ ERRORE TELEGRAM: {response.status_code} - {response.text}")
+        else:
+            print(f"✅ Messaggio inviato con successo a {repo['full_name']}")
+    except Exception as e:
+        print(f"❌ Errore durante la richiesta HTTP: {e}")
 
 def scan():
     history = get_history()

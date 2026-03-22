@@ -1,4 +1,4 @@
-name: AI Scout
+name: AI Scout 
 on:
   schedule:
     - cron: '0 9,21 * * *' # Gira due volte al giorno (ore 9 e 21)

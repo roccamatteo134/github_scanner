@@ -1,0 +1,26 @@
+name: Test Telegram Connection
+
+on:
+  workflow_dispatch: # Ti permette di avviarlo a mano
+
+jobs:
+  test-tg:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python_version: '3.x'
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Run Telegram Test
+        env:
+          # ASSICURATI CHE I NOMI QUI SOTTO SIANO IDENTICI AI SECRETS SU GITHUB
+          TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: python test_telegram.py

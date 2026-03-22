@@ -18,32 +18,29 @@ def save_history(history):
     with open(DB_FILE, 'w') as f:
         json.dump(list(history), f)
 
-def send_telegram(repo):
-    # Assicurati che queste variabili prendano i valori corretti
-    url = f"https://api.telegram.org/bot{TG_TOKEN}/sendMessage"
+def send_telegram(repo_name, repo_url):
+    """Invia il messaggio al bot Telegram via richiesta GET."""
+    if not TOKEN or not CHAT_ID:
+        print("❌ Errore: Variabili TELEGRAM_TOKEN o TELEGRAM_CHAT_ID mancanti negli Environment Secrets.")
+        return
+
+    text = f"🌟 *Nuova Risorsa AI*: {repo_name}\n🔗 *Link*: {repo_url}"
+    url = f"https://api.telegram.org/bot{TOKEN}/sendMessage"
     
-    msg = (
-        f"🚀 *Test Notifica*\n"
-        f"Repo: {repo['full_name']}\n"
-        f"Stars: {repo['stargazers_count']}"
-    )
-    
-    payload = {
-        'chat_id': TG_CHAT_ID, 
-        'text': msg, 
-        'parse_mode': 'Markdown'
+    params = {
+        'chat_id': CHAT_ID,
+        'text': text,
+        'parse_mode': 'Markdown'  # Rende il testo più carino (grassetto e link)
     }
     
-    print(f"Tentativo di invio a ID: {TG_CHAT_ID}...")
-    
     try:
-        response = requests.post(url, json=payload)
-        if response.status_code != 200:
-            print(f"❌ ERRORE TELEGRAM: {response.status_code} - {response.text}")
+        response = requests.get(url, params=params)
+        if response.status_code == 200:
+            print(f"✅ Notifica inviata: {repo_name}")
         else:
-            print(f"✅ Messaggio inviato con successo a {repo['full_name']}")
+            print(f"❌ Errore API Telegram ({response.status_code}): {response.text}")
     except Exception as e:
-        print(f"❌ Errore durante la richiesta HTTP: {e}")
+        print(f"❌ Eccezione durante l'invio: {e}")
 
 def scan():
     history = get_history()

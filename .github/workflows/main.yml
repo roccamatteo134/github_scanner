@@ -1,36 +1,51 @@
 name: AI Scout 
 on:
   schedule:
-    - cron: '0 9,21 * * *' # Gira due volte al giorno (ore 9 e 21)
-  workflow_dispatch: # Per avviarlo tu quando vuoi
+    - cron: '0 9,21 * * *' # Gira due volte al giorno
+  workflow_dispatch: # Avvio manuale
+
 jobs:
   run-scout:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write # Necessario per permettere al bot di fare il push
     steps:
-      - uses: actions/checkout@v3
-      - uses: actions/setup-python@v4
+      - name: Checkout repository
+        uses: actions/checkout@v3
         with:
-          python_version: '3.x'
-      - run: pip install -r requirements.txt
-      - run: python main.py
+          fetch-depth: 0 # Recupera tutta la cronologia per evitare conflitti
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run main script
         env:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: python main.py
+
       - name: Auto-update DB
         run: |
           git config --global user.name 'AI Scout Bot'
           git config --global user.email 'bot@noreply.github.com'
           
-          # 1. Recupera le modifiche che hai fatto tu a mano (il reset del JSON)
-          git fetch origin main
-          git pull --rebase origin main
-          
-          # 2. Aggiungi il file aggiornato dallo script
+          # 1. Metti in "stage" le modifiche fatte dallo script
           git add database_notifiche.json
           
-          # 3. Commit solo se ci sono cambiamenti
-          git commit -m "Update notified repos [skip ci]" || echo "No changes to commit"
-          
-          # 4. Spingi le modifiche
-          git push origin main
+          # 2. Se ci sono modifiche, fai il commit. Se non ce ne sono, esci pulito.
+          if git diff --staged --quiet; then
+            echo "Nessuna nuova repository trovata. Nulla da caricare."
+          else
+            # 3. Sincronizzati con eventuali modifiche remote (es. se hai modificato file via web)
+            # Usiamo --autostash per gestire i cambiamenti locali durante il pull
+            git pull --rebase --autostash origin main
+            
+            git commit -m "Update notified repos [skip ci]"
+            git push origin main
+          fi

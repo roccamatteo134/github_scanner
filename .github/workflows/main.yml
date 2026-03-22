@@ -22,5 +22,6 @@ jobs:
           git config --global user.name 'AI Scout Bot'
           git config --global user.email 'bot@noreply.github.com'
           git add database_notifiche.json
+          git pull --rebase origin main # Prende i cambiamenti fatti da te (il reset del JSON)
           git commit -m "Aggiorna database notifiche" || exit 0
           git push

@@ -5,29 +5,30 @@ import requests
 TG_TOKEN = os.getenv('TELEGRAM_TOKEN')
 TG_CHAT_ID = os.getenv('TELEGRAM_CHAT_ID')
 
-def test_send():
-    if not TG_TOKEN or not TG_CHAT_ID:
-        print(f"❌ ERRORE: Variabili mancanti!")
-        print(f"TOKEN presente: {bool(TG_TOKEN)}")
-        print(f"CHAT_ID presente: {bool(TG_CHAT_ID)}")
-        return
-
-    url = f"https://api.telegram.org/bot{TG_TOKEN}/sendMessage"
-    payload = {
-        'chat_id': TG_CHAT_ID,
-        'text': "Ciao! Se ricevi questo messaggio, il collegamento GitHub -> Telegram funziona correttamente. 🚀",
-        'parse_mode': 'Markdown'
+def send_telegram(repo_name, repo_url):
+    # Usiamo lo stesso metodo del browser: parametri nell'URL (GET)
+    token = os.getenv('TELEGRAM_TOKEN')
+    chat_id = os.getenv('TELEGRAM_CHAT_ID')
+    
+    text = f"🌟 Nuova Risorsa AI: {repo_name}\nLink: {repo_url}"
+    
+    # Costruiamo l'URL esattamente come quello del tuo test
+    url = f"https://api.telegram.org/bot{token}/sendMessage"
+    params = {
+        'chat_id': chat_id,
+        'text': text
     }
-
-    print(f"Tentativo di invio a ID: {TG_CHAT_ID}...")
+    
     try:
-        response = requests.post(url, json=payload)
+        # requests.get aggiunge automaticamente i ?chat_id=...&text=...
+        response = requests.get(url, params=params)
+        
         if response.status_code == 200:
-            print("✅ TEST SUPERATO: Messaggio inviato!")
+            print(f"✅ Notifica inviata per {repo_name}")
         else:
-            print(f"❌ TEST FALLITO: {response.status_code} - {response.text}")
+            print(f"❌ Errore: {response.status_code} - {response.text}")
     except Exception as e:
-        print(f"❌ ERRORE CRITICO: {e}")
+        print(f"❌ Errore durante l'invio: {e}")
 
 if __name__ == "__main__":
     test_send()

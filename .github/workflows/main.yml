@@ -1,24 +1,24 @@
 name: AI Scout 
 on:
   schedule:
-    - cron: '0 9,21 * * *' # Gira due volte al giorno
+    - cron: '0 6,12,18,0 * * *'
   workflow_dispatch: # Avvio manuale
 
 jobs:
   run-scout:
     runs-on: ubuntu-latest
     permissions:
-      contents: write # Necessario per permettere al bot di fare il push
+      contents: write 
     steps:
       - name: Checkout repository
         uses: actions/checkout@v3
         with:
-          fetch-depth: 0 # Recupera tutta la cronologia per evitare conflitti
+          fetch-depth: 0 
 
       - name: Set up Python
         uses: actions/setup-python@v4
         with:
-          python-version: '3.x'
+          python-version: '3.12'
 
       - name: Install dependencies
         run: pip install -r requirements.txt
@@ -34,18 +34,11 @@ jobs:
         run: |
           git config --global user.name 'AI Scout Bot'
           git config --global user.email 'bot@noreply.github.com'
-          
-          # 1. Metti in "stage" le modifiche fatte dallo script
           git add database_notifiche.json
-          
-          # 2. Se ci sono modifiche, fai il commit. Se non ce ne sono, esci pulito.
           if git diff --staged --quiet; then
             echo "Nessuna nuova repository trovata. Nulla da caricare."
           else
-            # 3. Sincronizzati con eventuali modifiche remote (es. se hai modificato file via web)
-            # Usiamo --autostash per gestire i cambiamenti locali durante il pull
             git pull --rebase --autostash origin main
-            
             git commit -m "Update notified repos [skip ci]"
             git push origin main
           fi

@@ -1,12 +1,28 @@
 import requests
 import json
 import os
+from deep_translator import GoogleTranslator
+from langdetect import detect # Nuova libreria per il rilevamento
 
 # Configurazione Secrets
 GH_TOKEN = os.getenv('GH_TOKEN')
 TG_TOKEN = os.getenv('TELEGRAM_TOKEN')
 TG_CHAT_ID = os.getenv('TELEGRAM_CHAT_ID')
 DB_FILE = 'database_notifiche.json'
+
+# Mappa delle lingue comuni per i Tag
+LANG_MAP = {
+    'en': 'Inglese',
+    'zh-cn': 'Cinese',
+    'zh-tw': 'Cinese',
+    'ja': 'Giapponese',
+    'ko': 'Coreano',
+    'fr': 'Francese',
+    'de': 'Tedesco',
+    'es': 'Spagnolo',
+    'ru': 'Russo',
+    'it': 'Italiano'
+}
 
 def get_history():
     if os.path.exists(DB_FILE):
@@ -21,18 +37,43 @@ def save_history(history):
     with open(DB_FILE, 'w', encoding='utf-8') as f:
         json.dump(list(history), f)
 
+def process_description(text):
+    """Rileva la lingua, traduce e restituisce (testo_tradotto, tag_lingua)."""
+    if not text or text.strip() == "":
+        return "Nessuna descrizione disponibile.", "N/D"
+    
+    try:
+        # 1. Rilevamento lingua
+        lang_code = detect(text)
+        orig_lang = LANG_MAP.get(lang_code, lang_code.upper())
+        
+        # 2. Traduzione se non è già italiano
+        if lang_code == 'it':
+            return text, "Italiano"
+        
+        translated = GoogleTranslator(source='auto', target='it').translate(text)
+        return translated, orig_lang
+    except Exception as e:
+        print(f"⚠️ Errore processamento testo: {e}")
+        return text, "Sconosciuta"
+
 def send_telegram(repo_name, repo_url, description):
-    """Invia il messaggio al bot Telegram via richiesta GET."""
+    """Invia il messaggio al bot Telegram."""
     if not TG_TOKEN or not TG_CHAT_ID:
-        print("❌ Errore: Variabili TELEGRAM_TOKEN o TELEGRAM_CHAT_ID mancanti.")
+        print("❌ Errore: Variabili Telegram mancanti.")
         return
 
-    # Tronca la descrizione se troppo lunga (Telegram ha dei limiti)
-    short_desc = (description[:200] + '...') if description and len(description) > 200 else (description or "Nessuna descrizione disponibile.")
+    # Processiamo descrizione e lingua
+    desc_it, lang_tag = process_description(description)
+    
+    # Tronca se troppo lunga
+    short_desc = (desc_it[:300] + '...') if len(desc_it) > 300 else desc_it
 
+    # Messaggio con Tag della lingua originale
     text = (
-        f"🌟 *Nuova Risorsa AI*: {repo_name}\n\n"
-        f"📝 *Descrizione*: {short_desc}\n\n"
+        f"🌟 *Nuova Risorsa AI*: {repo_name}\n"
+        f"🌍 *Lingua originale*: {lang_tag}\n\n"
+        f"🇮🇹 *Descrizione*: {short_desc}\n\n"
         f"🔗 [Apri su GitHub]({repo_url})"
     )
     
@@ -40,16 +81,12 @@ def send_telegram(repo_name, repo_url, description):
     params = {
         'chat_id': TG_CHAT_ID,
         'text': text,
-        'parse_mode': 'Markdown',
-        'disable_web_page_preview': False
+        'parse_mode': 'Markdown'
     }
     
     try:
-        response = requests.get(base_url, params=params, timeout=10)
-        if response.status_code == 200:
-            print(f"✅ Notifica inviata: {repo_name}")
-        else:
-            print(f"❌ ERRORE TELEGRAM: {response.status_code}")
+        requests.get(base_url, params=params, timeout=10)
+        print(f"✅ Notifica inviata: {repo_name} ({lang_tag})")
     except Exception as e:
         print(f"❌ Eccezione invio: {e}")
 
@@ -61,46 +98,32 @@ def scan():
         "topic:mcp stars:>=1500", 
         "topic:ai-agents stars:>=1500",
         "topic:copilot-extension stars:>=1500",
-        "topic:llm-tool stars:>=1500"
+        "topic:llm-tool stars:>=1500",
+        "topic:vscode-extension stars:>=1500"
     ]
 
     msg_sent_this_session = 0
-    MAX_MESSAGES = 5  # Limite di messaggi per esecuzione
+    MAX_MESSAGES = 5 
 
     for q in queries:
-        if msg_sent_this_session >= MAX_MESSAGES:
-            break
+        if msg_sent_this_session >= MAX_MESSAGES: break
 
-        for page in range(1, 11):
-            if msg_sent_this_session >= MAX_MESSAGES:
-                break
+        for page in range(1, 3): 
+            if msg_sent_this_session >= MAX_MESSAGES: break
                 
             try:
-                print(f"🔍 Scansione: {q} (Pagina {page})")
                 url = f"https://api.github.com/search/repositories?q={q}&sort=created&order=desc&per_page=100&page={page}"
                 res = requests.get(url, headers=headers, timeout=15)
                 
-                if res.status_code != 200:
-                    print(f"⚠️ Errore GitHub API: {res.status_code}")
-                    break
+                if res.status_code != 200: break
 
                 items = res.json().get('items', [])
-                if not items:
-                    break
-
                 for repo in items:
-                    if msg_sent_this_session >= MAX_MESSAGES:
-                        print("ℹ️ Raggiunto il limite di 5 messaggi per questa sessione.")
-                        break
+                    if msg_sent_this_session >= MAX_MESSAGES: break
 
                     repo_id = str(repo['id'])
                     if repo_id not in history:
-                        name = repo['full_name']
-                        link = repo['html_url']
-                        desc = repo.get('description', "Nessuna descrizione.")
-                        
-                        send_telegram(name, link, desc)
-                        
+                        send_telegram(repo['full_name'], repo['html_url'], repo.get('description'))
                         history.add(repo_id)
                         msg_sent_this_session += 1
                         

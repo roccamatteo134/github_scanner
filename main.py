@@ -95,11 +95,11 @@ def scan():
     headers = {'Authorization': f'token {GH_TOKEN}'} if GH_TOKEN else {}
     
     queries = [
-        "topic:mcp stars:>=1500", 
-        "topic:ai-agents stars:>=1500",
-        "topic:copilot-extension stars:>=1500",
-        "topic:llm-tool stars:>=1500",
-        "topic:vscode-extension stars:>=1500"
+        "topic:mcp stars:>=1000", 
+        "topic:ai-agents stars:>=1000",
+        "topic:copilot-extension stars:>=1000",
+        "topic:llm-tool stars:>=1000",
+        "topic:vscode-extension stars:>=1000"
     ]
 
     msg_sent_this_session = 0

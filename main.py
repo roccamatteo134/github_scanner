@@ -2,13 +2,15 @@ import requests
 import json
 import os
 from deep_translator import GoogleTranslator
-from langdetect import detect # Nuova libreria per il rilevamento
+from langdetect import detect
+from datetime import datetime, timezone
+import xml.etree.ElementTree as ET
 
-# Configurazione Secrets
+# Configurazione
 GH_TOKEN = os.getenv('GH_TOKEN')
-TG_TOKEN = os.getenv('TELEGRAM_TOKEN')
-TG_CHAT_ID = os.getenv('TELEGRAM_CHAT_ID')
 DB_FILE = 'database_notifiche.json'
+RSS_FILE = 'feed.xml'
+MAX_FEED_ITEMS = 100
 
 # Mappa delle lingue comuni per i Tag
 LANG_MAP = {
@@ -25,17 +27,23 @@ LANG_MAP = {
 }
 
 def get_history():
+    """Returns set of already-seen repo URLs from feed.xml guids.
+    Falls back to legacy numeric IDs from DB_FILE if feed doesn't exist yet."""
+    if os.path.exists(RSS_FILE):
+        try:
+            tree = ET.parse(RSS_FILE)
+            channel = tree.getroot().find('channel')
+            return {item.findtext('guid') for item in channel.findall('item') if item.findtext('guid')}
+        except ET.ParseError:
+            pass
+    # Legacy fallback before first migration
     if os.path.exists(DB_FILE):
         try:
             with open(DB_FILE, 'r', encoding='utf-8') as f:
                 return set(json.load(f))
         except:
-            return set()
+            pass
     return set()
-
-def save_history(history):
-    with open(DB_FILE, 'w', encoding='utf-8') as f:
-        json.dump(list(history), f)
 
 def process_description(text):
     """Rileva la lingua, traduce e restituisce (testo_tradotto, tag_lingua)."""
@@ -57,38 +65,103 @@ def process_description(text):
         print(f"⚠️ Errore processamento testo: {e}")
         return text, "Sconosciuta"
 
-def send_telegram(repo_name, repo_url, description):
-    """Invia il messaggio al bot Telegram."""
-    if not TG_TOKEN or not TG_CHAT_ID:
-        print("❌ Errore: Variabili Telegram mancanti.")
+def load_or_create_feed():
+    """Carica il feed RSS esistente o ne crea uno nuovo."""
+    if os.path.exists(RSS_FILE):
+        try:
+            return ET.parse(RSS_FILE)
+        except ET.ParseError:
+            pass
+
+    rss = ET.Element('rss')
+    rss.set('version', '2.0')
+    channel = ET.SubElement(rss, 'channel')
+    ET.SubElement(channel, 'title').text = 'GitHub AI Scanner'
+    ET.SubElement(channel, 'link').text = 'https://github.com'
+    ET.SubElement(channel, 'description').text = 'Nuove risorse AI trovate su GitHub'
+    ET.SubElement(channel, 'language').text = 'it'
+    ET.SubElement(channel, 'lastBuildDate').text = datetime.now(timezone.utc).strftime('%a, %d %b %Y %H:%M:%S +0000')
+    return ET.ElementTree(rss)
+
+def add_to_feed(repo_name, repo_url, description, stars):
+    """Aggiunge un nuovo elemento al feed RSS."""
+    tree = load_or_create_feed()
+    channel = tree.getroot().find('channel')
+
+    # Aggiorna lastBuildDate
+    now_str = datetime.now(timezone.utc).strftime('%a, %d %b %Y %H:%M:%S +0000')
+    last_build = channel.find('lastBuildDate')
+    if last_build is not None:
+        last_build.text = now_str
+
+    # Skip if already present in feed
+    if any(i.findtext('guid') == repo_url for i in channel.findall('item')):
         return
 
-    # Processiamo descrizione e lingua
     desc_it, lang_tag = process_description(description)
-    
-    # Tronca se troppo lunga
-    short_desc = (desc_it[:300] + '...') if len(desc_it) > 300 else desc_it
+    short_desc = (desc_it[:500] + '...') if len(desc_it) > 500 else desc_it
 
-    # Messaggio con Tag della lingua originale
-    text = (
-        f"🌟 *Nuova Risorsa AI*: {repo_name}\n"
-        f"🌍 *Lingua originale*: {lang_tag}\n\n"
-        f"🇮🇹 *Descrizione*: {short_desc}\n\n"
-        f"🔗 [Apri su GitHub]({repo_url})"
-    )
-    
-    base_url = f"https://api.telegram.org/bot{TG_TOKEN}/sendMessage"
-    params = {
-        'chat_id': TG_CHAT_ID,
-        'text': text,
-        'parse_mode': 'Markdown'
-    }
-    
-    try:
-        requests.get(base_url, params=params, timeout=10)
-        print(f"✅ Notifica inviata: {repo_name} ({lang_tag})")
-    except Exception as e:
-        print(f"❌ Eccezione invio: {e}")
+    item = ET.Element('item')
+    ET.SubElement(item, 'title').text = f"[{lang_tag}] {repo_name}"
+    ET.SubElement(item, 'link').text = repo_url
+    ET.SubElement(item, 'description').text = f"⭐ {stars} stelle | Lingua originale: {lang_tag}\n\n{short_desc}"
+    ET.SubElement(item, 'guid').text = repo_url
+    ET.SubElement(item, 'pubDate').text = now_str
+
+    # Inserisci in testa (più recenti prima)
+    existing_items = channel.findall('item')
+    if existing_items:
+        channel.insert(list(channel).index(existing_items[0]), item)
+    else:
+        channel.append(item)
+
+    # Mantieni al massimo MAX_FEED_ITEMS elementi
+    for old in channel.findall('item')[MAX_FEED_ITEMS:]:
+        channel.remove(old)
+
+    ET.indent(tree, space='  ')
+    tree.write(RSS_FILE, encoding='utf-8', xml_declaration=True)
+    print(f"✅ Aggiunto al feed: {repo_name} ({lang_tag})")
+
+def migrate_db_to_feed():
+    """Legge i repo già elaborati dal DB legacy, li importa nel feed RSS e rimuove il DB."""
+    if not os.path.exists(DB_FILE):
+        return
+
+    with open(DB_FILE, 'r', encoding='utf-8') as f:
+        ids = json.load(f)
+
+    if not ids:
+        os.remove(DB_FILE)
+        return
+
+    headers = {'Authorization': f'token {GH_TOKEN}'} if GH_TOKEN else {}
+    print(f"🔄 Migrazione di {len(ids)} repo dal database al feed RSS...")
+    imported = 0
+
+    for repo_id in ids:
+        try:
+            res = requests.get(
+                f"https://api.github.com/repositories/{repo_id}",
+                headers=headers,
+                timeout=10
+            )
+            if res.status_code == 200:
+                repo = res.json()
+                add_to_feed(
+                    repo['full_name'],
+                    repo['html_url'],
+                    repo.get('description'),
+                    repo.get('stargazers_count', 0)
+                )
+                imported += 1
+            else:
+                print(f"⚠️ Repo {repo_id} non trovata (HTTP {res.status_code})")
+        except Exception as e:
+            print(f"⚠️ Errore recupero repo {repo_id}: {e}")
+
+    os.remove(DB_FILE)
+    print(f"✅ Migrazione completata: {imported}/{len(ids)} repo importati. {DB_FILE} rimosso.")
 
 def scan():
     history = get_history()
@@ -121,17 +194,16 @@ def scan():
                 for repo in items:
                     if msg_sent_this_session >= MAX_MESSAGES: break
 
-                    repo_id = str(repo['id'])
-                    if repo_id not in history:
-                        send_telegram(repo['full_name'], repo['html_url'], repo.get('description'))
-                        history.add(repo_id)
+                    repo_url = repo['html_url']
+                    if repo_url not in history:
+                        add_to_feed(repo['full_name'], repo_url, repo.get('description'), repo.get('stargazers_count', 0))
+                        history.add(repo_url)
                         msg_sent_this_session += 1
                         
             except Exception as e:
                 print(f"Errore query {q}: {e}")
                 break
 
-    save_history(history)
-
 if __name__ == "__main__":
+    migrate_db_to_feed()
     scan()

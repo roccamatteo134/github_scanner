@@ -114,12 +114,18 @@ def add_to_feed(repo_name, repo_url, description, stars):
         return
 
     desc_it, lang_tag = process_description(description)
-    short_desc = (desc_it[:500] + '...') if len(desc_it) > 500 else desc_it
+    short_desc = sanitize_xml_text((desc_it[:500] + '...') if len(desc_it) > 500 else desc_it)
+
+    desc_text = (
+        f"{stars} stelle | Lingua originale: {lang_tag}\n"
+        f"{short_desc}\n"
+        f"Link: {repo_url}"
+    )
 
     item = ET.Element('item')
-    ET.SubElement(item, 'title').text = f"[{lang_tag}] {repo_name}"
+    ET.SubElement(item, 'title').text = repo_name
     ET.SubElement(item, 'link').text = repo_url
-    ET.SubElement(item, 'description').text = sanitize_xml_text(f"{stars} stelle | Lingua originale: {lang_tag} - {short_desc}")
+    ET.SubElement(item, 'description').text = desc_text
     ET.SubElement(item, 'guid').text = repo_url
     ET.SubElement(item, 'pubDate').text = now_str
 

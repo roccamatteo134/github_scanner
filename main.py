@@ -10,7 +10,7 @@ import xml.etree.ElementTree as ET
 GH_TOKEN = os.getenv('GH_TOKEN')
 DB_FILE = 'database_notifiche.json'
 RSS_FILE = 'feed.xml'
-MAX_FEED_ITEMS = 100
+MAX_FEED_ITEMS = 50
 
 # Mappa delle lingue comuni per i Tag
 LANG_MAP = {

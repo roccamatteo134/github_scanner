@@ -28,13 +28,17 @@ LANG_MAP = {
 }
 
 def sanitize_xml_text(text):
-    """Rimuove caratteri non validi in XML 1.0 e normalizza gli a capo."""
+    """Rimuove caratteri non validi in XML 1.0, emoji e normalizza gli a capo."""
     if not text:
         return text
-    # Rimuove caratteri di controllo non permessi in XML 1.0
-    text = re.sub(r'[\x00-\x08\x0b\x0c\x0e-\x1f\x7f-\x84\x86-\x9f\ufffe\uffff]', '', text)
+    # Rimuove caratteri di controllo non permessi in XML 1.0 (raw string ok: \x is valid regex escape)
+    text = re.sub(r'[\x00-\x08\x0b\x0c\x0e-\x1f]', '', text)
+    # Rimuove emoji non-BMP (es. 🦍🚀📦) — stringa NON-raw: \U viene espanso da Python
+    text = re.sub('[\U00010000-\U0010FFFF]', '', text)
+    # Rimuove emoji e simboli BMP (stelle, frecce, dingbats, varianti) — stringa NON-raw
+    text = re.sub('[\u2194-\u27FF\u2B00-\u2BFF\u3030\u303D\u3297\u3299\uFE00-\uFE0F]', '', text)
     # Sostituisce doppi a capo con separatore leggibile
-    text = text.replace('\n\n', ' — ').replace('\n', ' ')
+    text = text.replace('\n\n', ' - ').replace('\n', ' ')
     return text
 
 def get_history():
@@ -73,7 +77,7 @@ def process_description(text):
         translated = GoogleTranslator(source='auto', target='it').translate(text)
         return translated, orig_lang
     except Exception as e:
-        print(f"⚠️ Errore processamento testo: {e}")
+        print(f"[WARN] Errore processamento testo: {e}")
         return text, "Sconosciuta"
 
 def load_or_create_feed():
@@ -115,7 +119,7 @@ def add_to_feed(repo_name, repo_url, description, stars):
     item = ET.Element('item')
     ET.SubElement(item, 'title').text = f"[{lang_tag}] {repo_name}"
     ET.SubElement(item, 'link').text = repo_url
-    ET.SubElement(item, 'description').text = sanitize_xml_text(f"⭐ {stars} stelle | Lingua originale: {lang_tag} — {short_desc}")
+    ET.SubElement(item, 'description').text = sanitize_xml_text(f"{stars} stelle | Lingua originale: {lang_tag} - {short_desc}")
     ET.SubElement(item, 'guid').text = repo_url
     ET.SubElement(item, 'pubDate').text = now_str
 
@@ -132,7 +136,7 @@ def add_to_feed(repo_name, repo_url, description, stars):
 
     ET.indent(tree, space='  ')
     tree.write(RSS_FILE, encoding='utf-8', xml_declaration=True)
-    print(f"✅ Aggiunto al feed: {repo_name} ({lang_tag})")
+    print(f"[OK] Aggiunto al feed: {repo_name} ({lang_tag})")
 
 def migrate_db_to_feed():
     """Legge i repo già elaborati dal DB legacy, li importa nel feed RSS e rimuove il DB."""
@@ -147,7 +151,7 @@ def migrate_db_to_feed():
         return
 
     headers = {'Authorization': f'token {GH_TOKEN}'} if GH_TOKEN else {}
-    print(f"🔄 Migrazione di {len(ids)} repo dal database al feed RSS...")
+    print(f"[...] Migrazione di {len(ids)} repo dal database al feed RSS...")
     imported = 0
 
     for repo_id in ids:
@@ -167,12 +171,12 @@ def migrate_db_to_feed():
                 )
                 imported += 1
             else:
-                print(f"⚠️ Repo {repo_id} non trovata (HTTP {res.status_code})")
+                print(f"[WARN] Repo {repo_id} non trovata (HTTP {res.status_code})")
         except Exception as e:
-            print(f"⚠️ Errore recupero repo {repo_id}: {e}")
+            print(f"[WARN] Errore recupero repo {repo_id}: {e}")
 
     os.remove(DB_FILE)
-    print(f"✅ Migrazione completata: {imported}/{len(ids)} repo importati. {DB_FILE} rimosso.")
+    print(f"[OK] Migrazione completata: {imported}/{len(ids)} repo importati. {DB_FILE} rimosso.")
 
 def scan():
     history = get_history()
@@ -233,7 +237,7 @@ def repair_feed():
     if changed:
         ET.indent(tree, space='  ')
         tree.write(RSS_FILE, encoding='utf-8', xml_declaration=True)
-        print("✅ feed.xml riparato: rimossi a capo dalle descrizioni.")
+        print("[OK] feed.xml riparato: rimossi a capo dalle descrizioni.")
 
 if __name__ == "__main__":
     repair_feed()

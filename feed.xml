@@ -1,11 +1,46 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0">
   <channel>
     <title>GitHub AI Scanner</title>
     <link>https://github.com</link>
     <description>Nuove risorse AI trovate su GitHub</description>
     <language>it</language>
-    <lastBuildDate>Fri, 27 Mar 2026 18:29:04 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Mar 2026 19:53:33 +0000</lastBuildDate>
+    <item>
+      <title>[Inglese] bytedance/UI-TARS-desktop</title>
+      <link>https://github.com/bytedance/UI-TARS-desktop</link>
+      <description>29130 stelle | Lingua originale: Inglese - Lo stack di agenti IA multimodali open source: connessione di modelli IA all'avanguardia e infrastruttura di agenti</description>
+      <guid>https://github.com/bytedance/UI-TARS-desktop</guid>
+      <pubDate>Fri, 27 Mar 2026 19:53:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Inglese] D4Vinci/Scrapling</title>
+      <link>https://github.com/D4Vinci/Scrapling</link>
+      <description>33354 stelle | Lingua originale: Inglese -  Un framework di Web Scraping adattivo che gestisce qualsiasi cosa, da una singola richiesta a una scansione su vasta scala!</description>
+      <guid>https://github.com/D4Vinci/Scrapling</guid>
+      <pubDate>Fri, 27 Mar 2026 19:53:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Inglese] danny-avila/LibreChat</title>
+      <link>https://github.com/danny-avila/LibreChat</link>
+      <description>35009 stelle | Lingua originale: Inglese - Clone ChatGPT avanzato: funzionalità agenti, MCP, DeepSeek, Anthropic, AWS, OpenAI, API di risposta, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, cambio di modello AI, ricerca di messaggi, interprete di codice, langchain, DALL-E-3, azioni OpenAPI, funzioni, autenticazione multiutente sicura, preimpostazioni, open source per self-hosting. Attivo.</description>
+      <guid>https://github.com/danny-avila/LibreChat</guid>
+      <pubDate>Fri, 27 Mar 2026 19:53:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Inglese] mindsdb/mindsdb</title>
+      <link>https://github.com/mindsdb/mindsdb</link>
+      <description>38845 stelle | Lingua originale: Inglese - Motore di query per analisi AI: crea agenti auto-ragionanti su tutti i tuoi dati in tempo reale</description>
+      <guid>https://github.com/mindsdb/mindsdb</guid>
+      <pubDate>Fri, 27 Mar 2026 19:53:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Inglese] n8n-io/n8n</title>
+      <link>https://github.com/n8n-io/n8n</link>
+      <description>181397 stelle | Lingua originale: Inglese - Piattaforma di automazione del flusso di lavoro Fair-Code con funzionalità IA native. Combina la creazione visiva con codice personalizzato, self-host o cloud, oltre 400 integrazioni.</description>
+      <guid>https://github.com/n8n-io/n8n</guid>
+      <pubDate>Fri, 27 Mar 2026 19:53:33 +0000</pubDate>
+    </item>
     <item>
       <title>zhayujie/chatgpt-on-wechat</title>
       <link>https://github.com/zhayujie/chatgpt-on-wechat</link>

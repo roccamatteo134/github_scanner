@@ -1,3 +1,4 @@
+import re
 import requests
 import json
 import os
@@ -25,6 +26,16 @@ LANG_MAP = {
     'ru': 'Russo',
     'it': 'Italiano'
 }
+
+def sanitize_xml_text(text):
+    """Rimuove caratteri non validi in XML 1.0 e normalizza gli a capo."""
+    if not text:
+        return text
+    # Rimuove caratteri di controllo non permessi in XML 1.0
+    text = re.sub(r'[\x00-\x08\x0b\x0c\x0e-\x1f\x7f-\x84\x86-\x9f\ufffe\uffff]', '', text)
+    # Sostituisce doppi a capo con separatore leggibile
+    text = text.replace('\n\n', ' — ').replace('\n', ' ')
+    return text
 
 def get_history():
     """Returns set of already-seen repo URLs from feed.xml guids.
@@ -104,7 +115,7 @@ def add_to_feed(repo_name, repo_url, description, stars):
     item = ET.Element('item')
     ET.SubElement(item, 'title').text = f"[{lang_tag}] {repo_name}"
     ET.SubElement(item, 'link').text = repo_url
-    ET.SubElement(item, 'description').text = f"⭐ {stars} stelle | Lingua originale: {lang_tag}\n\n{short_desc}"
+    ET.SubElement(item, 'description').text = sanitize_xml_text(f"⭐ {stars} stelle | Lingua originale: {lang_tag} — {short_desc}")
     ET.SubElement(item, 'guid').text = repo_url
     ET.SubElement(item, 'pubDate').text = now_str
 
@@ -204,6 +215,27 @@ def scan():
                 print(f"Errore query {q}: {e}")
                 break
 
+def repair_feed():
+    """Normalizza le descrizioni nel feed.xml esistente per garantire XML ben formato."""
+    if not os.path.exists(RSS_FILE):
+        return
+    try:
+        tree = ET.parse(RSS_FILE)
+    except ET.ParseError:
+        return
+    channel = tree.getroot().find('channel')
+    changed = False
+    for item in channel.findall('item'):
+        desc = item.find('description')
+        if desc is not None and desc.text and '\n' in desc.text:
+            desc.text = sanitize_xml_text(desc.text)
+            changed = True
+    if changed:
+        ET.indent(tree, space='  ')
+        tree.write(RSS_FILE, encoding='utf-8', xml_declaration=True)
+        print("✅ feed.xml riparato: rimossi a capo dalle descrizioni.")
+
 if __name__ == "__main__":
+    repair_feed()
     migrate_db_to_feed()
     scan()

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0">
   <channel>
     <title>GitHub AI Scanner</title>
@@ -7,35 +7,35 @@
     <language>it</language>
     <lastBuildDate>Fri, 27 Mar 2026 19:53:33 +0000</lastBuildDate>
     <item>
-      <title>[Inglese] bytedance/UI-TARS-desktop</title>
+      <title>bytedance/UI-TARS-desktop</title>
       <link>https://github.com/bytedance/UI-TARS-desktop</link>
       <description>29130 stelle | Lingua originale: Inglese - Lo stack di agenti IA multimodali open source: connessione di modelli IA all'avanguardia e infrastruttura di agenti</description>
       <guid>https://github.com/bytedance/UI-TARS-desktop</guid>
       <pubDate>Fri, 27 Mar 2026 19:53:33 +0000</pubDate>
     </item>
     <item>
-      <title>[Inglese] D4Vinci/Scrapling</title>
+      <title>D4Vinci/Scrapling</title>
       <link>https://github.com/D4Vinci/Scrapling</link>
       <description>33354 stelle | Lingua originale: Inglese -  Un framework di Web Scraping adattivo che gestisce qualsiasi cosa, da una singola richiesta a una scansione su vasta scala!</description>
       <guid>https://github.com/D4Vinci/Scrapling</guid>
       <pubDate>Fri, 27 Mar 2026 19:53:33 +0000</pubDate>
     </item>
     <item>
-      <title>[Inglese] danny-avila/LibreChat</title>
+      <title>danny-avila/LibreChat</title>
       <link>https://github.com/danny-avila/LibreChat</link>
       <description>35009 stelle | Lingua originale: Inglese - Clone ChatGPT avanzato: funzionalità agenti, MCP, DeepSeek, Anthropic, AWS, OpenAI, API di risposta, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, cambio di modello AI, ricerca di messaggi, interprete di codice, langchain, DALL-E-3, azioni OpenAPI, funzioni, autenticazione multiutente sicura, preimpostazioni, open source per self-hosting. Attivo.</description>
       <guid>https://github.com/danny-avila/LibreChat</guid>
       <pubDate>Fri, 27 Mar 2026 19:53:33 +0000</pubDate>
     </item>
     <item>
-      <title>[Inglese] mindsdb/mindsdb</title>
+      <title>mindsdb/mindsdb</title>
       <link>https://github.com/mindsdb/mindsdb</link>
       <description>38845 stelle | Lingua originale: Inglese - Motore di query per analisi AI: crea agenti auto-ragionanti su tutti i tuoi dati in tempo reale</description>
       <guid>https://github.com/mindsdb/mindsdb</guid>
       <pubDate>Fri, 27 Mar 2026 19:53:33 +0000</pubDate>
     </item>
     <item>
-      <title>[Inglese] n8n-io/n8n</title>
+      <title>n8n-io/n8n</title>
       <link>https://github.com/n8n-io/n8n</link>
       <description>181397 stelle | Lingua originale: Inglese - Piattaforma di automazione del flusso di lavoro Fair-Code con funzionalità IA native. Combina la creazione visiva con codice personalizzato, self-host o cloud, oltre 400 integrazioni.</description>
       <guid>https://github.com/n8n-io/n8n</guid>
@@ -44,450 +44,350 @@
     <item>
       <title>zhayujie/chatgpt-on-wechat</title>
       <link>https://github.com/zhayujie/chatgpt-on-wechat</link>
-      <description>42588 stelle | Lingua originale: VI
-CowAgent è un super assistente AI basato su modelli di grandi dimensioni. Può pensare e pianificare in modo proattivo le attività, accedere al sistema operativo e alle risorse esterne, creare ed eseguire competenze, avere memoria a lungo termine e continuare a crescere. È più leggero e più conveniente di OpenClaw. Allo stesso tempo, supporta l'accesso a WeChat, Feishu, DingTalk, Qiwei, QQ, account ufficiali, pagine web, ecc. Puoi scegliere OpenAI/Claude/Gemini/DeepSeek/Qwen/GLM/Kimi/LinkAI, che ...
-Link: https://github.com/zhayujie/chatgpt-on-wechat</description>
+      <description>42588 stelle | Lingua originale: VI | CowAgent è un super assistente AI basato su modelli di grandi dimensioni. Può pensare e pianificare in modo proattivo le attività, accedere al sistema operativo e alle risorse esterne, creare ed eseguire competenze, avere memoria a lungo termine e continuare a crescere. È più leggero e più conveniente di OpenClaw. Allo stesso tempo, supporta l'accesso a WeChat, Feishu, DingTalk, Qiwei, QQ, account ufficiali, pagine web, ecc. Puoi scegliere OpenAI/Claude/Gemini/DeepSeek/Qwen/GLM/Kimi/LinkAI, che ... | Link: https://github.com/zhayujie/chatgpt-on-wechat</description>
       <guid>https://github.com/zhayujie/chatgpt-on-wechat</guid>
       <pubDate>Fri, 27 Mar 2026 18:29:04 +0000</pubDate>
     </item>
     <item>
       <title>Kong/kong</title>
       <link>https://github.com/Kong/kong</link>
-      <description>43057 stelle | Lingua originale: Inglese
-API e gateway AI
-Link: https://github.com/Kong/kong</description>
+      <description>43057 stelle | Lingua originale: Inglese | API e gateway AI | Link: https://github.com/Kong/kong</description>
       <guid>https://github.com/Kong/kong</guid>
       <pubDate>Fri, 27 Mar 2026 18:29:03 +0000</pubDate>
     </item>
     <item>
       <title>mudler/LocalAI</title>
       <link>https://github.com/mudler/LocalAI</link>
-      <description>44482 stelle | Lingua originale: Inglese
-LocalAI è il motore AI open source. Esegui qualsiasi modello (LLM, visione, voce, immagini, video) su qualsiasi hardware. Nessuna GPU richiesta.
-Link: https://github.com/mudler/LocalAI</description>
+      <description>44482 stelle | Lingua originale: Inglese | LocalAI è il motore AI open source. Esegui qualsiasi modello (LLM, visione, voce, immagini, video) su qualsiasi hardware. Nessuna GPU richiesta. | Link: https://github.com/mudler/LocalAI</description>
       <guid>https://github.com/mudler/LocalAI</guid>
       <pubDate>Fri, 27 Mar 2026 18:29:02 +0000</pubDate>
     </item>
     <item>
       <title>upstash/context7</title>
       <link>https://github.com/upstash/context7</link>
-      <description>50823 stelle | Lingua originale: Inglese
-Piattaforma Context7: documentazione aggiornata del codice per LLM ed editor di codice AI
-Link: https://github.com/upstash/context7</description>
+      <description>50823 stelle | Lingua originale: Inglese | Piattaforma Context7: documentazione aggiornata del codice per LLM ed editor di codice AI | Link: https://github.com/upstash/context7</description>
       <guid>https://github.com/upstash/context7</guid>
       <pubDate>Fri, 27 Mar 2026 18:29:01 +0000</pubDate>
     </item>
     <item>
       <title>infiniflow/ragflow</title>
       <link>https://github.com/infiniflow/ragflow</link>
-      <description>76405 stelle | Lingua originale: Inglese
-RAGFlow è un motore RAG (Retrieval-Augmented Generation) open source leader che fonde RAG all'avanguardia con funzionalità dell'agente per creare un livello di contesto superiore per LLM
-Link: https://github.com/infiniflow/ragflow</description>
+      <description>76405 stelle | Lingua originale: Inglese | RAGFlow è un motore RAG (Retrieval-Augmented Generation) open source leader che fonde RAG all'avanguardia con funzionalità dell'agente per creare un livello di contesto superiore per LLM | Link: https://github.com/infiniflow/ragflow</description>
       <guid>https://github.com/infiniflow/ragflow</guid>
       <pubDate>Fri, 27 Mar 2026 18:28:59 +0000</pubDate>
     </item>
     <item>
       <title>jeecgboot/JeecgBoot</title>
       <link>https://github.com/jeecgboot/JeecgBoot</link>
-      <description>45594 stelle | Lingua originale: Cinese
-Una piattaforma low-code basata sull'intelligenza artificiale che fornisce la doppia modalità di "codice zero" e "generazione codice": la modalità codice zero costruisce il sistema in una frase e la modalità di generazione codice genera automaticamente i codici front-end e back-end e l'SQL di creazione di tabelle, che può essere generato ed eseguito. La piattaforma dispone di assistente chat AI integrato, modello di grandi dimensioni AI, base di conoscenza, orchestrazione dei processi AI, MCP e ...
-Link: https://github.com/jeecgboot/JeecgBoot</description>
+      <description>45594 stelle | Lingua originale: Cinese | Una piattaforma low-code basata sull'intelligenza artificiale che fornisce la doppia modalità di "codice zero" e "generazione codice": la modalità codice zero costruisce il sistema in una frase e la modalità di generazione codice genera automaticamente i codici front-end e back-end e l'SQL di creazione di tabelle, che può essere generato ed eseguito. La piattaforma dispone di assistente chat AI integrato, modello di grandi dimensioni AI, base di conoscenza, orchestrazione dei processi AI, MCP e ... | Link: https://github.com/jeecgboot/JeecgBoot</description>
       <guid>https://github.com/jeecgboot/JeecgBoot</guid>
       <pubDate>Fri, 27 Mar 2026 18:20:22 +0000</pubDate>
     </item>
     <item>
       <title>netdata/netdata</title>
       <link>https://github.com/netdata/netdata</link>
-      <description>78233 stelle | Lingua originale: Inglese
-Il percorso più veloce verso l'osservabilità dell'intero stack basato sull'intelligenza artificiale, anche per i team snelli.
-Link: https://github.com/netdata/netdata</description>
+      <description>78233 stelle | Lingua originale: Inglese | Il percorso più veloce verso l'osservabilità dell'intero stack basato sull'intelligenza artificiale, anche per i team snelli. | Link: https://github.com/netdata/netdata</description>
       <guid>https://github.com/netdata/netdata</guid>
       <pubDate>Fri, 27 Mar 2026 18:20:22 +0000</pubDate>
     </item>
     <item>
       <title>affaan-m/everything-claude-code</title>
       <link>https://github.com/affaan-m/everything-claude-code</link>
-      <description>111942 stelle | Lingua originale: Inglese
-Il sistema di ottimizzazione delle prestazioni del cablaggio dell'agente. Competenze, istinto, memoria, sicurezza e sviluppo incentrato sulla ricerca per Claude Code, Codex, Opencode, Cursor e oltre.
-Link: https://github.com/affaan-m/everything-claude-code</description>
+      <description>111942 stelle | Lingua originale: Inglese | Il sistema di ottimizzazione delle prestazioni del cablaggio dell'agente. Competenze, istinto, memoria, sicurezza e sviluppo incentrato sulla ricerca per Claude Code, Codex, Opencode, Cursor e oltre. | Link: https://github.com/affaan-m/everything-claude-code</description>
       <guid>https://github.com/affaan-m/everything-claude-code</guid>
       <pubDate>Fri, 27 Mar 2026 18:20:22 +0000</pubDate>
     </item>
     <item>
       <title>open-webui/open-webui</title>
       <link>https://github.com/open-webui/open-webui</link>
-      <description>128968 stelle | Lingua originale: Inglese
-Interfaccia AI intuitiva (supporta Ollama, API OpenAI, ...)
-Link: https://github.com/open-webui/open-webui</description>
+      <description>128968 stelle | Lingua originale: Inglese | Interfaccia AI intuitiva (supporta Ollama, API OpenAI, ...) | Link: https://github.com/open-webui/open-webui</description>
       <guid>https://github.com/open-webui/open-webui</guid>
       <pubDate>Fri, 27 Mar 2026 18:20:22 +0000</pubDate>
     </item>
     <item>
       <title>langgenius/dify</title>
       <link>https://github.com/langgenius/dify</link>
-      <description>134741 stelle | Lingua originale: Inglese
-Piattaforma pronta per la produzione per lo sviluppo del flusso di lavoro degli agenti.
-Link: https://github.com/langgenius/dify</description>
+      <description>134741 stelle | Lingua originale: Inglese | Piattaforma pronta per la produzione per lo sviluppo del flusso di lavoro degli agenti. | Link: https://github.com/langgenius/dify</description>
       <guid>https://github.com/langgenius/dify</guid>
       <pubDate>Fri, 27 Mar 2026 18:20:22 +0000</pubDate>
     </item>
     <item>
       <title>farion1231/cc-switch</title>
       <link>https://github.com/farion1231/cc-switch</link>
-      <description>34438 stelle | Lingua originale: Inglese
-Uno strumento di assistente all-in-one desktop multipiattaforma per Claude Code, Codex, OpenCode, openclaw e Gemini CLI.
-Link: https://github.com/farion1231/cc-switch</description>
+      <description>34438 stelle | Lingua originale: Inglese | Uno strumento di assistente all-in-one desktop multipiattaforma per Claude Code, Codex, OpenCode, openclaw e Gemini CLI. | Link: https://github.com/farion1231/cc-switch</description>
       <guid>https://github.com/farion1231/cc-switch</guid>
       <pubDate>Fri, 27 Mar 2026 18:20:17 +0000</pubDate>
     </item>
     <item>
       <title>googleapis/genai-toolbox</title>
       <link>https://github.com/googleapis/genai-toolbox</link>
-      <description>13557 stelle | Lingua originale: Inglese
-MCP Toolbox for Databases è un server MCP open source per database.
-Link: https://github.com/googleapis/genai-toolbox</description>
+      <description>13557 stelle | Lingua originale: Inglese | MCP Toolbox for Databases è un server MCP open source per database. | Link: https://github.com/googleapis/genai-toolbox</description>
       <guid>https://github.com/googleapis/genai-toolbox</guid>
       <pubDate>Fri, 27 Mar 2026 18:20:16 +0000</pubDate>
     </item>
     <item>
       <title>PDFMathTranslate/PDFMathTranslate</title>
       <link>https://github.com/PDFMathTranslate/PDFMathTranslate</link>
-      <description>32521 stelle | Lingua originale: Inglese
-[Demo EMNLP 2025] Traduzione di articoli scientifici in PDF con formati preservati - Traduzione bilingue del testo completo di documenti PDF basata sull'intelligenza artificiale che mantiene completamente la composizione, supporta Google/DeepL/Ollama/OpenAI e altri servizi e fornisce CLI/GUI/MCP/Docker/Zotero
-Link: https://github.com/PDFMathTranslate/PDFMathTranslate</description>
+      <description>32521 stelle | Lingua originale: Inglese | [Demo EMNLP 2025] Traduzione di articoli scientifici in PDF con formati preservati - Traduzione bilingue del testo completo di documenti PDF basata sull'intelligenza artificiale che mantiene completamente la composizione, supporta Google/DeepL/Ollama/OpenAI e altri servizi e fornisce CLI/GUI/MCP/Docker/Zotero | Link: https://github.com/PDFMathTranslate/PDFMathTranslate</description>
       <guid>https://github.com/PDFMathTranslate/PDFMathTranslate</guid>
       <pubDate>Fri, 27 Mar 2026 18:20:14 +0000</pubDate>
     </item>
     <item>
       <title>sansan0/TrendRadar</title>
       <link>https://github.com/sansan0/TrendRadar</link>
-      <description>49849 stelle | Lingua originale: NO
-Monitoraggio dell'opinione pubblica e delle tendenze basato sull'intelligenza artificiale con aggregazione multipiattaforma, RSS e avvisi intelligenti.  Dì addio al sovraccarico di informazioni con il tuo assistente per il monitoraggio dell'opinione pubblica basato sull'intelligenza artificiale e lo strumento di screening degli hot spot! Aggrega hotspot multipiattaforma + abbonamenti RSS per supportare un preciso filtraggio delle parole chiave. Screening di notizie intelligenti tramite intell...
-Link: https://github.com/sansan0/TrendRadar</description>
+      <description>49849 stelle | Lingua originale: NO | Monitoraggio dell'opinione pubblica e delle tendenze basato sull'intelligenza artificiale con aggregazione multipiattaforma, RSS e avvisi intelligenti.  Dì addio al sovraccarico di informazioni con il tuo assistente per il monitoraggio dell'opinione pubblica basato sull'intelligenza artificiale e lo strumento di screening degli hot spot! Aggrega hotspot multipiattaforma + abbonamenti RSS per supportare un preciso filtraggio delle parole chiave. Screening di notizie intelligenti tramite intell... | Link: https://github.com/sansan0/TrendRadar</description>
       <guid>https://github.com/sansan0/TrendRadar</guid>
       <pubDate>Fri, 27 Mar 2026 18:20:11 +0000</pubDate>
     </item>
     <item>
       <title>triggerdotdev/trigger.dev</title>
       <link>https://github.com/triggerdotdev/trigger.dev</link>
-      <description>14248 stelle | Lingua originale: Inglese
-Trigger.dev: crea e distribuisci agenti e flussi di lavoro IA completamente gestiti
-Link: https://github.com/triggerdotdev/trigger.dev</description>
+      <description>14248 stelle | Lingua originale: Inglese | Trigger.dev: crea e distribuisci agenti e flussi di lavoro IA completamente gestiti | Link: https://github.com/triggerdotdev/trigger.dev</description>
       <guid>https://github.com/triggerdotdev/trigger.dev</guid>
       <pubDate>Fri, 27 Mar 2026 18:20:10 +0000</pubDate>
     </item>
     <item>
       <title>idosal/git-mcp</title>
       <link>https://github.com/idosal/git-mcp</link>
-      <description>7841 stelle | Lingua originale: Inglese
-Metti fine alle allucinazioni del codice! GitMCP è un server MCP remoto gratuito, open source per qualsiasi progetto GitHub
-Link: https://github.com/idosal/git-mcp</description>
+      <description>7841 stelle | Lingua originale: Inglese | Metti fine alle allucinazioni del codice! GitMCP è un server MCP remoto gratuito, open source per qualsiasi progetto GitHub | Link: https://github.com/idosal/git-mcp</description>
       <guid>https://github.com/idosal/git-mcp</guid>
       <pubDate>Fri, 27 Mar 2026 18:20:09 +0000</pubDate>
     </item>
     <item>
       <title>Arindam200/awesome-ai-apps</title>
       <link>https://github.com/Arindam200/awesome-ai-apps</link>
-      <description>9378 stelle | Lingua originale: Inglese
-Una raccolta di progetti che mostrano RAG, agenti, flussi di lavoro e altri casi d'uso dell'intelligenza artificiale
-Link: https://github.com/Arindam200/awesome-ai-apps</description>
+      <description>9378 stelle | Lingua originale: Inglese | Una raccolta di progetti che mostrano RAG, agenti, flussi di lavoro e altri casi d'uso dell'intelligenza artificiale | Link: https://github.com/Arindam200/awesome-ai-apps</description>
       <guid>https://github.com/Arindam200/awesome-ai-apps</guid>
       <pubDate>Fri, 27 Mar 2026 18:20:08 +0000</pubDate>
     </item>
     <item>
       <title>agentscope-ai/agentscope</title>
       <link>https://github.com/agentscope-ai/agentscope</link>
-      <description>21128 stelle | Lingua originale: Inglese
-Costruisci ed esegui agenti visibili, comprensibili e di cui ti puoi fidare.
-Link: https://github.com/agentscope-ai/agentscope</description>
+      <description>21128 stelle | Lingua originale: Inglese | Costruisci ed esegui agenti visibili, comprensibili e di cui ti puoi fidare. | Link: https://github.com/agentscope-ai/agentscope</description>
       <guid>https://github.com/agentscope-ai/agentscope</guid>
       <pubDate>Fri, 27 Mar 2026 18:20:08 +0000</pubDate>
     </item>
     <item>
       <title>modelcontextprotocol/registry</title>
       <link>https://github.com/modelcontextprotocol/registry</link>
-      <description>6595 stelle | Lingua originale: Inglese
-Un servizio di registro gestito dalla comunità per i server MCP (Model Context Protocol).
-Link: https://github.com/modelcontextprotocol/registry</description>
+      <description>6595 stelle | Lingua originale: Inglese | Un servizio di registro gestito dalla comunità per i server MCP (Model Context Protocol). | Link: https://github.com/modelcontextprotocol/registry</description>
       <guid>https://github.com/modelcontextprotocol/registry</guid>
       <pubDate>Fri, 27 Mar 2026 18:20:07 +0000</pubDate>
     </item>
     <item>
       <title>yusufkaraaslan/Skill_Seekers</title>
       <link>https://github.com/yusufkaraaslan/Skill_Seekers</link>
-      <description>11379 stelle | Lingua originale: Inglese
-Converti siti Web di documentazione, repository GitHub e PDF nelle competenze Claude AI con rilevamento automatico dei conflitti
-Link: https://github.com/yusufkaraaslan/Skill_Seekers</description>
+      <description>11379 stelle | Lingua originale: Inglese | Converti siti Web di documentazione, repository GitHub e PDF nelle competenze Claude AI con rilevamento automatico dei conflitti | Link: https://github.com/yusufkaraaslan/Skill_Seekers</description>
       <guid>https://github.com/yusufkaraaslan/Skill_Seekers</guid>
       <pubDate>Fri, 27 Mar 2026 18:20:07 +0000</pubDate>
     </item>
     <item>
       <title>PrefectHQ/fastmcp</title>
       <link>https://github.com/PrefectHQ/fastmcp</link>
-      <description>24076 stelle | Lingua originale: Inglese
-Il modo veloce e Pythonico per creare server e client MCP.
-Link: https://github.com/PrefectHQ/fastmcp</description>
+      <description>24076 stelle | Lingua originale: Inglese | Il modo veloce e Pythonico per creare server e client MCP. | Link: https://github.com/PrefectHQ/fastmcp</description>
       <guid>https://github.com/PrefectHQ/fastmcp</guid>
       <pubDate>Fri, 27 Mar 2026 18:20:05 +0000</pubDate>
     </item>
     <item>
       <title>block/goose</title>
       <link>https://github.com/block/goose</link>
-      <description>33670 stelle | Lingua originale: Inglese
-un agente AI open source ed estensibile che va oltre i suggerimenti del codice: installa, esegui, modifica e testa con qualsiasi LLM
-Link: https://github.com/block/goose</description>
+      <description>33670 stelle | Lingua originale: Inglese | un agente AI open source ed estensibile che va oltre i suggerimenti del codice: installa, esegui, modifica e testa con qualsiasi LLM | Link: https://github.com/block/goose</description>
       <guid>https://github.com/block/goose</guid>
       <pubDate>Fri, 27 Mar 2026 18:20:04 +0000</pubDate>
     </item>
     <item>
       <title>go-kratos/kratos</title>
       <link>https://github.com/go-kratos/kratos</link>
-      <description>25575 stelle | Lingua originale: Inglese
-Il tuo framework di microservizi Go definitivo per l'era del cloud-native.
-Link: https://github.com/go-kratos/kratos</description>
+      <description>25575 stelle | Lingua originale: Inglese | Il tuo framework di microservizi Go definitivo per l'era del cloud-native. | Link: https://github.com/go-kratos/kratos</description>
       <guid>https://github.com/go-kratos/kratos</guid>
       <pubDate>Fri, 27 Mar 2026 18:20:03 +0000</pubDate>
     </item>
     <item>
       <title>microsoft/playwright-mcp</title>
       <link>https://github.com/microsoft/playwright-mcp</link>
-      <description>29837 stelle | Lingua originale: Inglese
-Server MCP del drammaturgo
-Link: https://github.com/microsoft/playwright-mcp</description>
+      <description>29837 stelle | Lingua originale: Inglese | Server MCP del drammaturgo | Link: https://github.com/microsoft/playwright-mcp</description>
       <guid>https://github.com/microsoft/playwright-mcp</guid>
       <pubDate>Fri, 27 Mar 2026 18:20:02 +0000</pubDate>
     </item>
     <item>
       <title>RightNow-AI/openfang</title>
       <link>https://github.com/RightNow-AI/openfang</link>
-      <description>15751 stelle | Lingua originale: Inglese
-Sistema operativo dell'agente open source
-Link: https://github.com/RightNow-AI/openfang</description>
+      <description>15751 stelle | Lingua originale: Inglese | Sistema operativo dell'agente open source | Link: https://github.com/RightNow-AI/openfang</description>
       <guid>https://github.com/RightNow-AI/openfang</guid>
       <pubDate>Fri, 27 Mar 2026 18:20:01 +0000</pubDate>
     </item>
     <item>
       <title>yamadashy/repomix</title>
       <link>https://github.com/yamadashy/repomix</link>
-      <description>22687 stelle | Lingua originale: Inglese
-Repomix è un potente strumento che racchiude l'intero repository in un unico file compatibile con l'intelligenza artificiale. Perfetto per quando devi fornire la tua base di codice a Large Language Models (LLM) o altri strumenti di intelligenza artificiale come Claude, ChatGPT, DeepSeek, Perplexity, Gemini, Gemma, Llama, Grok e altri.
-Link: https://github.com/yamadashy/repomix</description>
+      <description>22687 stelle | Lingua originale: Inglese | Repomix è un potente strumento che racchiude l'intero repository in un unico file compatibile con l'intelligenza artificiale. Perfetto per quando devi fornire la tua base di codice a Large Language Models (LLM) o altri strumenti di intelligenza artificiale come Claude, ChatGPT, DeepSeek, Perplexity, Gemini, Gemma, Llama, Grok e altri. | Link: https://github.com/yamadashy/repomix</description>
       <guid>https://github.com/yamadashy/repomix</guid>
       <pubDate>Fri, 27 Mar 2026 18:20:00 +0000</pubDate>
     </item>
     <item>
       <title>mastra-ai/mastra</title>
       <link>https://github.com/mastra-ai/mastra</link>
-      <description>22393 stelle | Lingua originale: Inglese
-Dal team dietro Gatsby, Mastra è un framework per la creazione di applicazioni e agenti basati sull'intelligenza artificiale con un moderno stack TypeScript.
-Link: https://github.com/mastra-ai/mastra</description>
+      <description>22393 stelle | Lingua originale: Inglese | Dal team dietro Gatsby, Mastra è un framework per la creazione di applicazioni e agenti basati sull'intelligenza artificiale con un moderno stack TypeScript. | Link: https://github.com/mastra-ai/mastra</description>
       <guid>https://github.com/mastra-ai/mastra</guid>
       <pubDate>Fri, 27 Mar 2026 18:19:58 +0000</pubDate>
     </item>
     <item>
       <title>AgentDeskAI/browser-tools-mcp</title>
       <link>https://github.com/AgentDeskAI/browser-tools-mcp</link>
-      <description>7149 stelle | Lingua originale: Inglese
-Monitora i registri del browser direttamente da Cursor e altri IDE compatibili con MCP.
-Link: https://github.com/AgentDeskAI/browser-tools-mcp</description>
+      <description>7149 stelle | Lingua originale: Inglese | Monitora i registri del browser direttamente da Cursor e altri IDE compatibili con MCP. | Link: https://github.com/AgentDeskAI/browser-tools-mcp</description>
       <guid>https://github.com/AgentDeskAI/browser-tools-mcp</guid>
       <pubDate>Fri, 27 Mar 2026 18:19:57 +0000</pubDate>
     </item>
     <item>
       <title>Mintplex-Labs/anything-llm</title>
       <link>https://github.com/Mintplex-Labs/anything-llm</link>
-      <description>56880 stelle | Lingua originale: Inglese
-L'acceleratore di produttività AI tutto in uno. Sul dispositivo e sulla privacy prima di tutto, senza fastidiose impostazioni o configurazioni.
-Link: https://github.com/Mintplex-Labs/anything-llm</description>
+      <description>56880 stelle | Lingua originale: Inglese | L'acceleratore di produttività AI tutto in uno. Sul dispositivo e sulla privacy prima di tutto, senza fastidiose impostazioni o configurazioni. | Link: https://github.com/Mintplex-Labs/anything-llm</description>
       <guid>https://github.com/Mintplex-Labs/anything-llm</guid>
       <pubDate>Fri, 27 Mar 2026 18:19:55 +0000</pubDate>
     </item>
     <item>
       <title>Portkey-AI/gateway</title>
       <link>https://github.com/Portkey-AI/gateway</link>
-      <description>11073 stelle | Lingua originale: Inglese
-Un gateway AI incredibilmente veloce con guardrail integrati. Percorso verso oltre 200 LLM, oltre 50 Guardrail AI con 1 API veloce e intuitiva.
-Link: https://github.com/Portkey-AI/gateway</description>
+      <description>11073 stelle | Lingua originale: Inglese | Un gateway AI incredibilmente veloce con guardrail integrati. Percorso verso oltre 200 LLM, oltre 50 Guardrail AI con 1 API veloce e intuitiva. | Link: https://github.com/Portkey-AI/gateway</description>
       <guid>https://github.com/Portkey-AI/gateway</guid>
       <pubDate>Fri, 27 Mar 2026 18:19:54 +0000</pubDate>
     </item>
     <item>
       <title>53AI/53AIHub</title>
       <link>https://github.com/53AI/53AIHub</link>
-      <description>9133 stelle | Lingua originale: Inglese
-53AI Hub è un portale AI open source che ti consente di creare rapidamente un portale AI a livello operativo per avviare e gestire agenti AI, prompt e strumenti AI. Supporta una perfetta integrazione con piattaforme di sviluppo come Coze, Dify, FastGPT, RAGFlow.
-Link: https://github.com/53AI/53AIHub</description>
+      <description>9133 stelle | Lingua originale: Inglese | 53AI Hub è un portale AI open source che ti consente di creare rapidamente un portale AI a livello operativo per avviare e gestire agenti AI, prompt e strumenti AI. Supporta una perfetta integrazione con piattaforme di sviluppo come Coze, Dify, FastGPT, RAGFlow. | Link: https://github.com/53AI/53AIHub</description>
       <guid>https://github.com/53AI/53AIHub</guid>
       <pubDate>Fri, 27 Mar 2026 18:19:54 +0000</pubDate>
     </item>
     <item>
       <title>ChromeDevTools/chrome-devtools-mcp</title>
       <link>https://github.com/ChromeDevTools/chrome-devtools-mcp</link>
-      <description>31939 stelle | Lingua originale: Inglese
-Chrome DevTools per agenti di codifica
-Link: https://github.com/ChromeDevTools/chrome-devtools-mcp</description>
+      <description>31939 stelle | Lingua originale: Inglese | Chrome DevTools per agenti di codifica | Link: https://github.com/ChromeDevTools/chrome-devtools-mcp</description>
       <guid>https://github.com/ChromeDevTools/chrome-devtools-mcp</guid>
       <pubDate>Fri, 27 Mar 2026 18:19:53 +0000</pubDate>
     </item>
     <item>
       <title>open-metadata/OpenMetadata</title>
       <link>https://github.com/open-metadata/OpenMetadata</link>
-      <description>9030 stelle | Lingua originale: Inglese
-OpenMetadata è una piattaforma di metadati unificata per il rilevamento, l'osservabilità e la governance dei dati, basata su un repository centrale di metadati, un lignaggio approfondito a livello di colonna e una collaborazione continua tra i team.
-Link: https://github.com/open-metadata/OpenMetadata</description>
+      <description>9030 stelle | Lingua originale: Inglese | OpenMetadata è una piattaforma di metadati unificata per il rilevamento, l'osservabilità e la governance dei dati, basata su un repository centrale di metadati, un lignaggio approfondito a livello di colonna e una collaborazione continua tra i team. | Link: https://github.com/open-metadata/OpenMetadata</description>
       <guid>https://github.com/open-metadata/OpenMetadata</guid>
       <pubDate>Fri, 27 Mar 2026 18:19:52 +0000</pubDate>
     </item>
     <item>
       <title>labring/FastGPT</title>
       <link>https://github.com/labring/FastGPT</link>
-      <description>27551 stelle | Lingua originale: Inglese
-FastGPT è una piattaforma basata sulla conoscenza costruita sugli LLM, offre una suite completa di funzionalità pronte all'uso come elaborazione dei dati, recupero RAG e orchestrazione del flusso di lavoro con intelligenza artificiale visiva, consentendoti di sviluppare e distribuire facilmente complessi sistemi di risposta alle domande senza la necessità di impostazioni o configurazioni estese.
-Link: https://github.com/labring/FastGPT</description>
+      <description>27551 stelle | Lingua originale: Inglese | FastGPT è una piattaforma basata sulla conoscenza costruita sugli LLM, offre una suite completa di funzionalità pronte all'uso come elaborazione dei dati, recupero RAG e orchestrazione del flusso di lavoro con intelligenza artificiale visiva, consentendoti di sviluppare e distribuire facilmente complessi sistemi di risposta alle domande senza la necessità di impostazioni o configurazioni estese. | Link: https://github.com/labring/FastGPT</description>
       <guid>https://github.com/labring/FastGPT</guid>
       <pubDate>Fri, 27 Mar 2026 18:19:51 +0000</pubDate>
     </item>
     <item>
       <title>lastmile-ai/mcp-agent</title>
       <link>https://github.com/lastmile-ai/mcp-agent</link>
-      <description>8151 stelle | Lingua originale: Inglese
-Crea agenti efficaci utilizzando il Model Context Protocol e semplici modelli di flusso di lavoro
-Link: https://github.com/lastmile-ai/mcp-agent</description>
+      <description>8151 stelle | Lingua originale: Inglese | Crea agenti efficaci utilizzando il Model Context Protocol e semplici modelli di flusso di lavoro | Link: https://github.com/lastmile-ai/mcp-agent</description>
       <guid>https://github.com/lastmile-ai/mcp-agent</guid>
       <pubDate>Fri, 27 Mar 2026 18:19:50 +0000</pubDate>
     </item>
     <item>
       <title>microsoft/mcp-for-beginners</title>
       <link>https://github.com/microsoft/mcp-for-beginners</link>
-      <description>15663 stelle | Lingua originale: Inglese
-Questo curriculum open source introduce i fondamenti del Model Context Protocol (MCP) attraverso esempi reali e multilingue in .NET, Java, TypeScript, JavaScript, Rust e Python. Progettato per gli sviluppatori, si concentra su tecniche pratiche per la creazione di flussi di lavoro IA modulari, scalabili e sicuri, dall'impostazione della sessione all'orchestrazione dei servizi.
-Link: https://github.com/microsoft/mcp-for-beginners</description>
+      <description>15663 stelle | Lingua originale: Inglese | Questo curriculum open source introduce i fondamenti del Model Context Protocol (MCP) attraverso esempi reali e multilingue in .NET, Java, TypeScript, JavaScript, Rust e Python. Progettato per gli sviluppatori, si concentra su tecniche pratiche per la creazione di flussi di lavoro IA modulari, scalabili e sicuri, dall'impostazione della sessione all'orchestrazione dei servizi. | Link: https://github.com/microsoft/mcp-for-beginners</description>
       <guid>https://github.com/microsoft/mcp-for-beginners</guid>
       <pubDate>Fri, 27 Mar 2026 18:19:49 +0000</pubDate>
     </item>
     <item>
       <title>ValueCell-ai/valuecell</title>
       <link>https://github.com/ValueCell-ai/valuecell</link>
-      <description>9835 stelle | Lingua originale: Inglese
-ValueCell è una piattaforma multi-agente guidata dalla comunità per applicazioni finanziarie.
-Link: https://github.com/ValueCell-ai/valuecell</description>
+      <description>9835 stelle | Lingua originale: Inglese | ValueCell è una piattaforma multi-agente guidata dalla comunità per applicazioni finanziarie. | Link: https://github.com/ValueCell-ai/valuecell</description>
       <guid>https://github.com/ValueCell-ai/valuecell</guid>
       <pubDate>Fri, 27 Mar 2026 18:19:48 +0000</pubDate>
     </item>
     <item>
       <title>awslabs/mcp</title>
       <link>https://github.com/awslabs/mcp</link>
-      <description>8591 stelle | Lingua originale: Inglese
-Server MCP ufficiali per AWS
-Link: https://github.com/awslabs/mcp</description>
+      <description>8591 stelle | Lingua originale: Inglese | Server MCP ufficiali per AWS | Link: https://github.com/awslabs/mcp</description>
       <guid>https://github.com/awslabs/mcp</guid>
       <pubDate>Fri, 27 Mar 2026 18:19:47 +0000</pubDate>
     </item>
     <item>
       <title>VoltAgent/voltagent</title>
       <link>https://github.com/VoltAgent/voltagent</link>
-      <description>7050 stelle | Lingua originale: Inglese
-Piattaforma di ingegneria degli agenti AI basata su un framework di agenti AI TypeScript open source
-Link: https://github.com/VoltAgent/voltagent</description>
+      <description>7050 stelle | Lingua originale: Inglese | Piattaforma di ingegneria degli agenti AI basata su un framework di agenti AI TypeScript open source | Link: https://github.com/VoltAgent/voltagent</description>
       <guid>https://github.com/VoltAgent/voltagent</guid>
       <pubDate>Fri, 27 Mar 2026 18:19:47 +0000</pubDate>
     </item>
     <item>
       <title>alibaba/nacos</title>
       <link>https://github.com/alibaba/nacos</link>
-      <description>32764 stelle | Lingua originale: Inglese
-una piattaforma dinamica di rilevamento, configurazione e gestione dei servizi facile da usare per la creazione di applicazioni native del cloud AI.
-Link: https://github.com/alibaba/nacos</description>
+      <description>32764 stelle | Lingua originale: Inglese | una piattaforma dinamica di rilevamento, configurazione e gestione dei servizi facile da usare per la creazione di applicazioni native del cloud AI. | Link: https://github.com/alibaba/nacos</description>
       <guid>https://github.com/alibaba/nacos</guid>
       <pubDate>Fri, 27 Mar 2026 18:19:46 +0000</pubDate>
     </item>
     <item>
       <title>electerm/electerm</title>
       <link>https://github.com/electerm/electerm</link>
-      <description>13784 stelle | Lingua originale: Inglese
-Terminale/ssh/sftp/ftp/telnet/serialport/RDP/VNC/client Spice (linux, mac, win)
-Link: https://github.com/electerm/electerm</description>
+      <description>13784 stelle | Lingua originale: Inglese | Terminale/ssh/sftp/ftp/telnet/serialport/RDP/VNC/client Spice (linux, mac, win) | Link: https://github.com/electerm/electerm</description>
       <guid>https://github.com/electerm/electerm</guid>
       <pubDate>Fri, 27 Mar 2026 18:19:45 +0000</pubDate>
     </item>
     <item>
       <title>CoplayDev/unity-mcp</title>
       <link>https://github.com/CoplayDev/unity-mcp</link>
-      <description>7713 stelle | Lingua originale: Inglese
-Unity MCP funge da ponte, consentendo agli assistenti AI (come Claude, Cursor) di interagire direttamente con il tuo Unity Editor tramite un client MCP (Model Context Protocol) locale. Fornisci i tuoi strumenti LLM per gestire risorse, controllare scene, modificare script e automatizzare le attività all'interno di Unity.
-Link: https://github.com/CoplayDev/unity-mcp</description>
+      <description>7713 stelle | Lingua originale: Inglese | Unity MCP funge da ponte, consentendo agli assistenti AI (come Claude, Cursor) di interagire direttamente con il tuo Unity Editor tramite un client MCP (Model Context Protocol) locale. Fornisci i tuoi strumenti LLM per gestire risorse, controllare scene, modificare script e automatizzare le attività all'interno di Unity. | Link: https://github.com/CoplayDev/unity-mcp</description>
       <guid>https://github.com/CoplayDev/unity-mcp</guid>
       <pubDate>Fri, 27 Mar 2026 18:19:44 +0000</pubDate>
     </item>
     <item>
       <title>patchy631/ai-engineering-hub</title>
       <link>https://github.com/patchy631/ai-engineering-hub</link>
-      <description>32743 stelle | Lingua originale: Inglese
-Tutorial approfonditi su LLM, RAG e applicazioni di agenti AI nel mondo reale.
-Link: https://github.com/patchy631/ai-engineering-hub</description>
+      <description>32743 stelle | Lingua originale: Inglese | Tutorial approfonditi su LLM, RAG e applicazioni di agenti AI nel mondo reale. | Link: https://github.com/patchy631/ai-engineering-hub</description>
       <guid>https://github.com/patchy631/ai-engineering-hub</guid>
       <pubDate>Fri, 27 Mar 2026 18:19:43 +0000</pubDate>
     </item>
     <item>
       <title>sickn33/antigravity-awesome-skills</title>
       <link>https://github.com/sickn33/antigravity-awesome-skills</link>
-      <description>27846 stelle | Lingua originale: Inglese
-Libreria GitHub installabile con oltre 1.326 competenze agentiche per Claude Code, Cursor, Codex CLI, Gemini CLI, Antigravity e altro ancora. Include CLI di installazione, pacchetti, flussi di lavoro e raccolte di competenze ufficiali/della comunità.
-Link: https://github.com/sickn33/antigravity-awesome-skills</description>
+      <description>27846 stelle | Lingua originale: Inglese | Libreria GitHub installabile con oltre 1.326 competenze agentiche per Claude Code, Cursor, Codex CLI, Gemini CLI, Antigravity e altro ancora. Include CLI di installazione, pacchetti, flussi di lavoro e raccolte di competenze ufficiali/della comunità. | Link: https://github.com/sickn33/antigravity-awesome-skills</description>
       <guid>https://github.com/sickn33/antigravity-awesome-skills</guid>
       <pubDate>Fri, 27 Mar 2026 18:19:42 +0000</pubDate>
     </item>
     <item>
       <title>tadata-org/fastapi_mcp</title>
       <link>https://github.com/tadata-org/fastapi_mcp</link>
-      <description>11714 stelle | Lingua originale: Inglese
-Esponi i tuoi endpoint FastAPI come strumenti MCP (Model Context Protocol), con Auth!
-Link: https://github.com/tadata-org/fastapi_mcp</description>
+      <description>11714 stelle | Lingua originale: Inglese | Esponi i tuoi endpoint FastAPI come strumenti MCP (Model Context Protocol), con Auth! | Link: https://github.com/tadata-org/fastapi_mcp</description>
       <guid>https://github.com/tadata-org/fastapi_mcp</guid>
       <pubDate>Fri, 27 Mar 2026 18:19:41 +0000</pubDate>
     </item>
     <item>
       <title>mcp-use/mcp-use</title>
       <link>https://github.com/mcp-use/mcp-use</link>
-      <description>9535 stelle | Lingua originale: Inglese
-Il framework MCP full-stack per sviluppare app MCP per server ChatGPT/Claude e MCP per agenti AI.
-Link: https://github.com/mcp-use/mcp-use</description>
+      <description>9535 stelle | Lingua originale: Inglese | Il framework MCP full-stack per sviluppare app MCP per server ChatGPT/Claude e MCP per agenti AI. | Link: https://github.com/mcp-use/mcp-use</description>
       <guid>https://github.com/mcp-use/mcp-use</guid>
       <pubDate>Fri, 27 Mar 2026 18:19:40 +0000</pubDate>
     </item>
     <item>
       <title>lobehub/lobehub</title>
       <link>https://github.com/lobehub/lobehub</link>
-      <description>74402 stelle | Lingua originale: Inglese
-Lo spazio definitivo per il lavoro e la vita: per trovare, costruire e collaborare con colleghi di agenti che crescono insieme a te. Stiamo portando il cablaggio degli agenti a un livello superiore, consentendo la collaborazione tra più agenti, la progettazione semplice del team di agenti e l'introduzione degli agenti come unità di interazione lavorativa.
-Link: https://github.com/lobehub/lobehub</description>
+      <description>74402 stelle | Lingua originale: Inglese | Lo spazio definitivo per il lavoro e la vita: per trovare, costruire e collaborare con colleghi di agenti che crescono insieme a te. Stiamo portando il cablaggio degli agenti a un livello superiore, consentendo la collaborazione tra più agenti, la progettazione semplice del team di agenti e l'introduzione degli agenti come unità di interazione lavorativa. | Link: https://github.com/lobehub/lobehub</description>
       <guid>https://github.com/lobehub/lobehub</guid>
       <pubDate>Fri, 27 Mar 2026 18:19:39 +0000</pubDate>
     </item>
     <item>
       <title>czlonkowski/n8n-mcp</title>
       <link>https://github.com/czlonkowski/n8n-mcp</link>
-      <description>16646 stelle | Lingua originale: Inglese
-Un MCP per Claude Desktop/Claude Code/Windsurf/Cursor per creare flussi di lavoro n8n per te
-Link: https://github.com/czlonkowski/n8n-mcp</description>
+      <description>16646 stelle | Lingua originale: Inglese | Un MCP per Claude Desktop/Claude Code/Windsurf/Cursor per creare flussi di lavoro n8n per te | Link: https://github.com/czlonkowski/n8n-mcp</description>
       <guid>https://github.com/czlonkowski/n8n-mcp</guid>
       <pubDate>Fri, 27 Mar 2026 18:19:38 +0000</pubDate>
     </item>
     <item>
       <title>ComposioHQ/awesome-claude-skills</title>
       <link>https://github.com/ComposioHQ/awesome-claude-skills</link>
-      <description>48483 stelle | Lingua originale: Inglese
-Un elenco curato di fantastiche competenze, risorse e strumenti di Claude per personalizzare i flussi di lavoro AI di Claude
-Link: https://github.com/ComposioHQ/awesome-claude-skills</description>
+      <description>48483 stelle | Lingua originale: Inglese | Un elenco curato di fantastiche competenze, risorse e strumenti di Claude per personalizzare i flussi di lavoro AI di Claude | Link: https://github.com/ComposioHQ/awesome-claude-skills</description>
       <guid>https://github.com/ComposioHQ/awesome-claude-skills</guid>
       <pubDate>Fri, 27 Mar 2026 18:19:36 +0000</pubDate>
     </item>
     <item>
       <title>iflytek/astron-agent</title>
       <link>https://github.com/iflytek/astron-agent</link>
-      <description>10765 stelle | Lingua originale: Inglese
-Piattaforma per flussi di lavoro con agenti di livello aziendale e di facile utilizzo commerciale per la creazione di SuperAgent di prossima generazione.
-Link: https://github.com/iflytek/astron-agent</description>
+      <description>10765 stelle | Lingua originale: Inglese | Piattaforma per flussi di lavoro con agenti di livello aziendale e di facile utilizzo commerciale per la creazione di SuperAgent di prossima generazione. | Link: https://github.com/iflytek/astron-agent</description>
       <guid>https://github.com/iflytek/astron-agent</guid>
       <pubDate>Fri, 27 Mar 2026 18:19:35 +0000</pubDate>
     </item>

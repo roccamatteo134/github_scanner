@@ -1,11 +1,56 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <rss version="2.0">
   <channel>
     <title>GitHub AI Scanner</title>
     <link>https://github.com</link>
     <description>Nuove risorse AI trovate su GitHub</description>
     <language>it</language>
-    <lastBuildDate>Fri, 27 Mar 2026 19:53:33 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Mar 2026 05:15:01 +0000</lastBuildDate>
+    <item>
+      <title>78/xiaozhi-esp32</title>
+      <link>https://github.com/78/xiaozhi-esp32</link>
+      <description>25163 stelle | Lingua originale: Inglese
+Un chatbot basato su MCP | Un chatbot basato su MCP
+Link: https://github.com/78/xiaozhi-esp32</description>
+      <guid>https://github.com/78/xiaozhi-esp32</guid>
+      <pubDate>Sat, 28 Mar 2026 05:15:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>assafelovic/gpt-researcher</title>
+      <link>https://github.com/assafelovic/gpt-researcher</link>
+      <description>26061 stelle | Lingua originale: Inglese
+Un agente autonomo che conduce ricerche approfondite su qualsiasi dato utilizzando qualsiasi fornitore LLM
+Link: https://github.com/assafelovic/gpt-researcher</description>
+      <guid>https://github.com/assafelovic/gpt-researcher</guid>
+      <pubDate>Sat, 28 Mar 2026 05:15:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>ComposioHQ/composio</title>
+      <link>https://github.com/ComposioHQ/composio</link>
+      <description>27551 stelle | Lingua originale: Inglese
+Composio supporta oltre 1000 toolkit, ricerca di strumenti, gestione del contesto, autenticazione e un ambiente di lavoro sandbox per aiutarti a creare agenti IA che trasformano le intenzioni in azione.
+Link: https://github.com/ComposioHQ/composio</description>
+      <guid>https://github.com/ComposioHQ/composio</guid>
+      <pubDate>Sat, 28 Mar 2026 05:14:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>AstrBotDevs/AstrBot</title>
+      <link>https://github.com/AstrBotDevs/AstrBot</link>
+      <description>27844 stelle | Lingua originale: Inglese
+Infrastruttura Agentic IM Chatbot che integra molte piattaforme IM, LLM, plug-in e funzionalità AI e può essere la tua alternativa openclaw. 
+Link: https://github.com/AstrBotDevs/AstrBot</description>
+      <guid>https://github.com/AstrBotDevs/AstrBot</guid>
+      <pubDate>Sat, 28 Mar 2026 05:14:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>github/github-mcp-server</title>
+      <link>https://github.com/github/github-mcp-server</link>
+      <description>28335 stelle | Lingua originale: Inglese
+Il server MCP ufficiale di GitHub
+Link: https://github.com/github/github-mcp-server</description>
+      <guid>https://github.com/github/github-mcp-server</guid>
+      <pubDate>Sat, 28 Mar 2026 05:14:58 +0000</pubDate>
+    </item>
     <item>
       <title>bytedance/UI-TARS-desktop</title>
       <link>https://github.com/bytedance/UI-TARS-desktop</link>
@@ -320,76 +365,6 @@
       <description>32764 stelle | Lingua originale: Inglese | una piattaforma dinamica di rilevamento, configurazione e gestione dei servizi facile da usare per la creazione di applicazioni native del cloud AI. | Link: https://github.com/alibaba/nacos</description>
       <guid>https://github.com/alibaba/nacos</guid>
       <pubDate>Fri, 27 Mar 2026 18:19:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>electerm/electerm</title>
-      <link>https://github.com/electerm/electerm</link>
-      <description>13784 stelle | Lingua originale: Inglese | Terminale/ssh/sftp/ftp/telnet/serialport/RDP/VNC/client Spice (linux, mac, win) | Link: https://github.com/electerm/electerm</description>
-      <guid>https://github.com/electerm/electerm</guid>
-      <pubDate>Fri, 27 Mar 2026 18:19:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>CoplayDev/unity-mcp</title>
-      <link>https://github.com/CoplayDev/unity-mcp</link>
-      <description>7713 stelle | Lingua originale: Inglese | Unity MCP funge da ponte, consentendo agli assistenti AI (come Claude, Cursor) di interagire direttamente con il tuo Unity Editor tramite un client MCP (Model Context Protocol) locale. Fornisci i tuoi strumenti LLM per gestire risorse, controllare scene, modificare script e automatizzare le attività all'interno di Unity. | Link: https://github.com/CoplayDev/unity-mcp</description>
-      <guid>https://github.com/CoplayDev/unity-mcp</guid>
-      <pubDate>Fri, 27 Mar 2026 18:19:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>patchy631/ai-engineering-hub</title>
-      <link>https://github.com/patchy631/ai-engineering-hub</link>
-      <description>32743 stelle | Lingua originale: Inglese | Tutorial approfonditi su LLM, RAG e applicazioni di agenti AI nel mondo reale. | Link: https://github.com/patchy631/ai-engineering-hub</description>
-      <guid>https://github.com/patchy631/ai-engineering-hub</guid>
-      <pubDate>Fri, 27 Mar 2026 18:19:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>sickn33/antigravity-awesome-skills</title>
-      <link>https://github.com/sickn33/antigravity-awesome-skills</link>
-      <description>27846 stelle | Lingua originale: Inglese | Libreria GitHub installabile con oltre 1.326 competenze agentiche per Claude Code, Cursor, Codex CLI, Gemini CLI, Antigravity e altro ancora. Include CLI di installazione, pacchetti, flussi di lavoro e raccolte di competenze ufficiali/della comunità. | Link: https://github.com/sickn33/antigravity-awesome-skills</description>
-      <guid>https://github.com/sickn33/antigravity-awesome-skills</guid>
-      <pubDate>Fri, 27 Mar 2026 18:19:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>tadata-org/fastapi_mcp</title>
-      <link>https://github.com/tadata-org/fastapi_mcp</link>
-      <description>11714 stelle | Lingua originale: Inglese | Esponi i tuoi endpoint FastAPI come strumenti MCP (Model Context Protocol), con Auth! | Link: https://github.com/tadata-org/fastapi_mcp</description>
-      <guid>https://github.com/tadata-org/fastapi_mcp</guid>
-      <pubDate>Fri, 27 Mar 2026 18:19:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>mcp-use/mcp-use</title>
-      <link>https://github.com/mcp-use/mcp-use</link>
-      <description>9535 stelle | Lingua originale: Inglese | Il framework MCP full-stack per sviluppare app MCP per server ChatGPT/Claude e MCP per agenti AI. | Link: https://github.com/mcp-use/mcp-use</description>
-      <guid>https://github.com/mcp-use/mcp-use</guid>
-      <pubDate>Fri, 27 Mar 2026 18:19:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>lobehub/lobehub</title>
-      <link>https://github.com/lobehub/lobehub</link>
-      <description>74402 stelle | Lingua originale: Inglese | Lo spazio definitivo per il lavoro e la vita: per trovare, costruire e collaborare con colleghi di agenti che crescono insieme a te. Stiamo portando il cablaggio degli agenti a un livello superiore, consentendo la collaborazione tra più agenti, la progettazione semplice del team di agenti e l'introduzione degli agenti come unità di interazione lavorativa. | Link: https://github.com/lobehub/lobehub</description>
-      <guid>https://github.com/lobehub/lobehub</guid>
-      <pubDate>Fri, 27 Mar 2026 18:19:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>czlonkowski/n8n-mcp</title>
-      <link>https://github.com/czlonkowski/n8n-mcp</link>
-      <description>16646 stelle | Lingua originale: Inglese | Un MCP per Claude Desktop/Claude Code/Windsurf/Cursor per creare flussi di lavoro n8n per te | Link: https://github.com/czlonkowski/n8n-mcp</description>
-      <guid>https://github.com/czlonkowski/n8n-mcp</guid>
-      <pubDate>Fri, 27 Mar 2026 18:19:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>ComposioHQ/awesome-claude-skills</title>
-      <link>https://github.com/ComposioHQ/awesome-claude-skills</link>
-      <description>48483 stelle | Lingua originale: Inglese | Un elenco curato di fantastiche competenze, risorse e strumenti di Claude per personalizzare i flussi di lavoro AI di Claude | Link: https://github.com/ComposioHQ/awesome-claude-skills</description>
-      <guid>https://github.com/ComposioHQ/awesome-claude-skills</guid>
-      <pubDate>Fri, 27 Mar 2026 18:19:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>iflytek/astron-agent</title>
-      <link>https://github.com/iflytek/astron-agent</link>
-      <description>10765 stelle | Lingua originale: Inglese | Piattaforma per flussi di lavoro con agenti di livello aziendale e di facile utilizzo commerciale per la creazione di SuperAgent di prossima generazione. | Link: https://github.com/iflytek/astron-agent</description>
-      <guid>https://github.com/iflytek/astron-agent</guid>
-      <pubDate>Fri, 27 Mar 2026 18:19:35 +0000</pubDate>
     </item>
   </channel>
 </rss>

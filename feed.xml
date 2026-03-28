@@ -5,49 +5,84 @@
     <link>https://github.com</link>
     <description>Nuove risorse AI trovate su GitHub</description>
     <language>it</language>
-    <lastBuildDate>Sat, 28 Mar 2026 07:57:19 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Mar 2026 14:03:23 +0000</lastBuildDate>
+    <item>
+      <title>udecode/plate</title>
+      <link>https://github.com/udecode/plate</link>
+      <description>16085 stelle | Lingua originale: Inglese
+Editor di testo ricco con AI e shadcn/ui
+Link: https://github.com/udecode/plate</description>
+      <guid>https://github.com/udecode/plate</guid>
+      <pubDate>Sat, 28 Mar 2026 14:03:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>czlonkowski/n8n-mcp</title>
+      <link>https://github.com/czlonkowski/n8n-mcp</link>
+      <description>16755 stelle | Lingua originale: Inglese
+Un MCP per Claude Desktop/Claude Code/Windsurf/Cursor per creare flussi di lavoro n8n per te
+Link: https://github.com/czlonkowski/n8n-mcp</description>
+      <guid>https://github.com/czlonkowski/n8n-mcp</guid>
+      <pubDate>Sat, 28 Mar 2026 14:03:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>qax-os/excelize</title>
+      <link>https://github.com/qax-os/excelize</link>
+      <description>20433 stelle | Lingua originale: Inglese
+Libreria linguistica Go per leggere e scrivere fogli di calcolo Microsoft Excel™ (XLAM / XLSM / XLSX / XLTM / XLTX)
+Link: https://github.com/qax-os/excelize</description>
+      <guid>https://github.com/qax-os/excelize</guid>
+      <pubDate>Sat, 28 Mar 2026 14:03:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>activepieces/activepieces</title>
+      <link>https://github.com/activepieces/activepieces</link>
+      <description>21459 stelle | Lingua originale: Inglese
+Agenti AI e MCP e automazione del flusso di lavoro AI • (~400 server MCP per agenti AI) • Automazione AI/agente AI con MCP • Flussi di lavoro AI e agenti AI • MCP per agenti AI
+Link: https://github.com/activepieces/activepieces</description>
+      <guid>https://github.com/activepieces/activepieces</guid>
+      <pubDate>Sat, 28 Mar 2026 14:03:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>alibaba/nacos</title>
+      <link>https://github.com/alibaba/nacos</link>
+      <description>32762 stelle | Lingua originale: Inglese
+una piattaforma dinamica di rilevamento, configurazione e gestione dei servizi facile da usare per la creazione di applicazioni native del cloud AI.
+Link: https://github.com/alibaba/nacos</description>
+      <guid>https://github.com/alibaba/nacos</guid>
+      <pubDate>Sat, 28 Mar 2026 14:03:22 +0000</pubDate>
+    </item>
     <item>
       <title>flipped-aurora/gin-vue-admin</title>
       <link>https://github.com/flipped-aurora/gin-vue-admin</link>
-      <description>24515 stelle | Lingua originale: Cinese
-Vite+Vue3+Gin dispone di una piattaforma di sviluppo di base assistita da intelligenza artificiale, una soluzione di sviluppo AI+ aziendale a livello aziendale, servizi ausiliari mcp integrati, gestione delle competenze integrata e supporta l'uso misto di TS e JS. Integra funzioni di sviluppo essenziali come autenticazione JWT, gestione dei diritti, routing dinamico, componenti controllabili visibili e nascosti, incapsulamento del paging, intercettazione dell'accesso multipunto, autorizzazioni ...
-Link: https://github.com/flipped-aurora/gin-vue-admin</description>
+      <description>24515 stelle | Lingua originale: Cinese Vite+Vue3+Gin dispone di una piattaforma di sviluppo di base assistita da intelligenza artificiale, una soluzione di sviluppo AI+ aziendale a livello aziendale, servizi ausiliari mcp integrati, gestione delle competenze integrata e supporta l'uso misto di TS e JS. Integra funzioni di sviluppo essenziali come autenticazione JWT, gestione dei diritti, routing dinamico, componenti controllabili visibili e nascosti, incapsulamento del paging, intercettazione dell'accesso multipunto, autorizzazioni ... Link: https://github.com/flipped-aurora/gin-vue-admin</description>
       <guid>https://github.com/flipped-aurora/gin-vue-admin</guid>
       <pubDate>Sat, 28 Mar 2026 07:57:19 +0000</pubDate>
     </item>
     <item>
       <title>sickn33/antigravity-awesome-skills</title>
       <link>https://github.com/sickn33/antigravity-awesome-skills</link>
-      <description>27968 stelle | Lingua originale: Inglese
-Libreria GitHub installabile con oltre 1.326 competenze agentiche per Claude Code, Cursor, Codex CLI, Gemini CLI, Antigravity e altro ancora. Include CLI di installazione, pacchetti, flussi di lavoro e raccolte di competenze ufficiali/della comunità.
-Link: https://github.com/sickn33/antigravity-awesome-skills</description>
+      <description>27968 stelle | Lingua originale: Inglese Libreria GitHub installabile con oltre 1.326 competenze agentiche per Claude Code, Cursor, Codex CLI, Gemini CLI, Antigravity e altro ancora. Include CLI di installazione, pacchetti, flussi di lavoro e raccolte di competenze ufficiali/della comunità. Link: https://github.com/sickn33/antigravity-awesome-skills</description>
       <guid>https://github.com/sickn33/antigravity-awesome-skills</guid>
       <pubDate>Sat, 28 Mar 2026 07:57:19 +0000</pubDate>
     </item>
     <item>
       <title>patchy631/ai-engineering-hub</title>
       <link>https://github.com/patchy631/ai-engineering-hub</link>
-      <description>32759 stelle | Lingua originale: Inglese
-Tutorial approfonditi su LLM, RAG e applicazioni di agenti AI nel mondo reale.
-Link: https://github.com/patchy631/ai-engineering-hub</description>
+      <description>32759 stelle | Lingua originale: Inglese Tutorial approfonditi su LLM, RAG e applicazioni di agenti AI nel mondo reale. Link: https://github.com/patchy631/ai-engineering-hub</description>
       <guid>https://github.com/patchy631/ai-engineering-hub</guid>
       <pubDate>Sat, 28 Mar 2026 07:57:18 +0000</pubDate>
     </item>
     <item>
       <title>ComposioHQ/awesome-claude-skills</title>
       <link>https://github.com/ComposioHQ/awesome-claude-skills</link>
-      <description>48618 stelle | Lingua originale: Inglese
-Un elenco curato di fantastiche competenze, risorse e strumenti di Claude per personalizzare i flussi di lavoro AI di Claude
-Link: https://github.com/ComposioHQ/awesome-claude-skills</description>
+      <description>48618 stelle | Lingua originale: Inglese Un elenco curato di fantastiche competenze, risorse e strumenti di Claude per personalizzare i flussi di lavoro AI di Claude Link: https://github.com/ComposioHQ/awesome-claude-skills</description>
       <guid>https://github.com/ComposioHQ/awesome-claude-skills</guid>
       <pubDate>Sat, 28 Mar 2026 07:57:18 +0000</pubDate>
     </item>
     <item>
       <title>lobehub/lobehub</title>
       <link>https://github.com/lobehub/lobehub</link>
-      <description>74423 stelle | Lingua originale: Inglese
-Lo spazio definitivo per il lavoro e la vita: per trovare, costruire e collaborare con colleghi di agenti che crescono insieme a te. Stiamo portando il cablaggio degli agenti a un livello superiore, consentendo la collaborazione tra più agenti, la progettazione semplice del team di agenti e l'introduzione degli agenti come unità di interazione lavorativa.
-Link: https://github.com/lobehub/lobehub</description>
+      <description>74423 stelle | Lingua originale: Inglese Lo spazio definitivo per il lavoro e la vita: per trovare, costruire e collaborare con colleghi di agenti che crescono insieme a te. Stiamo portando il cablaggio degli agenti a un livello superiore, consentendo la collaborazione tra più agenti, la progettazione semplice del team di agenti e l'introduzione degli agenti come unità di interazione lavorativa. Link: https://github.com/lobehub/lobehub</description>
       <guid>https://github.com/lobehub/lobehub</guid>
       <pubDate>Sat, 28 Mar 2026 07:57:18 +0000</pubDate>
     </item>
@@ -330,41 +365,6 @@ Link: https://github.com/lobehub/lobehub</description>
       <description>11073 stelle | Lingua originale: Inglese | Un gateway AI incredibilmente veloce con guardrail integrati. Percorso verso oltre 200 LLM, oltre 50 Guardrail AI con 1 API veloce e intuitiva. | Link: https://github.com/Portkey-AI/gateway</description>
       <guid>https://github.com/Portkey-AI/gateway</guid>
       <pubDate>Fri, 27 Mar 2026 18:19:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>53AI/53AIHub</title>
-      <link>https://github.com/53AI/53AIHub</link>
-      <description>9133 stelle | Lingua originale: Inglese | 53AI Hub è un portale AI open source che ti consente di creare rapidamente un portale AI a livello operativo per avviare e gestire agenti AI, prompt e strumenti AI. Supporta una perfetta integrazione con piattaforme di sviluppo come Coze, Dify, FastGPT, RAGFlow. | Link: https://github.com/53AI/53AIHub</description>
-      <guid>https://github.com/53AI/53AIHub</guid>
-      <pubDate>Fri, 27 Mar 2026 18:19:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>ChromeDevTools/chrome-devtools-mcp</title>
-      <link>https://github.com/ChromeDevTools/chrome-devtools-mcp</link>
-      <description>31939 stelle | Lingua originale: Inglese | Chrome DevTools per agenti di codifica | Link: https://github.com/ChromeDevTools/chrome-devtools-mcp</description>
-      <guid>https://github.com/ChromeDevTools/chrome-devtools-mcp</guid>
-      <pubDate>Fri, 27 Mar 2026 18:19:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>open-metadata/OpenMetadata</title>
-      <link>https://github.com/open-metadata/OpenMetadata</link>
-      <description>9030 stelle | Lingua originale: Inglese | OpenMetadata è una piattaforma di metadati unificata per il rilevamento, l'osservabilità e la governance dei dati, basata su un repository centrale di metadati, un lignaggio approfondito a livello di colonna e una collaborazione continua tra i team. | Link: https://github.com/open-metadata/OpenMetadata</description>
-      <guid>https://github.com/open-metadata/OpenMetadata</guid>
-      <pubDate>Fri, 27 Mar 2026 18:19:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>labring/FastGPT</title>
-      <link>https://github.com/labring/FastGPT</link>
-      <description>27551 stelle | Lingua originale: Inglese | FastGPT è una piattaforma basata sulla conoscenza costruita sugli LLM, offre una suite completa di funzionalità pronte all'uso come elaborazione dei dati, recupero RAG e orchestrazione del flusso di lavoro con intelligenza artificiale visiva, consentendoti di sviluppare e distribuire facilmente complessi sistemi di risposta alle domande senza la necessità di impostazioni o configurazioni estese. | Link: https://github.com/labring/FastGPT</description>
-      <guid>https://github.com/labring/FastGPT</guid>
-      <pubDate>Fri, 27 Mar 2026 18:19:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>lastmile-ai/mcp-agent</title>
-      <link>https://github.com/lastmile-ai/mcp-agent</link>
-      <description>8151 stelle | Lingua originale: Inglese | Crea agenti efficaci utilizzando il Model Context Protocol e semplici modelli di flusso di lavoro | Link: https://github.com/lastmile-ai/mcp-agent</description>
-      <guid>https://github.com/lastmile-ai/mcp-agent</guid>
-      <pubDate>Fri, 27 Mar 2026 18:19:50 +0000</pubDate>
     </item>
   </channel>
 </rss>

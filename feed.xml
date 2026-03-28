@@ -5,49 +5,84 @@
     <link>https://github.com</link>
     <description>Nuove risorse AI trovate su GitHub</description>
     <language>it</language>
-    <lastBuildDate>Sat, 28 Mar 2026 14:03:23 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Mar 2026 19:46:13 +0000</lastBuildDate>
+    <item>
+      <title>alibaba/page-agent</title>
+      <link>https://github.com/alibaba/page-agent</link>
+      <description>14428 stelle | Lingua originale: Inglese
+Agente GUI in-page JavaScript. Controlla le interfacce web con il linguaggio naturale.
+Link: https://github.com/alibaba/page-agent</description>
+      <guid>https://github.com/alibaba/page-agent</guid>
+      <pubDate>Sat, 28 Mar 2026 19:46:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>anthropics/claude-plugins-official</title>
+      <link>https://github.com/anthropics/claude-plugins-official</link>
+      <description>15127 stelle | Lingua originale: Inglese
+Directory ufficiale gestita da Anthropic di plugin Claude Code di alta qualità.
+Link: https://github.com/anthropics/claude-plugins-official</description>
+      <guid>https://github.com/anthropics/claude-plugins-official</guid>
+      <pubDate>Sat, 28 Mar 2026 19:46:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>microsoft/mcp-for-beginners</title>
+      <link>https://github.com/microsoft/mcp-for-beginners</link>
+      <description>15686 stelle | Lingua originale: Inglese
+Questo curriculum open source introduce i fondamenti del Model Context Protocol (MCP) attraverso esempi reali e multilingue in .NET, Java, TypeScript, JavaScript, Rust e Python. Progettato per gli sviluppatori, si concentra su tecniche pratiche per la creazione di flussi di lavoro IA modulari, scalabili e sicuri, dall'impostazione della sessione all'orchestrazione dei servizi.
+Link: https://github.com/microsoft/mcp-for-beginners</description>
+      <guid>https://github.com/microsoft/mcp-for-beginners</guid>
+      <pubDate>Sat, 28 Mar 2026 19:46:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>labring/FastGPT</title>
+      <link>https://github.com/labring/FastGPT</link>
+      <description>27557 stelle | Lingua originale: Inglese
+FastGPT è una piattaforma basata sulla conoscenza costruita sugli LLM, offre una suite completa di funzionalità pronte all'uso come elaborazione dei dati, recupero RAG e orchestrazione del flusso di lavoro con intelligenza artificiale visiva, consentendoti di sviluppare e distribuire facilmente complessi sistemi di risposta alle domande senza la necessità di impostazioni o configurazioni estese.
+Link: https://github.com/labring/FastGPT</description>
+      <guid>https://github.com/labring/FastGPT</guid>
+      <pubDate>Sat, 28 Mar 2026 19:46:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>ChromeDevTools/chrome-devtools-mcp</title>
+      <link>https://github.com/ChromeDevTools/chrome-devtools-mcp</link>
+      <description>32060 stelle | Lingua originale: Inglese
+Chrome DevTools per agenti di codifica
+Link: https://github.com/ChromeDevTools/chrome-devtools-mcp</description>
+      <guid>https://github.com/ChromeDevTools/chrome-devtools-mcp</guid>
+      <pubDate>Sat, 28 Mar 2026 19:46:08 +0000</pubDate>
+    </item>
     <item>
       <title>udecode/plate</title>
       <link>https://github.com/udecode/plate</link>
-      <description>16085 stelle | Lingua originale: Inglese
-Editor di testo ricco con AI e shadcn/ui
-Link: https://github.com/udecode/plate</description>
+      <description>16085 stelle | Lingua originale: Inglese Editor di testo ricco con AI e shadcn/ui Link: https://github.com/udecode/plate</description>
       <guid>https://github.com/udecode/plate</guid>
       <pubDate>Sat, 28 Mar 2026 14:03:23 +0000</pubDate>
     </item>
     <item>
       <title>czlonkowski/n8n-mcp</title>
       <link>https://github.com/czlonkowski/n8n-mcp</link>
-      <description>16755 stelle | Lingua originale: Inglese
-Un MCP per Claude Desktop/Claude Code/Windsurf/Cursor per creare flussi di lavoro n8n per te
-Link: https://github.com/czlonkowski/n8n-mcp</description>
+      <description>16755 stelle | Lingua originale: Inglese Un MCP per Claude Desktop/Claude Code/Windsurf/Cursor per creare flussi di lavoro n8n per te Link: https://github.com/czlonkowski/n8n-mcp</description>
       <guid>https://github.com/czlonkowski/n8n-mcp</guid>
       <pubDate>Sat, 28 Mar 2026 14:03:23 +0000</pubDate>
     </item>
     <item>
       <title>qax-os/excelize</title>
       <link>https://github.com/qax-os/excelize</link>
-      <description>20433 stelle | Lingua originale: Inglese
-Libreria linguistica Go per leggere e scrivere fogli di calcolo Microsoft Excel™ (XLAM / XLSM / XLSX / XLTM / XLTX)
-Link: https://github.com/qax-os/excelize</description>
+      <description>20433 stelle | Lingua originale: Inglese Libreria linguistica Go per leggere e scrivere fogli di calcolo Microsoft Excel™ (XLAM / XLSM / XLSX / XLTM / XLTX) Link: https://github.com/qax-os/excelize</description>
       <guid>https://github.com/qax-os/excelize</guid>
       <pubDate>Sat, 28 Mar 2026 14:03:23 +0000</pubDate>
     </item>
     <item>
       <title>activepieces/activepieces</title>
       <link>https://github.com/activepieces/activepieces</link>
-      <description>21459 stelle | Lingua originale: Inglese
-Agenti AI e MCP e automazione del flusso di lavoro AI • (~400 server MCP per agenti AI) • Automazione AI/agente AI con MCP • Flussi di lavoro AI e agenti AI • MCP per agenti AI
-Link: https://github.com/activepieces/activepieces</description>
+      <description>21459 stelle | Lingua originale: Inglese Agenti AI e MCP e automazione del flusso di lavoro AI • (~400 server MCP per agenti AI) • Automazione AI/agente AI con MCP • Flussi di lavoro AI e agenti AI • MCP per agenti AI Link: https://github.com/activepieces/activepieces</description>
       <guid>https://github.com/activepieces/activepieces</guid>
       <pubDate>Sat, 28 Mar 2026 14:03:22 +0000</pubDate>
     </item>
     <item>
       <title>alibaba/nacos</title>
       <link>https://github.com/alibaba/nacos</link>
-      <description>32762 stelle | Lingua originale: Inglese
-una piattaforma dinamica di rilevamento, configurazione e gestione dei servizi facile da usare per la creazione di applicazioni native del cloud AI.
-Link: https://github.com/alibaba/nacos</description>
+      <description>32762 stelle | Lingua originale: Inglese una piattaforma dinamica di rilevamento, configurazione e gestione dei servizi facile da usare per la creazione di applicazioni native del cloud AI. Link: https://github.com/alibaba/nacos</description>
       <guid>https://github.com/alibaba/nacos</guid>
       <pubDate>Sat, 28 Mar 2026 14:03:22 +0000</pubDate>
     </item>
@@ -330,41 +365,6 @@ Link: https://github.com/alibaba/nacos</description>
       <description>15751 stelle | Lingua originale: Inglese | Sistema operativo dell'agente open source | Link: https://github.com/RightNow-AI/openfang</description>
       <guid>https://github.com/RightNow-AI/openfang</guid>
       <pubDate>Fri, 27 Mar 2026 18:20:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>yamadashy/repomix</title>
-      <link>https://github.com/yamadashy/repomix</link>
-      <description>22687 stelle | Lingua originale: Inglese | Repomix è un potente strumento che racchiude l'intero repository in un unico file compatibile con l'intelligenza artificiale. Perfetto per quando devi fornire la tua base di codice a Large Language Models (LLM) o altri strumenti di intelligenza artificiale come Claude, ChatGPT, DeepSeek, Perplexity, Gemini, Gemma, Llama, Grok e altri. | Link: https://github.com/yamadashy/repomix</description>
-      <guid>https://github.com/yamadashy/repomix</guid>
-      <pubDate>Fri, 27 Mar 2026 18:20:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>mastra-ai/mastra</title>
-      <link>https://github.com/mastra-ai/mastra</link>
-      <description>22393 stelle | Lingua originale: Inglese | Dal team dietro Gatsby, Mastra è un framework per la creazione di applicazioni e agenti basati sull'intelligenza artificiale con un moderno stack TypeScript. | Link: https://github.com/mastra-ai/mastra</description>
-      <guid>https://github.com/mastra-ai/mastra</guid>
-      <pubDate>Fri, 27 Mar 2026 18:19:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>AgentDeskAI/browser-tools-mcp</title>
-      <link>https://github.com/AgentDeskAI/browser-tools-mcp</link>
-      <description>7149 stelle | Lingua originale: Inglese | Monitora i registri del browser direttamente da Cursor e altri IDE compatibili con MCP. | Link: https://github.com/AgentDeskAI/browser-tools-mcp</description>
-      <guid>https://github.com/AgentDeskAI/browser-tools-mcp</guid>
-      <pubDate>Fri, 27 Mar 2026 18:19:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>Mintplex-Labs/anything-llm</title>
-      <link>https://github.com/Mintplex-Labs/anything-llm</link>
-      <description>56880 stelle | Lingua originale: Inglese | L'acceleratore di produttività AI tutto in uno. Sul dispositivo e sulla privacy prima di tutto, senza fastidiose impostazioni o configurazioni. | Link: https://github.com/Mintplex-Labs/anything-llm</description>
-      <guid>https://github.com/Mintplex-Labs/anything-llm</guid>
-      <pubDate>Fri, 27 Mar 2026 18:19:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>Portkey-AI/gateway</title>
-      <link>https://github.com/Portkey-AI/gateway</link>
-      <description>11073 stelle | Lingua originale: Inglese | Un gateway AI incredibilmente veloce con guardrail integrati. Percorso verso oltre 200 LLM, oltre 50 Guardrail AI con 1 API veloce e intuitiva. | Link: https://github.com/Portkey-AI/gateway</description>
-      <guid>https://github.com/Portkey-AI/gateway</guid>
-      <pubDate>Fri, 27 Mar 2026 18:19:54 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -5,49 +5,84 @@
     <link>https://github.com</link>
     <description>Nuove risorse AI trovate su GitHub</description>
     <language>it</language>
-    <lastBuildDate>Sun, 29 Mar 2026 08:02:48 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 29 Mar 2026 14:04:22 +0000</lastBuildDate>
+    <item>
+      <title>kubeshark/kubeshark</title>
+      <link>https://github.com/kubeshark/kubeshark</link>
+      <description>11839 stelle | Lingua originale: Inglese
+Osservabilità della rete a livello di cluster per Kubernetes. Cattura pacchetti L4, chiamate API L7 e traffico TLS decrittografato utilizzando eBPF, con contesto Kubernetes completo. Disponibile per gli agenti AI tramite MCP e per gli operatori umani tramite dashboard.
+Link: https://github.com/kubeshark/kubeshark</description>
+      <guid>https://github.com/kubeshark/kubeshark</guid>
+      <pubDate>Sun, 29 Mar 2026 14:04:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>xpzouying/xiaohongshu-mcp</title>
+      <link>https://github.com/xpzouying/xiaohongshu-mcp</link>
+      <description>12333 stelle | Lingua originale: Inglese
+MCP per xiaohongshu.com
+Link: https://github.com/xpzouying/xiaohongshu-mcp</description>
+      <guid>https://github.com/xpzouying/xiaohongshu-mcp</guid>
+      <pubDate>Sun, 29 Mar 2026 14:04:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>Panniantong/Agent-Reach</title>
+      <link>https://github.com/Panniantong/Agent-Reach</link>
+      <description>12554 stelle | Lingua originale: Inglese
+Dai gli occhi al tuo agente IA per vedere l'intera Internet. Leggi e cerca su Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu: una CLI, zero costi API.
+Link: https://github.com/Panniantong/Agent-Reach</description>
+      <guid>https://github.com/Panniantong/Agent-Reach</guid>
+      <pubDate>Sun, 29 Mar 2026 14:04:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>NevaMind-AI/memU</title>
+      <link>https://github.com/NevaMind-AI/memU</link>
+      <description>13245 stelle | Lingua originale: Inglese
+Memoria per agenti proattivi 24 ore su 24, 7 giorni su 7 come openclaw (moltbot, jawdbot).
+Link: https://github.com/NevaMind-AI/memU</description>
+      <guid>https://github.com/NevaMind-AI/memU</guid>
+      <pubDate>Sun, 29 Mar 2026 14:04:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>agentscope-ai/agentscope</title>
+      <link>https://github.com/agentscope-ai/agentscope</link>
+      <description>21884 stelle | Lingua originale: Inglese
+Costruisci ed esegui agenti visibili, comprensibili e di cui ti puoi fidare.
+Link: https://github.com/agentscope-ai/agentscope</description>
+      <guid>https://github.com/agentscope-ai/agentscope</guid>
+      <pubDate>Sun, 29 Mar 2026 14:04:17 +0000</pubDate>
+    </item>
     <item>
       <title>RightNow-AI/openfang</title>
       <link>https://github.com/RightNow-AI/openfang</link>
-      <description>15829 stelle | Lingua originale: Inglese
-Sistema operativo dell'agente open source
-Link: https://github.com/RightNow-AI/openfang</description>
+      <description>15829 stelle | Lingua originale: Inglese Sistema operativo dell'agente open source Link: https://github.com/RightNow-AI/openfang</description>
       <guid>https://github.com/RightNow-AI/openfang</guid>
       <pubDate>Sun, 29 Mar 2026 08:02:48 +0000</pubDate>
     </item>
     <item>
       <title>PrefectHQ/fastmcp</title>
       <link>https://github.com/PrefectHQ/fastmcp</link>
-      <description>24108 stelle | Lingua originale: Inglese
- Il modo veloce e Pythonico per creare server e client MCP.
-Link: https://github.com/PrefectHQ/fastmcp</description>
+      <description>24108 stelle | Lingua originale: Inglese  Il modo veloce e Pythonico per creare server e client MCP. Link: https://github.com/PrefectHQ/fastmcp</description>
       <guid>https://github.com/PrefectHQ/fastmcp</guid>
       <pubDate>Sun, 29 Mar 2026 08:02:48 +0000</pubDate>
     </item>
     <item>
       <title>go-kratos/kratos</title>
       <link>https://github.com/go-kratos/kratos</link>
-      <description>25576 stelle | Lingua originale: Inglese
-Il tuo framework di microservizi Go definitivo per l'era del cloud-native.
-Link: https://github.com/go-kratos/kratos</description>
+      <description>25576 stelle | Lingua originale: Inglese Il tuo framework di microservizi Go definitivo per l'era del cloud-native. Link: https://github.com/go-kratos/kratos</description>
       <guid>https://github.com/go-kratos/kratos</guid>
       <pubDate>Sun, 29 Mar 2026 08:02:48 +0000</pubDate>
     </item>
     <item>
       <title>microsoft/playwright-mcp</title>
       <link>https://github.com/microsoft/playwright-mcp</link>
-      <description>29906 stelle | Lingua originale: Inglese
-Server MCP del drammaturgo
-Link: https://github.com/microsoft/playwright-mcp</description>
+      <description>29906 stelle | Lingua originale: Inglese Server MCP del drammaturgo Link: https://github.com/microsoft/playwright-mcp</description>
       <guid>https://github.com/microsoft/playwright-mcp</guid>
       <pubDate>Sun, 29 Mar 2026 08:02:48 +0000</pubDate>
     </item>
     <item>
       <title>block/goose</title>
       <link>https://github.com/block/goose</link>
-      <description>33708 stelle | Lingua originale: Inglese
-un agente AI open source ed estensibile che va oltre i suggerimenti del codice: installa, esegui, modifica e testa con qualsiasi LLM
-Link: https://github.com/block/goose</description>
+      <description>33708 stelle | Lingua originale: Inglese un agente AI open source ed estensibile che va oltre i suggerimenti del codice: installa, esegui, modifica e testa con qualsiasi LLM Link: https://github.com/block/goose</description>
       <guid>https://github.com/block/goose</guid>
       <pubDate>Sun, 29 Mar 2026 08:02:47 +0000</pubDate>
     </item>
@@ -330,41 +365,6 @@ Link: https://github.com/block/goose</description>
       <description>134741 stelle | Lingua originale: Inglese | Piattaforma pronta per la produzione per lo sviluppo del flusso di lavoro degli agenti. | Link: https://github.com/langgenius/dify</description>
       <guid>https://github.com/langgenius/dify</guid>
       <pubDate>Fri, 27 Mar 2026 18:20:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>farion1231/cc-switch</title>
-      <link>https://github.com/farion1231/cc-switch</link>
-      <description>34438 stelle | Lingua originale: Inglese | Uno strumento di assistente all-in-one desktop multipiattaforma per Claude Code, Codex, OpenCode, openclaw e Gemini CLI. | Link: https://github.com/farion1231/cc-switch</description>
-      <guid>https://github.com/farion1231/cc-switch</guid>
-      <pubDate>Fri, 27 Mar 2026 18:20:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>googleapis/genai-toolbox</title>
-      <link>https://github.com/googleapis/genai-toolbox</link>
-      <description>13557 stelle | Lingua originale: Inglese | MCP Toolbox for Databases è un server MCP open source per database. | Link: https://github.com/googleapis/genai-toolbox</description>
-      <guid>https://github.com/googleapis/genai-toolbox</guid>
-      <pubDate>Fri, 27 Mar 2026 18:20:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>PDFMathTranslate/PDFMathTranslate</title>
-      <link>https://github.com/PDFMathTranslate/PDFMathTranslate</link>
-      <description>32521 stelle | Lingua originale: Inglese | [Demo EMNLP 2025] Traduzione di articoli scientifici in PDF con formati preservati - Traduzione bilingue del testo completo di documenti PDF basata sull'intelligenza artificiale che mantiene completamente la composizione, supporta Google/DeepL/Ollama/OpenAI e altri servizi e fornisce CLI/GUI/MCP/Docker/Zotero | Link: https://github.com/PDFMathTranslate/PDFMathTranslate</description>
-      <guid>https://github.com/PDFMathTranslate/PDFMathTranslate</guid>
-      <pubDate>Fri, 27 Mar 2026 18:20:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>sansan0/TrendRadar</title>
-      <link>https://github.com/sansan0/TrendRadar</link>
-      <description>49849 stelle | Lingua originale: NO | Monitoraggio dell'opinione pubblica e delle tendenze basato sull'intelligenza artificiale con aggregazione multipiattaforma, RSS e avvisi intelligenti.  Dì addio al sovraccarico di informazioni con il tuo assistente per il monitoraggio dell'opinione pubblica basato sull'intelligenza artificiale e lo strumento di screening degli hot spot! Aggrega hotspot multipiattaforma + abbonamenti RSS per supportare un preciso filtraggio delle parole chiave. Screening di notizie intelligenti tramite intell... | Link: https://github.com/sansan0/TrendRadar</description>
-      <guid>https://github.com/sansan0/TrendRadar</guid>
-      <pubDate>Fri, 27 Mar 2026 18:20:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>triggerdotdev/trigger.dev</title>
-      <link>https://github.com/triggerdotdev/trigger.dev</link>
-      <description>14248 stelle | Lingua originale: Inglese | Trigger.dev: crea e distribuisci agenti e flussi di lavoro IA completamente gestiti | Link: https://github.com/triggerdotdev/trigger.dev</description>
-      <guid>https://github.com/triggerdotdev/trigger.dev</guid>
-      <pubDate>Fri, 27 Mar 2026 18:20:10 +0000</pubDate>
     </item>
   </channel>
 </rss>

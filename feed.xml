@@ -5,49 +5,84 @@
     <link>https://github.com</link>
     <description>Nuove risorse AI trovate su GitHub</description>
     <language>it</language>
-    <lastBuildDate>Mon, 30 Mar 2026 06:19:10 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 30 Mar 2026 15:56:25 +0000</lastBuildDate>
+    <item>
+      <title>Kong/kong</title>
+      <link>https://github.com/Kong/kong</link>
+      <description>43068 stelle | Lingua originale: Inglese
+ API e gateway AI
+Link: https://github.com/Kong/kong</description>
+      <guid>https://github.com/Kong/kong</guid>
+      <pubDate>Mon, 30 Mar 2026 15:56:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>mudler/LocalAI</title>
+      <link>https://github.com/mudler/LocalAI</link>
+      <description>44598 stelle | Lingua originale: Inglese
+LocalAI è il motore AI open source. Esegui qualsiasi modello (LLM, visione, voce, immagini, video) su qualsiasi hardware. Nessuna GPU richiesta.
+Link: https://github.com/mudler/LocalAI</description>
+      <guid>https://github.com/mudler/LocalAI</guid>
+      <pubDate>Mon, 30 Mar 2026 15:56:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>jeecgboot/JeecgBoot</title>
+      <link>https://github.com/jeecgboot/JeecgBoot</link>
+      <description>45628 stelle | Lingua originale: Cinese
+Una piattaforma low-code basata sull'intelligenza artificiale che fornisce la doppia modalità di "codice zero" e "generazione codice": la modalità codice zero costruisce il sistema in una frase e la modalità di generazione codice genera automaticamente i codici front-end e back-end e l'SQL di creazione di tabelle, che può essere generato ed eseguito. La piattaforma dispone di assistente chat AI integrato, modello di grandi dimensioni AI, base di conoscenza, orchestrazione dei processi AI, MCP e ...
+Link: https://github.com/jeecgboot/JeecgBoot</description>
+      <guid>https://github.com/jeecgboot/JeecgBoot</guid>
+      <pubDate>Mon, 30 Mar 2026 15:56:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>upstash/context7</title>
+      <link>https://github.com/upstash/context7</link>
+      <description>51102 stelle | Lingua originale: Inglese
+Piattaforma Context7: documentazione aggiornata del codice per LLM ed editor di codice AI
+Link: https://github.com/upstash/context7</description>
+      <guid>https://github.com/upstash/context7</guid>
+      <pubDate>Mon, 30 Mar 2026 15:56:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>infiniflow/ragflow</title>
+      <link>https://github.com/infiniflow/ragflow</link>
+      <description>76606 stelle | Lingua originale: Inglese
+RAGFlow è un motore RAG (Retrieval-Augmented Generation) open source leader che fonde RAG all'avanguardia con funzionalità dell'agente per creare un livello di contesto superiore per LLM
+Link: https://github.com/infiniflow/ragflow</description>
+      <guid>https://github.com/infiniflow/ragflow</guid>
+      <pubDate>Mon, 30 Mar 2026 15:56:20 +0000</pubDate>
+    </item>
     <item>
       <title>netdata/netdata</title>
       <link>https://github.com/netdata/netdata</link>
-      <description>78266 stelle | Lingua originale: Inglese
-Il percorso più veloce verso l'osservabilità dell'intero stack basato sull'intelligenza artificiale, anche per i team snelli.
-Link: https://github.com/netdata/netdata</description>
+      <description>78266 stelle | Lingua originale: Inglese Il percorso più veloce verso l'osservabilità dell'intero stack basato sull'intelligenza artificiale, anche per i team snelli. Link: https://github.com/netdata/netdata</description>
       <guid>https://github.com/netdata/netdata</guid>
       <pubDate>Mon, 30 Mar 2026 06:19:10 +0000</pubDate>
     </item>
     <item>
       <title>affaan-m/everything-claude-code</title>
       <link>https://github.com/affaan-m/everything-claude-code</link>
-      <description>117181 stelle | Lingua originale: Inglese
-Il sistema di ottimizzazione delle prestazioni del cablaggio dell'agente. Competenze, istinto, memoria, sicurezza e sviluppo incentrato sulla ricerca per Claude Code, Codex, Opencode, Cursor e oltre.
-Link: https://github.com/affaan-m/everything-claude-code</description>
+      <description>117181 stelle | Lingua originale: Inglese Il sistema di ottimizzazione delle prestazioni del cablaggio dell'agente. Competenze, istinto, memoria, sicurezza e sviluppo incentrato sulla ricerca per Claude Code, Codex, Opencode, Cursor e oltre. Link: https://github.com/affaan-m/everything-claude-code</description>
       <guid>https://github.com/affaan-m/everything-claude-code</guid>
       <pubDate>Mon, 30 Mar 2026 06:19:09 +0000</pubDate>
     </item>
     <item>
       <title>open-webui/open-webui</title>
       <link>https://github.com/open-webui/open-webui</link>
-      <description>129221 stelle | Lingua originale: Inglese
-Interfaccia AI intuitiva (supporta Ollama, API OpenAI, ...)
-Link: https://github.com/open-webui/open-webui</description>
+      <description>129221 stelle | Lingua originale: Inglese Interfaccia AI intuitiva (supporta Ollama, API OpenAI, ...) Link: https://github.com/open-webui/open-webui</description>
       <guid>https://github.com/open-webui/open-webui</guid>
       <pubDate>Mon, 30 Mar 2026 06:19:07 +0000</pubDate>
     </item>
     <item>
       <title>langgenius/dify</title>
       <link>https://github.com/langgenius/dify</link>
-      <description>134938 stelle | Lingua originale: Inglese
-Piattaforma pronta per la produzione per lo sviluppo del flusso di lavoro degli agenti.
-Link: https://github.com/langgenius/dify</description>
+      <description>134938 stelle | Lingua originale: Inglese Piattaforma pronta per la produzione per lo sviluppo del flusso di lavoro degli agenti. Link: https://github.com/langgenius/dify</description>
       <guid>https://github.com/langgenius/dify</guid>
       <pubDate>Mon, 30 Mar 2026 06:19:06 +0000</pubDate>
     </item>
     <item>
       <title>Snailclimb/JavaGuide</title>
       <link>https://github.com/Snailclimb/JavaGuide</link>
-      <description>154529 stelle | Lingua originale: Cinese
-Intervista Java e guida generale all'intervista back-end, che copre le basi del computer, i database, la distribuzione, l'elevata concorrenza, la progettazione del sistema e lo sviluppo di applicazioni AI
-Link: https://github.com/Snailclimb/JavaGuide</description>
+      <description>154529 stelle | Lingua originale: Cinese Intervista Java e guida generale all'intervista back-end, che copre le basi del computer, i database, la distribuzione, l'elevata concorrenza, la progettazione del sistema e lo sviluppo di applicazioni AI Link: https://github.com/Snailclimb/JavaGuide</description>
       <guid>https://github.com/Snailclimb/JavaGuide</guid>
       <pubDate>Mon, 30 Mar 2026 06:19:03 +0000</pubDate>
     </item>
@@ -330,41 +365,6 @@ Link: https://github.com/Snailclimb/JavaGuide</description>
       <description>28335 stelle | Lingua originale: Inglese Il server MCP ufficiale di GitHub Link: https://github.com/github/github-mcp-server</description>
       <guid>https://github.com/github/github-mcp-server</guid>
       <pubDate>Sat, 28 Mar 2026 05:14:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>bytedance/UI-TARS-desktop</title>
-      <link>https://github.com/bytedance/UI-TARS-desktop</link>
-      <description>29130 stelle | Lingua originale: Inglese - Lo stack di agenti IA multimodali open source: connessione di modelli IA all'avanguardia e infrastruttura di agenti</description>
-      <guid>https://github.com/bytedance/UI-TARS-desktop</guid>
-      <pubDate>Fri, 27 Mar 2026 19:53:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>D4Vinci/Scrapling</title>
-      <link>https://github.com/D4Vinci/Scrapling</link>
-      <description>33354 stelle | Lingua originale: Inglese -  Un framework di Web Scraping adattivo che gestisce qualsiasi cosa, da una singola richiesta a una scansione su vasta scala!</description>
-      <guid>https://github.com/D4Vinci/Scrapling</guid>
-      <pubDate>Fri, 27 Mar 2026 19:53:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>danny-avila/LibreChat</title>
-      <link>https://github.com/danny-avila/LibreChat</link>
-      <description>35009 stelle | Lingua originale: Inglese - Clone ChatGPT avanzato: funzionalità agenti, MCP, DeepSeek, Anthropic, AWS, OpenAI, API di risposta, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, cambio di modello AI, ricerca di messaggi, interprete di codice, langchain, DALL-E-3, azioni OpenAPI, funzioni, autenticazione multiutente sicura, preimpostazioni, open source per self-hosting. Attivo.</description>
-      <guid>https://github.com/danny-avila/LibreChat</guid>
-      <pubDate>Fri, 27 Mar 2026 19:53:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>mindsdb/mindsdb</title>
-      <link>https://github.com/mindsdb/mindsdb</link>
-      <description>38845 stelle | Lingua originale: Inglese - Motore di query per analisi AI: crea agenti auto-ragionanti su tutti i tuoi dati in tempo reale</description>
-      <guid>https://github.com/mindsdb/mindsdb</guid>
-      <pubDate>Fri, 27 Mar 2026 19:53:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>n8n-io/n8n</title>
-      <link>https://github.com/n8n-io/n8n</link>
-      <description>181397 stelle | Lingua originale: Inglese - Piattaforma di automazione del flusso di lavoro Fair-Code con funzionalità IA native. Combina la creazione visiva con codice personalizzato, self-host o cloud, oltre 400 integrazioni.</description>
-      <guid>https://github.com/n8n-io/n8n</guid>
-      <pubDate>Fri, 27 Mar 2026 19:53:33 +0000</pubDate>
     </item>
   </channel>
 </rss>

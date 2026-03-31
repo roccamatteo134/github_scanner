@@ -5,49 +5,84 @@
     <link>https://github.com</link>
     <description>Nuove risorse AI trovate su GitHub</description>
     <language>it</language>
-    <lastBuildDate>Mon, 30 Mar 2026 20:04:52 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 31 Mar 2026 05:56:29 +0000</lastBuildDate>
+    <item>
+      <title>assafelovic/gpt-researcher</title>
+      <link>https://github.com/assafelovic/gpt-researcher</link>
+      <description>26133 stelle | Lingua originale: Inglese
+Un agente autonomo che conduce ricerche approfondite su qualsiasi dato utilizzando qualsiasi fornitore LLM
+Link: https://github.com/assafelovic/gpt-researcher</description>
+      <guid>https://github.com/assafelovic/gpt-researcher</guid>
+      <pubDate>Tue, 31 Mar 2026 05:56:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>ComposioHQ/composio</title>
+      <link>https://github.com/ComposioHQ/composio</link>
+      <description>27590 stelle | Lingua originale: Inglese
+Composio supporta oltre 1000 toolkit, ricerca di strumenti, gestione del contesto, autenticazione e un ambiente di lavoro sandbox per aiutarti a creare agenti IA che trasformano le intenzioni in azione.
+Link: https://github.com/ComposioHQ/composio</description>
+      <guid>https://github.com/ComposioHQ/composio</guid>
+      <pubDate>Tue, 31 Mar 2026 05:56:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>AstrBotDevs/AstrBot</title>
+      <link>https://github.com/AstrBotDevs/AstrBot</link>
+      <description>28350 stelle | Lingua originale: Inglese
+Infrastruttura Agentic IM Chatbot che integra molte piattaforme IM, LLM, plug-in e funzionalità AI e può essere la tua alternativa openclaw. 
+Link: https://github.com/AstrBotDevs/AstrBot</description>
+      <guid>https://github.com/AstrBotDevs/AstrBot</guid>
+      <pubDate>Tue, 31 Mar 2026 05:56:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>github/github-mcp-server</title>
+      <link>https://github.com/github/github-mcp-server</link>
+      <description>28407 stelle | Lingua originale: Inglese
+Il server MCP ufficiale di GitHub
+Link: https://github.com/github/github-mcp-server</description>
+      <guid>https://github.com/github/github-mcp-server</guid>
+      <pubDate>Tue, 31 Mar 2026 05:56:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>bytedance/UI-TARS-desktop</title>
+      <link>https://github.com/bytedance/UI-TARS-desktop</link>
+      <description>29174 stelle | Lingua originale: Inglese
+Lo stack di agenti IA multimodali open source: connessione di modelli IA all'avanguardia e infrastruttura di agenti
+Link: https://github.com/bytedance/UI-TARS-desktop</description>
+      <guid>https://github.com/bytedance/UI-TARS-desktop</guid>
+      <pubDate>Tue, 31 Mar 2026 05:56:25 +0000</pubDate>
+    </item>
     <item>
       <title>D4Vinci/Scrapling</title>
       <link>https://github.com/D4Vinci/Scrapling</link>
-      <description>33869 stelle | Lingua originale: Inglese
- Un framework di Web Scraping adattivo che gestisce qualsiasi cosa, da una singola richiesta a una scansione su vasta scala!
-Link: https://github.com/D4Vinci/Scrapling</description>
+      <description>33869 stelle | Lingua originale: Inglese  Un framework di Web Scraping adattivo che gestisce qualsiasi cosa, da una singola richiesta a una scansione su vasta scala! Link: https://github.com/D4Vinci/Scrapling</description>
       <guid>https://github.com/D4Vinci/Scrapling</guid>
       <pubDate>Mon, 30 Mar 2026 20:04:52 +0000</pubDate>
     </item>
     <item>
       <title>danny-avila/LibreChat</title>
       <link>https://github.com/danny-avila/LibreChat</link>
-      <description>35058 stelle | Lingua originale: Inglese
-Clone ChatGPT avanzato: funzionalità agenti, MCP, DeepSeek, Anthropic, AWS, OpenAI, API di risposta, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, cambio di modello AI, ricerca di messaggi, interprete di codice, langchain, DALL-E-3, azioni OpenAPI, funzioni, autenticazione multiutente sicura, preimpostazioni, open source per self-hosting. Attivo.
-Link: https://github.com/danny-avila/LibreChat</description>
+      <description>35058 stelle | Lingua originale: Inglese Clone ChatGPT avanzato: funzionalità agenti, MCP, DeepSeek, Anthropic, AWS, OpenAI, API di risposta, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, cambio di modello AI, ricerca di messaggi, interprete di codice, langchain, DALL-E-3, azioni OpenAPI, funzioni, autenticazione multiutente sicura, preimpostazioni, open source per self-hosting. Attivo. Link: https://github.com/danny-avila/LibreChat</description>
       <guid>https://github.com/danny-avila/LibreChat</guid>
       <pubDate>Mon, 30 Mar 2026 20:04:51 +0000</pubDate>
     </item>
     <item>
       <title>mindsdb/mindsdb</title>
       <link>https://github.com/mindsdb/mindsdb</link>
-      <description>38875 stelle | Lingua originale: Inglese
-Motore di query per analisi AI: crea agenti auto-ragionanti su tutti i tuoi dati in tempo reale
-Link: https://github.com/mindsdb/mindsdb</description>
+      <description>38875 stelle | Lingua originale: Inglese Motore di query per analisi AI: crea agenti auto-ragionanti su tutti i tuoi dati in tempo reale Link: https://github.com/mindsdb/mindsdb</description>
       <guid>https://github.com/mindsdb/mindsdb</guid>
       <pubDate>Mon, 30 Mar 2026 20:04:50 +0000</pubDate>
     </item>
     <item>
       <title>zhayujie/chatgpt-on-wechat</title>
       <link>https://github.com/zhayujie/chatgpt-on-wechat</link>
-      <description>42658 stelle | Lingua originale: NO
-CowAgent è un super assistente AI basato su modelli di grandi dimensioni. Può pensare e pianificare in modo proattivo le attività, accedere al sistema operativo e alle risorse esterne, creare ed eseguire competenze, avere memoria a lungo termine e continuare a crescere. È più leggero e più conveniente di OpenClaw. Allo stesso tempo, supporta l'accesso a WeChat, Feishu, DingTalk, Qiwei, QQ, account ufficiali, pagine web, ecc. Puoi scegliere OpenAI/Claude/Gemini/DeepSeek/Qwen/GLM/Kimi/LinkAI, che ...
-Link: https://github.com/zhayujie/chatgpt-on-wechat</description>
+      <description>42658 stelle | Lingua originale: NO CowAgent è un super assistente AI basato su modelli di grandi dimensioni. Può pensare e pianificare in modo proattivo le attività, accedere al sistema operativo e alle risorse esterne, creare ed eseguire competenze, avere memoria a lungo termine e continuare a crescere. È più leggero e più conveniente di OpenClaw. Allo stesso tempo, supporta l'accesso a WeChat, Feishu, DingTalk, Qiwei, QQ, account ufficiali, pagine web, ecc. Puoi scegliere OpenAI/Claude/Gemini/DeepSeek/Qwen/GLM/Kimi/LinkAI, che ... Link: https://github.com/zhayujie/chatgpt-on-wechat</description>
       <guid>https://github.com/zhayujie/chatgpt-on-wechat</guid>
       <pubDate>Mon, 30 Mar 2026 20:04:48 +0000</pubDate>
     </item>
     <item>
       <title>n8n-io/n8n</title>
       <link>https://github.com/n8n-io/n8n</link>
-      <description>181749 stelle | Lingua originale: Inglese
-Piattaforma di automazione del flusso di lavoro Fair-Code con funzionalità IA native. Combina la creazione visiva con codice personalizzato, self-host o cloud, oltre 400 integrazioni.
-Link: https://github.com/n8n-io/n8n</description>
+      <description>181749 stelle | Lingua originale: Inglese Piattaforma di automazione del flusso di lavoro Fair-Code con funzionalità IA native. Combina la creazione visiva con codice personalizzato, self-host o cloud, oltre 400 integrazioni. Link: https://github.com/n8n-io/n8n</description>
       <guid>https://github.com/n8n-io/n8n</guid>
       <pubDate>Mon, 30 Mar 2026 20:04:47 +0000</pubDate>
     </item>
@@ -330,41 +365,6 @@ Link: https://github.com/n8n-io/n8n</description>
       <description>32762 stelle | Lingua originale: Inglese una piattaforma dinamica di rilevamento, configurazione e gestione dei servizi facile da usare per la creazione di applicazioni native del cloud AI. Link: https://github.com/alibaba/nacos</description>
       <guid>https://github.com/alibaba/nacos</guid>
       <pubDate>Sat, 28 Mar 2026 14:03:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>flipped-aurora/gin-vue-admin</title>
-      <link>https://github.com/flipped-aurora/gin-vue-admin</link>
-      <description>24515 stelle | Lingua originale: Cinese Vite+Vue3+Gin dispone di una piattaforma di sviluppo di base assistita da intelligenza artificiale, una soluzione di sviluppo AI+ aziendale a livello aziendale, servizi ausiliari mcp integrati, gestione delle competenze integrata e supporta l'uso misto di TS e JS. Integra funzioni di sviluppo essenziali come autenticazione JWT, gestione dei diritti, routing dinamico, componenti controllabili visibili e nascosti, incapsulamento del paging, intercettazione dell'accesso multipunto, autorizzazioni ... Link: https://github.com/flipped-aurora/gin-vue-admin</description>
-      <guid>https://github.com/flipped-aurora/gin-vue-admin</guid>
-      <pubDate>Sat, 28 Mar 2026 07:57:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>sickn33/antigravity-awesome-skills</title>
-      <link>https://github.com/sickn33/antigravity-awesome-skills</link>
-      <description>27968 stelle | Lingua originale: Inglese Libreria GitHub installabile con oltre 1.326 competenze agentiche per Claude Code, Cursor, Codex CLI, Gemini CLI, Antigravity e altro ancora. Include CLI di installazione, pacchetti, flussi di lavoro e raccolte di competenze ufficiali/della comunità. Link: https://github.com/sickn33/antigravity-awesome-skills</description>
-      <guid>https://github.com/sickn33/antigravity-awesome-skills</guid>
-      <pubDate>Sat, 28 Mar 2026 07:57:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>patchy631/ai-engineering-hub</title>
-      <link>https://github.com/patchy631/ai-engineering-hub</link>
-      <description>32759 stelle | Lingua originale: Inglese Tutorial approfonditi su LLM, RAG e applicazioni di agenti AI nel mondo reale. Link: https://github.com/patchy631/ai-engineering-hub</description>
-      <guid>https://github.com/patchy631/ai-engineering-hub</guid>
-      <pubDate>Sat, 28 Mar 2026 07:57:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>ComposioHQ/awesome-claude-skills</title>
-      <link>https://github.com/ComposioHQ/awesome-claude-skills</link>
-      <description>48618 stelle | Lingua originale: Inglese Un elenco curato di fantastiche competenze, risorse e strumenti di Claude per personalizzare i flussi di lavoro AI di Claude Link: https://github.com/ComposioHQ/awesome-claude-skills</description>
-      <guid>https://github.com/ComposioHQ/awesome-claude-skills</guid>
-      <pubDate>Sat, 28 Mar 2026 07:57:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>lobehub/lobehub</title>
-      <link>https://github.com/lobehub/lobehub</link>
-      <description>74423 stelle | Lingua originale: Inglese Lo spazio definitivo per il lavoro e la vita: per trovare, costruire e collaborare con colleghi di agenti che crescono insieme a te. Stiamo portando il cablaggio degli agenti a un livello superiore, consentendo la collaborazione tra più agenti, la progettazione semplice del team di agenti e l'introduzione degli agenti come unità di interazione lavorativa. Link: https://github.com/lobehub/lobehub</description>
-      <guid>https://github.com/lobehub/lobehub</guid>
-      <pubDate>Sat, 28 Mar 2026 07:57:18 +0000</pubDate>
     </item>
   </channel>
 </rss>

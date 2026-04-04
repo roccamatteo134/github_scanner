@@ -5,49 +5,84 @@
     <link>https://github.com</link>
     <description>Nuove risorse AI trovate su GitHub</description>
     <language>it</language>
-    <lastBuildDate>Sat, 04 Apr 2026 14:03:49 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 04 Apr 2026 19:45:07 +0000</lastBuildDate>
+    <item>
+      <title>triggerdotdev/trigger.dev</title>
+      <link>https://github.com/triggerdotdev/trigger.dev</link>
+      <description>14361 stelle | Lingua originale: Inglese
+Trigger.dev: crea e distribuisci agenti e flussi di lavoro IA completamente gestiti
+Link: https://github.com/triggerdotdev/trigger.dev</description>
+      <guid>https://github.com/triggerdotdev/trigger.dev</guid>
+      <pubDate>Sat, 04 Apr 2026 19:45:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>PDFMathTranslate/PDFMathTranslate</title>
+      <link>https://github.com/PDFMathTranslate/PDFMathTranslate</link>
+      <description>32698 stelle | Lingua originale: Inglese
+[Demo EMNLP 2025] Traduzione di articoli scientifici in PDF con formati preservati - Traduzione bilingue del testo completo di documenti PDF basata sull'intelligenza artificiale che mantiene completamente la composizione, supporta Google/DeepL/Ollama/OpenAI e altri servizi e fornisce CLI/GUI/MCP/Docker/Zotero
+Link: https://github.com/PDFMathTranslate/PDFMathTranslate</description>
+      <guid>https://github.com/PDFMathTranslate/PDFMathTranslate</guid>
+      <pubDate>Sat, 04 Apr 2026 19:45:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>farion1231/cc-switch</title>
+      <link>https://github.com/farion1231/cc-switch</link>
+      <description>38841 stelle | Lingua originale: Inglese
+Uno strumento di assistente all-in-one desktop multipiattaforma per Claude Code, Codex, OpenCode, openclaw e Gemini CLI.
+Link: https://github.com/farion1231/cc-switch</description>
+      <guid>https://github.com/farion1231/cc-switch</guid>
+      <pubDate>Sat, 04 Apr 2026 19:45:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>sansan0/TrendRadar</title>
+      <link>https://github.com/sansan0/TrendRadar</link>
+      <description>50859 stelle | Lingua originale: NO
+ Monitoraggio dell'opinione pubblica e delle tendenze basato sull'intelligenza artificiale con aggregazione multipiattaforma, RSS e avvisi intelligenti.  Dì addio al sovraccarico di informazioni con il tuo assistente di monitoraggio dell'opinione pubblica basato sull'intelligenza artificiale e lo strumento di screening degli hot spot! Aggrega hotspot multipiattaforma + abbonamenti RSS per supportare un preciso filtraggio delle parole chiave. Screening di notizie intelligenti tramite intelligen...
+Link: https://github.com/sansan0/TrendRadar</description>
+      <guid>https://github.com/sansan0/TrendRadar</guid>
+      <pubDate>Sat, 04 Apr 2026 19:45:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>punkpeye/awesome-mcp-servers</title>
+      <link>https://github.com/punkpeye/awesome-mcp-servers</link>
+      <description>84206 stelle | Lingua originale: Inglese
+Una raccolta di server MCP.
+Link: https://github.com/punkpeye/awesome-mcp-servers</description>
+      <guid>https://github.com/punkpeye/awesome-mcp-servers</guid>
+      <pubDate>Sat, 04 Apr 2026 19:45:00 +0000</pubDate>
+    </item>
     <item>
       <title>NevaMind-AI/memU</title>
       <link>https://github.com/NevaMind-AI/memU</link>
-      <description>13294 stelle | Lingua originale: Inglese
-Memoria per agenti proattivi 24 ore su 24, 7 giorni su 7 come openclaw (moltbot, jawdbot).
-Link: https://github.com/NevaMind-AI/memU</description>
+      <description>13294 stelle | Lingua originale: Inglese Memoria per agenti proattivi 24 ore su 24, 7 giorni su 7 come openclaw (moltbot, jawdbot). Link: https://github.com/NevaMind-AI/memU</description>
       <guid>https://github.com/NevaMind-AI/memU</guid>
       <pubDate>Sat, 04 Apr 2026 14:03:49 +0000</pubDate>
     </item>
     <item>
       <title>googleapis/genai-toolbox</title>
       <link>https://github.com/googleapis/genai-toolbox</link>
-      <description>13684 stelle | Lingua originale: Inglese
-MCP Toolbox for Databases è un server MCP open source per database.
-Link: https://github.com/googleapis/genai-toolbox</description>
+      <description>13684 stelle | Lingua originale: Inglese MCP Toolbox for Databases è un server MCP open source per database. Link: https://github.com/googleapis/genai-toolbox</description>
       <guid>https://github.com/googleapis/genai-toolbox</guid>
       <pubDate>Sat, 04 Apr 2026 14:03:47 +0000</pubDate>
     </item>
     <item>
       <title>electerm/electerm</title>
       <link>https://github.com/electerm/electerm</link>
-      <description>13826 stelle | Lingua originale: Inglese
-Terminale/ssh/sftp/ftp/telnet/serialport/RDP/VNC/client Spice (linux, mac, win)
-Link: https://github.com/electerm/electerm</description>
+      <description>13826 stelle | Lingua originale: Inglese Terminale/ssh/sftp/ftp/telnet/serialport/RDP/VNC/client Spice (linux, mac, win) Link: https://github.com/electerm/electerm</description>
       <guid>https://github.com/electerm/electerm</guid>
       <pubDate>Sat, 04 Apr 2026 14:03:46 +0000</pubDate>
     </item>
     <item>
       <title>Panniantong/Agent-Reach</title>
       <link>https://github.com/Panniantong/Agent-Reach</link>
-      <description>15035 stelle | Lingua originale: Inglese
-Dai gli occhi al tuo agente IA per vedere l'intera Internet. Leggi e cerca su Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu: una CLI, zero costi API.
-Link: https://github.com/Panniantong/Agent-Reach</description>
+      <description>15035 stelle | Lingua originale: Inglese Dai gli occhi al tuo agente IA per vedere l'intera Internet. Leggi e cerca su Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu: una CLI, zero costi API. Link: https://github.com/Panniantong/Agent-Reach</description>
       <guid>https://github.com/Panniantong/Agent-Reach</guid>
       <pubDate>Sat, 04 Apr 2026 14:03:45 +0000</pubDate>
     </item>
     <item>
       <title>agentscope-ai/agentscope</title>
       <link>https://github.com/agentscope-ai/agentscope</link>
-      <description>22957 stelle | Lingua originale: Inglese
-Costruisci ed esegui agenti visibili, comprensibili e di cui ti puoi fidare.
-Link: https://github.com/agentscope-ai/agentscope</description>
+      <description>22957 stelle | Lingua originale: Inglese Costruisci ed esegui agenti visibili, comprensibili e di cui ti puoi fidare. Link: https://github.com/agentscope-ai/agentscope</description>
       <guid>https://github.com/agentscope-ai/agentscope</guid>
       <pubDate>Sat, 04 Apr 2026 14:03:44 +0000</pubDate>
     </item>
@@ -330,41 +365,6 @@ Link: https://github.com/agentscope-ai/agentscope</description>
       <description>76914 stelle | Lingua originale: Inglese RAGFlow è un motore RAG (Retrieval-Augmented Generation) open source leader che fonde RAG all'avanguardia con funzionalità dell'agente per creare un livello di contesto superiore per LLM Link: https://github.com/infiniflow/ragflow</description>
       <guid>https://github.com/infiniflow/ragflow</guid>
       <pubDate>Thu, 02 Apr 2026 15:38:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>netdata/netdata</title>
-      <link>https://github.com/netdata/netdata</link>
-      <description>78285 stelle | Lingua originale: Inglese Il percorso più veloce verso l'osservabilità dell'intero stack basato sull'intelligenza artificiale, anche per i team snelli. Link: https://github.com/netdata/netdata</description>
-      <guid>https://github.com/netdata/netdata</guid>
-      <pubDate>Thu, 02 Apr 2026 09:40:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>open-webui/open-webui</title>
-      <link>https://github.com/open-webui/open-webui</link>
-      <description>129619 stelle | Lingua originale: Inglese Interfaccia AI intuitiva (supporta Ollama, API OpenAI, ...) Link: https://github.com/open-webui/open-webui</description>
-      <guid>https://github.com/open-webui/open-webui</guid>
-      <pubDate>Thu, 02 Apr 2026 09:40:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>affaan-m/everything-claude-code</title>
-      <link>https://github.com/affaan-m/everything-claude-code</link>
-      <description>132365 stelle | Lingua originale: Inglese Il sistema di ottimizzazione delle prestazioni del cablaggio dell'agente. Competenze, istinto, memoria, sicurezza e sviluppo incentrato sulla ricerca per Claude Code, Codex, Opencode, Cursor e oltre. Link: https://github.com/affaan-m/everything-claude-code</description>
-      <guid>https://github.com/affaan-m/everything-claude-code</guid>
-      <pubDate>Thu, 02 Apr 2026 09:40:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>langgenius/dify</title>
-      <link>https://github.com/langgenius/dify</link>
-      <description>135463 stelle | Lingua originale: Inglese Piattaforma pronta per la produzione per lo sviluppo del flusso di lavoro degli agenti. Link: https://github.com/langgenius/dify</description>
-      <guid>https://github.com/langgenius/dify</guid>
-      <pubDate>Thu, 02 Apr 2026 09:39:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>Snailclimb/JavaGuide</title>
-      <link>https://github.com/Snailclimb/JavaGuide</link>
-      <description>154603 stelle | Lingua originale: Cinese Intervista Java e guida generale all'intervista back-end, che copre le basi del computer, i database, la distribuzione, l'alta concorrenza, la progettazione del sistema e lo sviluppo di applicazioni AI Link: https://github.com/Snailclimb/JavaGuide</description>
-      <guid>https://github.com/Snailclimb/JavaGuide</guid>
-      <pubDate>Thu, 02 Apr 2026 09:39:57 +0000</pubDate>
     </item>
   </channel>
 </rss>

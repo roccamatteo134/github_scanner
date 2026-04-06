@@ -5,49 +5,84 @@
     <link>https://github.com</link>
     <description>Nuove risorse AI trovate su GitHub</description>
     <language>it</language>
-    <lastBuildDate>Mon, 06 Apr 2026 06:18:24 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 06 Apr 2026 14:38:27 +0000</lastBuildDate>
+    <item>
+      <title>czlonkowski/n8n-mcp</title>
+      <link>https://github.com/czlonkowski/n8n-mcp</link>
+      <description>17606 stelle | Lingua originale: Inglese
+Un MCP per Claude Desktop/Claude Code/Windsurf/Cursor per creare flussi di lavoro n8n per te
+Link: https://github.com/czlonkowski/n8n-mcp</description>
+      <guid>https://github.com/czlonkowski/n8n-mcp</guid>
+      <pubDate>Mon, 06 Apr 2026 14:38:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>qax-os/excelize</title>
+      <link>https://github.com/qax-os/excelize</link>
+      <description>20449 stelle | Lingua originale: Inglese
+Libreria linguistica Go per leggere e scrivere fogli di calcolo Microsoft Excel™ (XLAM / XLSM / XLSX / XLTM / XLTX)
+Link: https://github.com/qax-os/excelize</description>
+      <guid>https://github.com/qax-os/excelize</guid>
+      <pubDate>Mon, 06 Apr 2026 14:38:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>activepieces/activepieces</title>
+      <link>https://github.com/activepieces/activepieces</link>
+      <description>21586 stelle | Lingua originale: Inglese
+Agenti AI e MCP e automazione del flusso di lavoro AI • (~400 server MCP per agenti AI) • Automazione AI/agente AI con MCP • Flussi di lavoro AI e agenti AI • MCP per agenti AI
+Link: https://github.com/activepieces/activepieces</description>
+      <guid>https://github.com/activepieces/activepieces</guid>
+      <pubDate>Mon, 06 Apr 2026 14:38:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>flipped-aurora/gin-vue-admin</title>
+      <link>https://github.com/flipped-aurora/gin-vue-admin</link>
+      <description>24534 stelle | Lingua originale: Cinese
+Vite+Vue3+Gin dispone di una piattaforma di sviluppo di base assistita da intelligenza artificiale, una soluzione di sviluppo AI+ aziendale a livello aziendale, servizi ausiliari mcp integrati, gestione delle competenze integrata e supporta l'uso misto di TS e JS. Integra funzioni di sviluppo essenziali come autenticazione JWT, gestione dei diritti, routing dinamico, componenti controllabili visibili e nascosti, incapsulamento del paging, intercettazione dell'accesso multipunto, autorizzazioni ...
+Link: https://github.com/flipped-aurora/gin-vue-admin</description>
+      <guid>https://github.com/flipped-aurora/gin-vue-admin</guid>
+      <pubDate>Mon, 06 Apr 2026 14:38:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>alibaba/nacos</title>
+      <link>https://github.com/alibaba/nacos</link>
+      <description>32801 stelle | Lingua originale: Inglese
+una piattaforma dinamica di rilevamento, configurazione e gestione dei servizi facile da usare per la creazione di applicazioni native del cloud AI.
+Link: https://github.com/alibaba/nacos</description>
+      <guid>https://github.com/alibaba/nacos</guid>
+      <pubDate>Mon, 06 Apr 2026 14:38:21 +0000</pubDate>
+    </item>
     <item>
       <title>78/xiaozhi-esp32</title>
       <link>https://github.com/78/xiaozhi-esp32</link>
-      <description>25394 stelle | Lingua originale: Inglese
-Un chatbot basato su MCP | Un chatbot basato su MCP
-Link: https://github.com/78/xiaozhi-esp32</description>
+      <description>25394 stelle | Lingua originale: Inglese Un chatbot basato su MCP | Un chatbot basato su MCP Link: https://github.com/78/xiaozhi-esp32</description>
       <guid>https://github.com/78/xiaozhi-esp32</guid>
       <pubDate>Mon, 06 Apr 2026 06:18:24 +0000</pubDate>
     </item>
     <item>
       <title>sickn33/antigravity-awesome-skills</title>
       <link>https://github.com/sickn33/antigravity-awesome-skills</link>
-      <description>30920 stelle | Lingua originale: Inglese
-Libreria GitHub installabile con oltre 1.340 competenze agentiche per Claude Code, Cursor, Codex CLI, Gemini CLI, Antigravity e altro ancora. Include CLI di installazione, pacchetti, flussi di lavoro e raccolte di competenze ufficiali/della comunità.
-Link: https://github.com/sickn33/antigravity-awesome-skills</description>
+      <description>30920 stelle | Lingua originale: Inglese Libreria GitHub installabile con oltre 1.340 competenze agentiche per Claude Code, Cursor, Codex CLI, Gemini CLI, Antigravity e altro ancora. Include CLI di installazione, pacchetti, flussi di lavoro e raccolte di competenze ufficiali/della comunità. Link: https://github.com/sickn33/antigravity-awesome-skills</description>
       <guid>https://github.com/sickn33/antigravity-awesome-skills</guid>
       <pubDate>Mon, 06 Apr 2026 06:18:23 +0000</pubDate>
     </item>
     <item>
       <title>patchy631/ai-engineering-hub</title>
       <link>https://github.com/patchy631/ai-engineering-hub</link>
-      <description>33206 stelle | Lingua originale: Inglese
-Tutorial approfonditi su LLM, RAG e applicazioni di agenti AI nel mondo reale.
-Link: https://github.com/patchy631/ai-engineering-hub</description>
+      <description>33206 stelle | Lingua originale: Inglese Tutorial approfonditi su LLM, RAG e applicazioni di agenti AI nel mondo reale. Link: https://github.com/patchy631/ai-engineering-hub</description>
       <guid>https://github.com/patchy631/ai-engineering-hub</guid>
       <pubDate>Mon, 06 Apr 2026 06:18:21 +0000</pubDate>
     </item>
     <item>
       <title>ComposioHQ/awesome-claude-skills</title>
       <link>https://github.com/ComposioHQ/awesome-claude-skills</link>
-      <description>51417 stelle | Lingua originale: Inglese
-Un elenco curato di fantastiche competenze, risorse e strumenti di Claude per personalizzare i flussi di lavoro AI di Claude
-Link: https://github.com/ComposioHQ/awesome-claude-skills</description>
+      <description>51417 stelle | Lingua originale: Inglese Un elenco curato di fantastiche competenze, risorse e strumenti di Claude per personalizzare i flussi di lavoro AI di Claude Link: https://github.com/ComposioHQ/awesome-claude-skills</description>
       <guid>https://github.com/ComposioHQ/awesome-claude-skills</guid>
       <pubDate>Mon, 06 Apr 2026 06:18:20 +0000</pubDate>
     </item>
     <item>
       <title>lobehub/lobehub</title>
       <link>https://github.com/lobehub/lobehub</link>
-      <description>74782 stelle | Lingua originale: Inglese
-Lo spazio definitivo per il lavoro e la vita: per trovare, costruire e collaborare con colleghi di agenti che crescono insieme a te. Stiamo portando il cablaggio degli agenti a un livello superiore, consentendo la collaborazione tra più agenti, la progettazione semplice del team di agenti e l'introduzione degli agenti come unità di interazione lavorativa.
-Link: https://github.com/lobehub/lobehub</description>
+      <description>74782 stelle | Lingua originale: Inglese Lo spazio definitivo per il lavoro e la vita: per trovare, costruire e collaborare con colleghi di agenti che crescono insieme a te. Stiamo portando il cablaggio degli agenti a un livello superiore, consentendo la collaborazione tra più agenti, la progettazione semplice del team di agenti e l'introduzione degli agenti come unità di interazione lavorativa. Link: https://github.com/lobehub/lobehub</description>
       <guid>https://github.com/lobehub/lobehub</guid>
       <pubDate>Mon, 06 Apr 2026 06:18:19 +0000</pubDate>
     </item>
@@ -330,41 +365,6 @@ Link: https://github.com/lobehub/lobehub</description>
       <description>57579 stelle | Lingua originale: Inglese L'acceleratore di produttività AI tutto in uno. Sul dispositivo e sulla privacy prima di tutto, senza fastidiose impostazioni o configurazioni. Link: https://github.com/Mintplex-Labs/anything-llm</description>
       <guid>https://github.com/Mintplex-Labs/anything-llm</guid>
       <pubDate>Sat, 04 Apr 2026 05:14:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>microsoft/mcp-for-beginners</title>
-      <link>https://github.com/microsoft/mcp-for-beginners</link>
-      <description>15783 stelle | Lingua originale: Inglese Questo curriculum open source introduce i fondamenti del Model Context Protocol (MCP) attraverso esempi reali e multilingue in .NET, Java, TypeScript, JavaScript, Rust e Python. Progettato per gli sviluppatori, si concentra su tecniche pratiche per la creazione di flussi di lavoro IA modulari, scalabili e sicuri, dall'impostazione della sessione all'orchestrazione dei servizi. Link: https://github.com/microsoft/mcp-for-beginners</description>
-      <guid>https://github.com/microsoft/mcp-for-beginners</guid>
-      <pubDate>Fri, 03 Apr 2026 19:55:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>anthropics/claude-plugins-official</title>
-      <link>https://github.com/anthropics/claude-plugins-official</link>
-      <description>15891 stelle | Lingua originale: Inglese Directory ufficiale gestita da Anthropic di plugin Claude Code di alta qualità. Link: https://github.com/anthropics/claude-plugins-official</description>
-      <guid>https://github.com/anthropics/claude-plugins-official</guid>
-      <pubDate>Fri, 03 Apr 2026 19:55:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>udecode/plate</title>
-      <link>https://github.com/udecode/plate</link>
-      <description>16099 stelle | Lingua originale: Inglese Editor di testo ricco con AI e shadcn/ui Link: https://github.com/udecode/plate</description>
-      <guid>https://github.com/udecode/plate</guid>
-      <pubDate>Fri, 03 Apr 2026 19:55:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>labring/FastGPT</title>
-      <link>https://github.com/labring/FastGPT</link>
-      <description>27603 stelle | Lingua originale: Inglese FastGPT è una piattaforma basata sulla conoscenza costruita sugli LLM, offre una suite completa di funzionalità pronte all'uso come elaborazione dei dati, recupero RAG e orchestrazione del flusso di lavoro con intelligenza artificiale visiva, consentendoti di sviluppare e distribuire facilmente complessi sistemi di risposta alle domande senza la necessità di impostazioni o configurazioni estese. Link: https://github.com/labring/FastGPT</description>
-      <guid>https://github.com/labring/FastGPT</guid>
-      <pubDate>Fri, 03 Apr 2026 19:55:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>ChromeDevTools/chrome-devtools-mcp</title>
-      <link>https://github.com/ChromeDevTools/chrome-devtools-mcp</link>
-      <description>33063 stelle | Lingua originale: Inglese Chrome DevTools per agenti di codifica Link: https://github.com/ChromeDevTools/chrome-devtools-mcp</description>
-      <guid>https://github.com/ChromeDevTools/chrome-devtools-mcp</guid>
-      <pubDate>Fri, 03 Apr 2026 19:55:09 +0000</pubDate>
     </item>
   </channel>
 </rss>

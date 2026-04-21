@@ -5,49 +5,84 @@
     <link>https://github.com</link>
     <description>Nuove risorse AI trovate su GitHub</description>
     <language>it</language>
-    <lastBuildDate>Tue, 21 Apr 2026 07:51:30 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 21 Apr 2026 19:13:00 +0000</lastBuildDate>
+    <item>
+      <title>netdata/netdata</title>
+      <link>https://github.com/netdata/netdata</link>
+      <description>78541 stelle | Lingua originale: Inglese
+Il percorso più veloce verso l'osservabilità dell'intero stack basato sull'intelligenza artificiale, anche per i team snelli.
+Link: https://github.com/netdata/netdata</description>
+      <guid>https://github.com/netdata/netdata</guid>
+      <pubDate>Tue, 21 Apr 2026 19:13:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>open-webui/open-webui</title>
+      <link>https://github.com/open-webui/open-webui</link>
+      <description>133045 stelle | Lingua originale: Inglese
+Interfaccia AI intuitiva (supporta Ollama, API OpenAI, ...)
+Link: https://github.com/open-webui/open-webui</description>
+      <guid>https://github.com/open-webui/open-webui</guid>
+      <pubDate>Tue, 21 Apr 2026 19:12:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>langgenius/dify</title>
+      <link>https://github.com/langgenius/dify</link>
+      <description>138654 stelle | Lingua originale: Inglese
+Piattaforma pronta per la produzione per lo sviluppo del flusso di lavoro degli agenti.
+Link: https://github.com/langgenius/dify</description>
+      <guid>https://github.com/langgenius/dify</guid>
+      <pubDate>Tue, 21 Apr 2026 19:12:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>Snailclimb/JavaGuide</title>
+      <link>https://github.com/Snailclimb/JavaGuide</link>
+      <description>155124 stelle | Lingua originale: Cinese
+Intervista Java e guida generale all'intervista back-end, che copre le basi del computer, i database, la distribuzione, l'elevata concorrenza, la progettazione del sistema e lo sviluppo di applicazioni AI
+Link: https://github.com/Snailclimb/JavaGuide</description>
+      <guid>https://github.com/Snailclimb/JavaGuide</guid>
+      <pubDate>Tue, 21 Apr 2026 19:12:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>affaan-m/everything-claude-code</title>
+      <link>https://github.com/affaan-m/everything-claude-code</link>
+      <description>163016 stelle | Lingua originale: Inglese
+Il sistema di ottimizzazione delle prestazioni del cablaggio dell'agente. Competenze, istinto, memoria, sicurezza e sviluppo incentrato sulla ricerca per Claude Code, Codex, Opencode, Cursor e oltre.
+Link: https://github.com/affaan-m/everything-claude-code</description>
+      <guid>https://github.com/affaan-m/everything-claude-code</guid>
+      <pubDate>Tue, 21 Apr 2026 19:12:54 +0000</pubDate>
+    </item>
     <item>
       <title>triggerdotdev/trigger.dev</title>
       <link>https://github.com/triggerdotdev/trigger.dev</link>
-      <description>14613 stelle | Lingua originale: Inglese
-Trigger.dev: crea e distribuisci agenti e flussi di lavoro IA completamente gestiti
-Link: https://github.com/triggerdotdev/trigger.dev</description>
+      <description>14613 stelle | Lingua originale: Inglese Trigger.dev: crea e distribuisci agenti e flussi di lavoro IA completamente gestiti Link: https://github.com/triggerdotdev/trigger.dev</description>
       <guid>https://github.com/triggerdotdev/trigger.dev</guid>
       <pubDate>Tue, 21 Apr 2026 07:51:30 +0000</pubDate>
     </item>
     <item>
       <title>PDFMathTranslate/PDFMathTranslate</title>
       <link>https://github.com/PDFMathTranslate/PDFMathTranslate</link>
-      <description>33219 stelle | Lingua originale: Inglese
-[Demo EMNLP 2025] Traduzione di articoli scientifici in PDF con formati preservati - Traduzione bilingue del testo completo di documenti PDF basata sull'intelligenza artificiale che mantiene completamente la composizione, supporta Google/DeepL/Ollama/OpenAI e altri servizi e fornisce CLI/GUI/MCP/Docker/Zotero
-Link: https://github.com/PDFMathTranslate/PDFMathTranslate</description>
+      <description>33219 stelle | Lingua originale: Inglese [Demo EMNLP 2025] Traduzione di articoli scientifici in PDF con formati preservati - Traduzione bilingue del testo completo di documenti PDF basata sull'intelligenza artificiale che mantiene completamente la composizione, supporta Google/DeepL/Ollama/OpenAI e altri servizi e fornisce CLI/GUI/MCP/Docker/Zotero Link: https://github.com/PDFMathTranslate/PDFMathTranslate</description>
       <guid>https://github.com/PDFMathTranslate/PDFMathTranslate</guid>
       <pubDate>Tue, 21 Apr 2026 07:51:28 +0000</pubDate>
     </item>
     <item>
       <title>farion1231/cc-switch</title>
       <link>https://github.com/farion1231/cc-switch</link>
-      <description>48136 stelle | Lingua originale: Inglese
-Uno strumento di assistente all-in-one desktop multipiattaforma per Claude Code, Codex, OpenCode, openclaw e Gemini CLI.
-Link: https://github.com/farion1231/cc-switch</description>
+      <description>48136 stelle | Lingua originale: Inglese Uno strumento di assistente all-in-one desktop multipiattaforma per Claude Code, Codex, OpenCode, openclaw e Gemini CLI. Link: https://github.com/farion1231/cc-switch</description>
       <guid>https://github.com/farion1231/cc-switch</guid>
       <pubDate>Tue, 21 Apr 2026 07:51:27 +0000</pubDate>
     </item>
     <item>
       <title>sansan0/TrendRadar</title>
       <link>https://github.com/sansan0/TrendRadar</link>
-      <description>53138 stelle | Lingua originale: Inglese
- Monitoraggio dell'opinione pubblica e delle tendenze basato sull'intelligenza artificiale con aggregazione multipiattaforma, RSS e avvisi intelligenti.  Dì addio al sovraccarico di informazioni con il tuo assistente per il monitoraggio dell'opinione pubblica basato sull'intelligenza artificiale e lo strumento di screening degli hot spot! Aggrega hotspot multipiattaforma + abbonamenti RSS per supportare un preciso filtraggio delle parole chiave. Screening di notizie intelligenti tramite intell...
-Link: https://github.com/sansan0/TrendRadar</description>
+      <description>53138 stelle | Lingua originale: Inglese  Monitoraggio dell'opinione pubblica e delle tendenze basato sull'intelligenza artificiale con aggregazione multipiattaforma, RSS e avvisi intelligenti.  Dì addio al sovraccarico di informazioni con il tuo assistente per il monitoraggio dell'opinione pubblica basato sull'intelligenza artificiale e lo strumento di screening degli hot spot! Aggrega hotspot multipiattaforma + abbonamenti RSS per supportare un preciso filtraggio delle parole chiave. Screening di notizie intelligenti tramite intell... Link: https://github.com/sansan0/TrendRadar</description>
       <guid>https://github.com/sansan0/TrendRadar</guid>
       <pubDate>Tue, 21 Apr 2026 07:51:26 +0000</pubDate>
     </item>
     <item>
       <title>punkpeye/awesome-mcp-servers</title>
       <link>https://github.com/punkpeye/awesome-mcp-servers</link>
-      <description>85202 stelle | Lingua originale: Inglese
-Una raccolta di server MCP.
-Link: https://github.com/punkpeye/awesome-mcp-servers</description>
+      <description>85202 stelle | Lingua originale: Inglese Una raccolta di server MCP. Link: https://github.com/punkpeye/awesome-mcp-servers</description>
       <guid>https://github.com/punkpeye/awesome-mcp-servers</guid>
       <pubDate>Tue, 21 Apr 2026 07:51:25 +0000</pubDate>
     </item>
@@ -330,41 +365,6 @@ Link: https://github.com/punkpeye/awesome-mcp-servers</description>
       <description>184395 stelle | Lingua originale: Inglese Piattaforma di automazione del flusso di lavoro Fair-Code con funzionalità IA native. Combina la creazione visiva con codice personalizzato, self-host o cloud, oltre 400 integrazioni. Link: https://github.com/n8n-io/n8n</description>
       <guid>https://github.com/n8n-io/n8n</guid>
       <pubDate>Fri, 17 Apr 2026 07:47:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>Kong/kong</title>
-      <link>https://github.com/Kong/kong</link>
-      <description>43204 stelle | Lingua originale: Inglese  API e gateway AI Link: https://github.com/Kong/kong</description>
-      <guid>https://github.com/Kong/kong</guid>
-      <pubDate>Thu, 16 Apr 2026 19:15:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>mudler/LocalAI</title>
-      <link>https://github.com/mudler/LocalAI</link>
-      <description>45457 stelle | Lingua originale: Inglese LocalAI è il motore AI open source. Esegui qualsiasi modello (LLM, visione, voce, immagini, video) su qualsiasi hardware. Nessuna GPU richiesta. Link: https://github.com/mudler/LocalAI</description>
-      <guid>https://github.com/mudler/LocalAI</guid>
-      <pubDate>Thu, 16 Apr 2026 19:15:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>jeecgboot/JeecgBoot</title>
-      <link>https://github.com/jeecgboot/JeecgBoot</link>
-      <description>45868 stelle | Lingua originale: Cinese Una piattaforma low-code basata sull'intelligenza artificiale che fornisce la doppia modalità di "codice zero" e "generazione codice": la modalità codice zero costruisce il sistema in una frase e la modalità di generazione codice genera automaticamente i codici front-end e back-end e l'SQL di creazione di tabelle, che può essere generato ed eseguito. La piattaforma dispone di assistente chat AI integrato, modello di grandi dimensioni AI, base di conoscenza, orchestrazione dei processi AI, MCP e ... Link: https://github.com/jeecgboot/JeecgBoot</description>
-      <guid>https://github.com/jeecgboot/JeecgBoot</guid>
-      <pubDate>Thu, 16 Apr 2026 19:15:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>upstash/context7</title>
-      <link>https://github.com/upstash/context7</link>
-      <description>52909 stelle | Lingua originale: Inglese Piattaforma Context7: documentazione aggiornata del codice per LLM ed editor di codice AI Link: https://github.com/upstash/context7</description>
-      <guid>https://github.com/upstash/context7</guid>
-      <pubDate>Thu, 16 Apr 2026 19:15:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>infiniflow/ragflow</title>
-      <link>https://github.com/infiniflow/ragflow</link>
-      <description>78267 stelle | Lingua originale: Inglese RAGFlow è un motore RAG (Retrieval-Augmented Generation) open source leader che fonde RAG all'avanguardia con funzionalità dell'agente per creare un livello di contesto superiore per LLM Link: https://github.com/infiniflow/ragflow</description>
-      <guid>https://github.com/infiniflow/ragflow</guid>
-      <pubDate>Thu, 16 Apr 2026 19:15:32 +0000</pubDate>
     </item>
   </channel>
 </rss>

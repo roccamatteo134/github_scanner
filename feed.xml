@@ -5,49 +5,84 @@
     <link>https://github.com</link>
     <description>Nuove risorse AI trovate su GitHub</description>
     <language>it</language>
-    <lastBuildDate>Sun, 26 Apr 2026 07:40:34 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 26 Apr 2026 18:55:48 +0000</lastBuildDate>
+    <item>
+      <title>triggerdotdev/trigger.dev</title>
+      <link>https://github.com/triggerdotdev/trigger.dev</link>
+      <description>14678 stelle | Lingua originale: Inglese
+Trigger.dev: crea e distribuisci agenti e flussi di lavoro IA completamente gestiti
+Link: https://github.com/triggerdotdev/trigger.dev</description>
+      <guid>https://github.com/triggerdotdev/trigger.dev</guid>
+      <pubDate>Sun, 26 Apr 2026 18:55:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>PDFMathTranslate/PDFMathTranslate</title>
+      <link>https://github.com/PDFMathTranslate/PDFMathTranslate</link>
+      <description>33325 stelle | Lingua originale: Inglese
+[Demo EMNLP 2025] Traduzione di articoli scientifici in PDF con formati preservati - Traduzione bilingue del testo completo di documenti PDF basata sull'intelligenza artificiale che mantiene completamente la composizione, supporta Google/DeepL/Ollama/OpenAI e altri servizi e fornisce CLI/GUI/MCP/Docker/Zotero
+Link: https://github.com/PDFMathTranslate/PDFMathTranslate</description>
+      <guid>https://github.com/PDFMathTranslate/PDFMathTranslate</guid>
+      <pubDate>Sun, 26 Apr 2026 18:55:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>farion1231/cc-switch</title>
+      <link>https://github.com/farion1231/cc-switch</link>
+      <description>51859 stelle | Lingua originale: Inglese
+Uno strumento di assistente all-in-one desktop multipiattaforma per Claude Code, Codex, OpenCode, openclaw e Gemini CLI.
+Link: https://github.com/farion1231/cc-switch</description>
+      <guid>https://github.com/farion1231/cc-switch</guid>
+      <pubDate>Sun, 26 Apr 2026 18:55:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>sansan0/TrendRadar</title>
+      <link>https://github.com/sansan0/TrendRadar</link>
+      <description>55349 stelle | Lingua originale: NO
+ Monitoraggio dell'opinione pubblica e delle tendenze basato sull'intelligenza artificiale con aggregazione multipiattaforma, RSS e avvisi intelligenti.  Dì addio al sovraccarico di informazioni con il tuo assistente per il monitoraggio dell'opinione pubblica basato sull'intelligenza artificiale e lo strumento di screening degli hot spot! Aggrega hotspot multipiattaforma + abbonamenti RSS per supportare un preciso filtraggio delle parole chiave. Screening di notizie intelligenti tramite intell...
+Link: https://github.com/sansan0/TrendRadar</description>
+      <guid>https://github.com/sansan0/TrendRadar</guid>
+      <pubDate>Sun, 26 Apr 2026 18:55:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>punkpeye/awesome-mcp-servers</title>
+      <link>https://github.com/punkpeye/awesome-mcp-servers</link>
+      <description>85687 stelle | Lingua originale: Inglese
+Una raccolta di server MCP.
+Link: https://github.com/punkpeye/awesome-mcp-servers</description>
+      <guid>https://github.com/punkpeye/awesome-mcp-servers</guid>
+      <pubDate>Sun, 26 Apr 2026 18:55:43 +0000</pubDate>
+    </item>
     <item>
       <title>googleapis/mcp-toolbox</title>
       <link>https://github.com/googleapis/mcp-toolbox</link>
-      <description>14816 stelle | Lingua originale: Inglese
-MCP Toolbox for Databases è un server MCP open source per database.
-Link: https://github.com/googleapis/mcp-toolbox</description>
+      <description>14816 stelle | Lingua originale: Inglese MCP Toolbox for Databases è un server MCP open source per database. Link: https://github.com/googleapis/mcp-toolbox</description>
       <guid>https://github.com/googleapis/mcp-toolbox</guid>
       <pubDate>Sun, 26 Apr 2026 07:40:34 +0000</pubDate>
     </item>
     <item>
       <title>microsoft/mcp-for-beginners</title>
       <link>https://github.com/microsoft/mcp-for-beginners</link>
-      <description>15946 stelle | Lingua originale: Inglese
-Questo curriculum open source introduce i fondamenti del Model Context Protocol (MCP) attraverso esempi reali e multilingue in .NET, Java, TypeScript, JavaScript, Rust e Python. Progettato per gli sviluppatori, si concentra su tecniche pratiche per la creazione di flussi di lavoro IA modulari, scalabili e sicuri, dall'impostazione della sessione all'orchestrazione dei servizi.
-Link: https://github.com/microsoft/mcp-for-beginners</description>
+      <description>15946 stelle | Lingua originale: Inglese Questo curriculum open source introduce i fondamenti del Model Context Protocol (MCP) attraverso esempi reali e multilingue in .NET, Java, TypeScript, JavaScript, Rust e Python. Progettato per gli sviluppatori, si concentra su tecniche pratiche per la creazione di flussi di lavoro IA modulari, scalabili e sicuri, dall'impostazione della sessione all'orchestrazione dei servizi. Link: https://github.com/microsoft/mcp-for-beginners</description>
       <guid>https://github.com/microsoft/mcp-for-beginners</guid>
       <pubDate>Sun, 26 Apr 2026 07:40:33 +0000</pubDate>
     </item>
     <item>
       <title>udecode/plate</title>
       <link>https://github.com/udecode/plate</link>
-      <description>16197 stelle | Lingua originale: Inglese
-Editor di testo ricco con AI e shadcn/ui
-Link: https://github.com/udecode/plate</description>
+      <description>16197 stelle | Lingua originale: Inglese Editor di testo ricco con AI e shadcn/ui Link: https://github.com/udecode/plate</description>
       <guid>https://github.com/udecode/plate</guid>
       <pubDate>Sun, 26 Apr 2026 07:40:32 +0000</pubDate>
     </item>
     <item>
       <title>Panniantong/Agent-Reach</title>
       <link>https://github.com/Panniantong/Agent-Reach</link>
-      <description>18246 stelle | Lingua originale: Inglese
-Dai gli occhi al tuo agente IA per vedere l'intera Internet. Leggi e cerca su Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu: una CLI, zero costi API.
-Link: https://github.com/Panniantong/Agent-Reach</description>
+      <description>18246 stelle | Lingua originale: Inglese Dai gli occhi al tuo agente IA per vedere l'intera Internet. Leggi e cerca su Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu: una CLI, zero costi API. Link: https://github.com/Panniantong/Agent-Reach</description>
       <guid>https://github.com/Panniantong/Agent-Reach</guid>
       <pubDate>Sun, 26 Apr 2026 07:40:31 +0000</pubDate>
     </item>
     <item>
       <title>agentscope-ai/agentscope</title>
       <link>https://github.com/agentscope-ai/agentscope</link>
-      <description>24350 stelle | Lingua originale: Inglese
-Costruisci ed esegui agenti visibili, comprensibili e di cui ti puoi fidare.
-Link: https://github.com/agentscope-ai/agentscope</description>
+      <description>24350 stelle | Lingua originale: Inglese Costruisci ed esegui agenti visibili, comprensibili e di cui ti puoi fidare. Link: https://github.com/agentscope-ai/agentscope</description>
       <guid>https://github.com/agentscope-ai/agentscope</guid>
       <pubDate>Sun, 26 Apr 2026 07:40:29 +0000</pubDate>
     </item>
@@ -330,41 +365,6 @@ Link: https://github.com/agentscope-ai/agentscope</description>
       <description>78709 stelle | Lingua originale: Inglese RAGFlow è un motore RAG (Retrieval-Augmented Generation) open source leader che fonde RAG all'avanguardia con funzionalità dell'agente per creare un livello di contesto superiore per LLM Link: https://github.com/infiniflow/ragflow</description>
       <guid>https://github.com/infiniflow/ragflow</guid>
       <pubDate>Wed, 22 Apr 2026 07:48:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>netdata/netdata</title>
-      <link>https://github.com/netdata/netdata</link>
-      <description>78541 stelle | Lingua originale: Inglese Il percorso più veloce verso l'osservabilità dell'intero stack basato sull'intelligenza artificiale, anche per i team snelli. Link: https://github.com/netdata/netdata</description>
-      <guid>https://github.com/netdata/netdata</guid>
-      <pubDate>Tue, 21 Apr 2026 19:13:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>open-webui/open-webui</title>
-      <link>https://github.com/open-webui/open-webui</link>
-      <description>133045 stelle | Lingua originale: Inglese Interfaccia AI intuitiva (supporta Ollama, API OpenAI, ...) Link: https://github.com/open-webui/open-webui</description>
-      <guid>https://github.com/open-webui/open-webui</guid>
-      <pubDate>Tue, 21 Apr 2026 19:12:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>langgenius/dify</title>
-      <link>https://github.com/langgenius/dify</link>
-      <description>138654 stelle | Lingua originale: Inglese Piattaforma pronta per la produzione per lo sviluppo del flusso di lavoro degli agenti. Link: https://github.com/langgenius/dify</description>
-      <guid>https://github.com/langgenius/dify</guid>
-      <pubDate>Tue, 21 Apr 2026 19:12:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>Snailclimb/JavaGuide</title>
-      <link>https://github.com/Snailclimb/JavaGuide</link>
-      <description>155124 stelle | Lingua originale: Cinese Intervista Java e guida generale all'intervista back-end, che copre le basi del computer, i database, la distribuzione, l'elevata concorrenza, la progettazione del sistema e lo sviluppo di applicazioni AI Link: https://github.com/Snailclimb/JavaGuide</description>
-      <guid>https://github.com/Snailclimb/JavaGuide</guid>
-      <pubDate>Tue, 21 Apr 2026 19:12:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>affaan-m/everything-claude-code</title>
-      <link>https://github.com/affaan-m/everything-claude-code</link>
-      <description>163016 stelle | Lingua originale: Inglese Il sistema di ottimizzazione delle prestazioni del cablaggio dell'agente. Competenze, istinto, memoria, sicurezza e sviluppo incentrato sulla ricerca per Claude Code, Codex, Opencode, Cursor e oltre. Link: https://github.com/affaan-m/everything-claude-code</description>
-      <guid>https://github.com/affaan-m/everything-claude-code</guid>
-      <pubDate>Tue, 21 Apr 2026 19:12:54 +0000</pubDate>
     </item>
   </channel>
 </rss>

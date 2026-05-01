@@ -5,49 +5,84 @@
     <link>https://github.com</link>
     <description>Nuove risorse AI trovate su GitHub</description>
     <language>it</language>
-    <lastBuildDate>Thu, 30 Apr 2026 19:22:12 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 01 May 2026 08:11:56 +0000</lastBuildDate>
+    <item>
+      <title>RightNow-AI/openfang</title>
+      <link>https://github.com/RightNow-AI/openfang</link>
+      <description>17090 stelle | Lingua originale: Inglese
+Sistema operativo dell'agente open source
+Link: https://github.com/RightNow-AI/openfang</description>
+      <guid>https://github.com/RightNow-AI/openfang</guid>
+      <pubDate>Fri, 01 May 2026 08:11:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>anthropics/claude-plugins-official</title>
+      <link>https://github.com/anthropics/claude-plugins-official</link>
+      <description>18328 stelle | Lingua originale: Inglese
+Directory ufficiale gestita da Anthropic di plugin Claude Code di alta qualità.
+Link: https://github.com/anthropics/claude-plugins-official</description>
+      <guid>https://github.com/anthropics/claude-plugins-official</guid>
+      <pubDate>Fri, 01 May 2026 08:11:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>PrefectHQ/fastmcp</title>
+      <link>https://github.com/PrefectHQ/fastmcp</link>
+      <description>24934 stelle | Lingua originale: Inglese
+ Il modo veloce e Pythonico per creare server e client MCP.
+Link: https://github.com/PrefectHQ/fastmcp</description>
+      <guid>https://github.com/PrefectHQ/fastmcp</guid>
+      <pubDate>Fri, 01 May 2026 08:11:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>go-kratos/kratos</title>
+      <link>https://github.com/go-kratos/kratos</link>
+      <description>25653 stelle | Lingua originale: Inglese
+Il tuo framework di microservizi Go definitivo per l'era del cloud-native.
+Link: https://github.com/go-kratos/kratos</description>
+      <guid>https://github.com/go-kratos/kratos</guid>
+      <pubDate>Fri, 01 May 2026 08:11:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>microsoft/playwright-mcp</title>
+      <link>https://github.com/microsoft/playwright-mcp</link>
+      <description>31868 stelle | Lingua originale: Inglese
+Server MCP del drammaturgo
+Link: https://github.com/microsoft/playwright-mcp</description>
+      <guid>https://github.com/microsoft/playwright-mcp</guid>
+      <pubDate>Fri, 01 May 2026 08:11:51 +0000</pubDate>
+    </item>
     <item>
       <title>alibaba/page-agent</title>
       <link>https://github.com/alibaba/page-agent</link>
-      <description>17498 stelle | Lingua originale: Inglese
-Agente GUI in-page JavaScript. Controlla le interfacce web con il linguaggio naturale.
-Link: https://github.com/alibaba/page-agent</description>
+      <description>17498 stelle | Lingua originale: Inglese Agente GUI in-page JavaScript. Controlla le interfacce web con il linguaggio naturale. Link: https://github.com/alibaba/page-agent</description>
       <guid>https://github.com/alibaba/page-agent</guid>
       <pubDate>Thu, 30 Apr 2026 19:22:12 +0000</pubDate>
     </item>
     <item>
       <title>mastra-ai/mastra</title>
       <link>https://github.com/mastra-ai/mastra</link>
-      <description>23448 stelle | Lingua originale: Inglese
-Dal team dietro Gatsby, Mastra è un framework per la creazione di applicazioni e agenti basati sull'intelligenza artificiale con un moderno stack TypeScript.
-Link: https://github.com/mastra-ai/mastra</description>
+      <description>23448 stelle | Lingua originale: Inglese Dal team dietro Gatsby, Mastra è un framework per la creazione di applicazioni e agenti basati sull'intelligenza artificiale con un moderno stack TypeScript. Link: https://github.com/mastra-ai/mastra</description>
       <guid>https://github.com/mastra-ai/mastra</guid>
       <pubDate>Thu, 30 Apr 2026 19:22:11 +0000</pubDate>
     </item>
     <item>
       <title>yamadashy/repomix</title>
       <link>https://github.com/yamadashy/repomix</link>
-      <description>24140 stelle | Lingua originale: Inglese
- Repomix è un potente strumento che racchiude l'intero repository in un unico file compatibile con l'intelligenza artificiale. Perfetto per quando devi fornire la tua base di codice a Large Language Models (LLM) o altri strumenti di intelligenza artificiale come Claude, ChatGPT, DeepSeek, Perplexity, Gemini, Gemma, Llama, Grok e altri.
-Link: https://github.com/yamadashy/repomix</description>
+      <description>24140 stelle | Lingua originale: Inglese  Repomix è un potente strumento che racchiude l'intero repository in un unico file compatibile con l'intelligenza artificiale. Perfetto per quando devi fornire la tua base di codice a Large Language Models (LLM) o altri strumenti di intelligenza artificiale come Claude, ChatGPT, DeepSeek, Perplexity, Gemini, Gemma, Llama, Grok e altri. Link: https://github.com/yamadashy/repomix</description>
       <guid>https://github.com/yamadashy/repomix</guid>
       <pubDate>Thu, 30 Apr 2026 19:22:10 +0000</pubDate>
     </item>
     <item>
       <title>aaif-goose/goose</title>
       <link>https://github.com/aaif-goose/goose</link>
-      <description>43596 stelle | Lingua originale: Inglese
-un agente AI open source ed estensibile che va oltre i suggerimenti del codice: installa, esegui, modifica e testa con qualsiasi LLM
-Link: https://github.com/aaif-goose/goose</description>
+      <description>43596 stelle | Lingua originale: Inglese un agente AI open source ed estensibile che va oltre i suggerimenti del codice: installa, esegui, modifica e testa con qualsiasi LLM Link: https://github.com/aaif-goose/goose</description>
       <guid>https://github.com/aaif-goose/goose</guid>
       <pubDate>Thu, 30 Apr 2026 19:22:09 +0000</pubDate>
     </item>
     <item>
       <title>Mintplex-Labs/anything-llm</title>
       <link>https://github.com/Mintplex-Labs/anything-llm</link>
-      <description>59303 stelle | Lingua originale: Inglese
-L'acceleratore di produttività AI tutto in uno. Sul dispositivo e sulla privacy prima di tutto, senza fastidiose impostazioni o configurazioni.
-Link: https://github.com/Mintplex-Labs/anything-llm</description>
+      <description>59303 stelle | Lingua originale: Inglese L'acceleratore di produttività AI tutto in uno. Sul dispositivo e sulla privacy prima di tutto, senza fastidiose impostazioni o configurazioni. Link: https://github.com/Mintplex-Labs/anything-llm</description>
       <guid>https://github.com/Mintplex-Labs/anything-llm</guid>
       <pubDate>Thu, 30 Apr 2026 19:22:07 +0000</pubDate>
     </item>
@@ -330,41 +365,6 @@ Link: https://github.com/Mintplex-Labs/anything-llm</description>
       <description>85687 stelle | Lingua originale: Inglese Una raccolta di server MCP. Link: https://github.com/punkpeye/awesome-mcp-servers</description>
       <guid>https://github.com/punkpeye/awesome-mcp-servers</guid>
       <pubDate>Sun, 26 Apr 2026 18:55:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>googleapis/mcp-toolbox</title>
-      <link>https://github.com/googleapis/mcp-toolbox</link>
-      <description>14816 stelle | Lingua originale: Inglese MCP Toolbox for Databases è un server MCP open source per database. Link: https://github.com/googleapis/mcp-toolbox</description>
-      <guid>https://github.com/googleapis/mcp-toolbox</guid>
-      <pubDate>Sun, 26 Apr 2026 07:40:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>microsoft/mcp-for-beginners</title>
-      <link>https://github.com/microsoft/mcp-for-beginners</link>
-      <description>15946 stelle | Lingua originale: Inglese Questo curriculum open source introduce i fondamenti del Model Context Protocol (MCP) attraverso esempi reali e multilingue in .NET, Java, TypeScript, JavaScript, Rust e Python. Progettato per gli sviluppatori, si concentra su tecniche pratiche per la creazione di flussi di lavoro IA modulari, scalabili e sicuri, dall'impostazione della sessione all'orchestrazione dei servizi. Link: https://github.com/microsoft/mcp-for-beginners</description>
-      <guid>https://github.com/microsoft/mcp-for-beginners</guid>
-      <pubDate>Sun, 26 Apr 2026 07:40:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>udecode/plate</title>
-      <link>https://github.com/udecode/plate</link>
-      <description>16197 stelle | Lingua originale: Inglese Editor di testo ricco con AI e shadcn/ui Link: https://github.com/udecode/plate</description>
-      <guid>https://github.com/udecode/plate</guid>
-      <pubDate>Sun, 26 Apr 2026 07:40:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>Panniantong/Agent-Reach</title>
-      <link>https://github.com/Panniantong/Agent-Reach</link>
-      <description>18246 stelle | Lingua originale: Inglese Dai gli occhi al tuo agente IA per vedere l'intera Internet. Leggi e cerca su Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu: una CLI, zero costi API. Link: https://github.com/Panniantong/Agent-Reach</description>
-      <guid>https://github.com/Panniantong/Agent-Reach</guid>
-      <pubDate>Sun, 26 Apr 2026 07:40:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>agentscope-ai/agentscope</title>
-      <link>https://github.com/agentscope-ai/agentscope</link>
-      <description>24350 stelle | Lingua originale: Inglese Costruisci ed esegui agenti visibili, comprensibili e di cui ti puoi fidare. Link: https://github.com/agentscope-ai/agentscope</description>
-      <guid>https://github.com/agentscope-ai/agentscope</guid>
-      <pubDate>Sun, 26 Apr 2026 07:40:29 +0000</pubDate>
     </item>
   </channel>
 </rss>

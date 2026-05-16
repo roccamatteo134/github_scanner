@@ -5,49 +5,84 @@
     <link>https://github.com</link>
     <description>Nuove risorse AI trovate su GitHub</description>
     <language>it</language>
-    <lastBuildDate>Sat, 16 May 2026 08:04:49 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 16 May 2026 19:05:03 +0000</lastBuildDate>
+    <item>
+      <title>qax-os/excelize</title>
+      <link>https://github.com/qax-os/excelize</link>
+      <description>20590 stelle | Lingua originale: Inglese
+Libreria linguistica Go per leggere e scrivere fogli di calcolo Microsoft Excel™ (XLAM / XLSM / XLSX / XLTM / XLTX)
+Link: https://github.com/qax-os/excelize</description>
+      <guid>https://github.com/qax-os/excelize</guid>
+      <pubDate>Sat, 16 May 2026 19:05:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>czlonkowski/n8n-mcp</title>
+      <link>https://github.com/czlonkowski/n8n-mcp</link>
+      <description>20996 stelle | Lingua originale: Inglese
+Un MCP per Claude Desktop/Claude Code/Windsurf/Cursor per creare flussi di lavoro n8n per te
+Link: https://github.com/czlonkowski/n8n-mcp</description>
+      <guid>https://github.com/czlonkowski/n8n-mcp</guid>
+      <pubDate>Sat, 16 May 2026 19:05:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>activepieces/activepieces</title>
+      <link>https://github.com/activepieces/activepieces</link>
+      <description>22223 stelle | Lingua originale: Inglese
+Agenti AI e MCP e automazione del flusso di lavoro AI • (~400 server MCP per agenti AI) • Automazione AI/agente AI con MCP • Flussi di lavoro AI e agenti AI • MCP per agenti AI
+Link: https://github.com/activepieces/activepieces</description>
+      <guid>https://github.com/activepieces/activepieces</guid>
+      <pubDate>Sat, 16 May 2026 19:05:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>labring/FastGPT</title>
+      <link>https://github.com/labring/FastGPT</link>
+      <description>28046 stelle | Lingua originale: Inglese
+FastGPT è una piattaforma basata sulla conoscenza costruita sugli LLM, offre una suite completa di funzionalità pronte all'uso come elaborazione dei dati, recupero RAG e orchestrazione del flusso di lavoro con intelligenza artificiale visiva, consentendoti di sviluppare e distribuire facilmente complessi sistemi di risposta alle domande senza la necessità di impostazioni o configurazioni estese.
+Link: https://github.com/labring/FastGPT</description>
+      <guid>https://github.com/labring/FastGPT</guid>
+      <pubDate>Sat, 16 May 2026 19:04:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>ChromeDevTools/chrome-devtools-mcp</title>
+      <link>https://github.com/ChromeDevTools/chrome-devtools-mcp</link>
+      <description>39768 stelle | Lingua originale: Inglese
+Chrome DevTools per agenti di codifica
+Link: https://github.com/ChromeDevTools/chrome-devtools-mcp</description>
+      <guid>https://github.com/ChromeDevTools/chrome-devtools-mcp</guid>
+      <pubDate>Sat, 16 May 2026 19:04:58 +0000</pubDate>
+    </item>
     <item>
       <title>flipped-aurora/gin-vue-admin</title>
       <link>https://github.com/flipped-aurora/gin-vue-admin</link>
-      <description>24679 stelle | Lingua originale: Cinese
-Vite+Vue3+Gin dispone di una piattaforma di sviluppo di base assistita da intelligenza artificiale, una soluzione di sviluppo AI+ aziendale a livello aziendale, servizi ausiliari mcp integrati, gestione delle competenze integrata e supporta l'uso misto di TS e JS. Integra funzioni di sviluppo essenziali come autenticazione JWT, gestione dei diritti, routing dinamico, componenti controllabili visibili e nascosti, incapsulamento del paging, intercettazione dell'accesso multipunto, autorizzazioni ...
-Link: https://github.com/flipped-aurora/gin-vue-admin</description>
+      <description>24679 stelle | Lingua originale: Cinese Vite+Vue3+Gin dispone di una piattaforma di sviluppo di base assistita da intelligenza artificiale, una soluzione di sviluppo AI+ aziendale a livello aziendale, servizi ausiliari mcp integrati, gestione delle competenze integrata e supporta l'uso misto di TS e JS. Integra funzioni di sviluppo essenziali come autenticazione JWT, gestione dei diritti, routing dinamico, componenti controllabili visibili e nascosti, incapsulamento del paging, intercettazione dell'accesso multipunto, autorizzazioni ... Link: https://github.com/flipped-aurora/gin-vue-admin</description>
       <guid>https://github.com/flipped-aurora/gin-vue-admin</guid>
       <pubDate>Sat, 16 May 2026 08:04:49 +0000</pubDate>
     </item>
     <item>
       <title>78/xiaozhi-esp32</title>
       <link>https://github.com/78/xiaozhi-esp32</link>
-      <description>26478 stelle | Lingua originale: Inglese
-Un chatbot basato su MCP | Un chatbot basato su MCP
-Link: https://github.com/78/xiaozhi-esp32</description>
+      <description>26478 stelle | Lingua originale: Inglese Un chatbot basato su MCP | Un chatbot basato su MCP Link: https://github.com/78/xiaozhi-esp32</description>
       <guid>https://github.com/78/xiaozhi-esp32</guid>
       <pubDate>Sat, 16 May 2026 08:04:47 +0000</pubDate>
     </item>
     <item>
       <title>assafelovic/gpt-researcher</title>
       <link>https://github.com/assafelovic/gpt-researcher</link>
-      <description>27095 stelle | Lingua originale: Inglese
-Un agente autonomo che conduce ricerche approfondite su qualsiasi dato utilizzando qualsiasi fornitore LLM
-Link: https://github.com/assafelovic/gpt-researcher</description>
+      <description>27095 stelle | Lingua originale: Inglese Un agente autonomo che conduce ricerche approfondite su qualsiasi dato utilizzando qualsiasi fornitore LLM Link: https://github.com/assafelovic/gpt-researcher</description>
       <guid>https://github.com/assafelovic/gpt-researcher</guid>
       <pubDate>Sat, 16 May 2026 08:04:47 +0000</pubDate>
     </item>
     <item>
       <title>ComposioHQ/composio</title>
       <link>https://github.com/ComposioHQ/composio</link>
-      <description>28267 stelle | Lingua originale: Inglese
-Composio supporta oltre 1000 toolkit, ricerca di strumenti, gestione del contesto, autenticazione e un workbench sandbox per aiutarti a creare agenti IA che trasformano le intenzioni in azione.
-Link: https://github.com/ComposioHQ/composio</description>
+      <description>28267 stelle | Lingua originale: Inglese Composio supporta oltre 1000 toolkit, ricerca di strumenti, gestione del contesto, autenticazione e un workbench sandbox per aiutarti a creare agenti IA che trasformano le intenzioni in azione. Link: https://github.com/ComposioHQ/composio</description>
       <guid>https://github.com/ComposioHQ/composio</guid>
       <pubDate>Sat, 16 May 2026 08:04:45 +0000</pubDate>
     </item>
     <item>
       <title>alibaba/nacos</title>
       <link>https://github.com/alibaba/nacos</link>
-      <description>32950 stelle | Lingua originale: Inglese
-una piattaforma dinamica di rilevamento, configurazione e gestione dei servizi facile da usare per la creazione di applicazioni native del cloud AI.
-Link: https://github.com/alibaba/nacos</description>
+      <description>32950 stelle | Lingua originale: Inglese una piattaforma dinamica di rilevamento, configurazione e gestione dei servizi facile da usare per la creazione di applicazioni native del cloud AI. Link: https://github.com/alibaba/nacos</description>
       <guid>https://github.com/alibaba/nacos</guid>
       <pubDate>Sat, 16 May 2026 08:04:44 +0000</pubDate>
     </item>
@@ -330,41 +365,6 @@ Link: https://github.com/alibaba/nacos</description>
       <description>32402 stelle | Lingua originale: Inglese Server MCP del drammaturgo Link: https://github.com/microsoft/playwright-mcp</description>
       <guid>https://github.com/microsoft/playwright-mcp</guid>
       <pubDate>Tue, 12 May 2026 08:40:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>alibaba/page-agent</title>
-      <link>https://github.com/alibaba/page-agent</link>
-      <description>17738 stelle | Lingua originale: Inglese Agente GUI in-page JavaScript. Controlla le interfacce web con il linguaggio naturale. Link: https://github.com/alibaba/page-agent</description>
-      <guid>https://github.com/alibaba/page-agent</guid>
-      <pubDate>Mon, 11 May 2026 19:47:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>mastra-ai/mastra</title>
-      <link>https://github.com/mastra-ai/mastra</link>
-      <description>23783 stelle | Lingua originale: Inglese Dal team dietro Gatsby, Mastra è un framework per la creazione di applicazioni e agenti basati sull'intelligenza artificiale con un moderno stack TypeScript. Link: https://github.com/mastra-ai/mastra</description>
-      <guid>https://github.com/mastra-ai/mastra</guid>
-      <pubDate>Mon, 11 May 2026 19:47:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>yamadashy/repomix</title>
-      <link>https://github.com/yamadashy/repomix</link>
-      <description>24607 stelle | Lingua originale: Inglese  Repomix è un potente strumento che racchiude l'intero repository in un unico file compatibile con l'intelligenza artificiale. Perfetto per quando devi fornire la tua base di codice a Large Language Models (LLM) o altri strumenti di intelligenza artificiale come Claude, ChatGPT, DeepSeek, Perplexity, Gemini, Gemma, Llama, Grok e altri. Link: https://github.com/yamadashy/repomix</description>
-      <guid>https://github.com/yamadashy/repomix</guid>
-      <pubDate>Mon, 11 May 2026 19:47:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>aaif-goose/goose</title>
-      <link>https://github.com/aaif-goose/goose</link>
-      <description>45011 stelle | Lingua originale: Inglese un agente AI open source ed estensibile che va oltre i suggerimenti del codice: installa, esegui, modifica e testa con qualsiasi LLM Link: https://github.com/aaif-goose/goose</description>
-      <guid>https://github.com/aaif-goose/goose</guid>
-      <pubDate>Mon, 11 May 2026 19:47:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>Mintplex-Labs/anything-llm</title>
-      <link>https://github.com/Mintplex-Labs/anything-llm</link>
-      <description>59878 stelle | Lingua originale: Inglese L'acceleratore di produttività AI tutto in uno. Sul dispositivo e sulla privacy prima di tutto, senza fastidiose impostazioni o configurazioni. Link: https://github.com/Mintplex-Labs/anything-llm</description>
-      <guid>https://github.com/Mintplex-Labs/anything-llm</guid>
-      <pubDate>Mon, 11 May 2026 19:47:28 +0000</pubDate>
     </item>
   </channel>
 </rss>

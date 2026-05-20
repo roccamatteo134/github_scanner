@@ -5,49 +5,84 @@
     <link>https://github.com</link>
     <description>Nuove risorse AI trovate su GitHub</description>
     <language>it</language>
-    <lastBuildDate>Tue, 19 May 2026 19:52:14 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 20 May 2026 09:34:50 +0000</lastBuildDate>
+    <item>
+      <title>mksglu/context-mode</title>
+      <link>https://github.com/mksglu/context-mode</link>
+      <description>15203 stelle | Lingua originale: Inglese
+Ottimizzazione della finestra di contesto per gli agenti di codifica AI. Output dello strumento Sandbox, riduzione del 98%. 15 piattaforme
+Link: https://github.com/mksglu/context-mode</description>
+      <guid>https://github.com/mksglu/context-mode</guid>
+      <pubDate>Wed, 20 May 2026 09:34:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>googleapis/mcp-toolbox</title>
+      <link>https://github.com/googleapis/mcp-toolbox</link>
+      <description>15293 stelle | Lingua originale: Inglese
+MCP Toolbox for Databases è un server MCP open source per database.
+Link: https://github.com/googleapis/mcp-toolbox</description>
+      <guid>https://github.com/googleapis/mcp-toolbox</guid>
+      <pubDate>Wed, 20 May 2026 09:34:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>D4Vinci/Scrapling</title>
+      <link>https://github.com/D4Vinci/Scrapling</link>
+      <description>51515 stelle | Lingua originale: Inglese
+ Un framework di Web Scraping adattivo che gestisce qualsiasi cosa, da una singola richiesta a una scansione su vasta scala!
+Link: https://github.com/D4Vinci/Scrapling</description>
+      <guid>https://github.com/D4Vinci/Scrapling</guid>
+      <pubDate>Wed, 20 May 2026 09:34:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>MemPalace/mempalace</title>
+      <link>https://github.com/MemPalace/mempalace</link>
+      <description>52536 stelle | Lingua originale: Inglese
+Il sistema di memoria AI open source con i migliori benchmark. Ed è gratuito.
+Link: https://github.com/MemPalace/mempalace</description>
+      <guid>https://github.com/MemPalace/mempalace</guid>
+      <pubDate>Wed, 20 May 2026 09:34:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>n8n-io/n8n</title>
+      <link>https://github.com/n8n-io/n8n</link>
+      <description>188812 stelle | Lingua originale: Inglese
+Piattaforma di automazione del flusso di lavoro Fair-Code con funzionalità IA native. Combina la creazione visiva con codice personalizzato, self-host o cloud, oltre 400 integrazioni.
+Link: https://github.com/n8n-io/n8n</description>
+      <guid>https://github.com/n8n-io/n8n</guid>
+      <pubDate>Wed, 20 May 2026 09:34:45 +0000</pubDate>
+    </item>
     <item>
       <title>tirth8205/code-review-graph</title>
       <link>https://github.com/tirth8205/code-review-graph</link>
-      <description>16899 stelle | Lingua originale: Inglese
-Grafico della conoscenza locale per Claude Code. Costruisce una mappa persistente della tua base di codice in modo che Claude legga solo ciò che conta: 6,8 volte in meno di token nelle revisioni e fino a 49 volte in meno nelle attività di codifica quotidiane.
-Link: https://github.com/tirth8205/code-review-graph</description>
+      <description>16899 stelle | Lingua originale: Inglese Grafico della conoscenza locale per Claude Code. Costruisce una mappa persistente della tua base di codice in modo che Claude legga solo ciò che conta: 6,8 volte in meno di token nelle revisioni e fino a 49 volte in meno nelle attività di codifica quotidiane. Link: https://github.com/tirth8205/code-review-graph</description>
       <guid>https://github.com/tirth8205/code-review-graph</guid>
       <pubDate>Tue, 19 May 2026 19:52:14 +0000</pubDate>
     </item>
     <item>
       <title>Kong/kong</title>
       <link>https://github.com/Kong/kong</link>
-      <description>43417 stelle | Lingua originale: Inglese
- API e gateway AI
-Link: https://github.com/Kong/kong</description>
+      <description>43417 stelle | Lingua originale: Inglese  API e gateway AI Link: https://github.com/Kong/kong</description>
       <guid>https://github.com/Kong/kong</guid>
       <pubDate>Tue, 19 May 2026 19:52:13 +0000</pubDate>
     </item>
     <item>
       <title>jeecgboot/JeecgBoot</title>
       <link>https://github.com/jeecgboot/JeecgBoot</link>
-      <description>46327 stelle | Lingua originale: Cinese
-Piattaforma AI low-code, driver dual-mode "low-code + zero-code": low-code genera codice front-end e back-end con un clic, zero-code costruisce il sistema in 5 minuti e AI Skills può disegnare processi, progettare moduli e generare l'intero sistema in una frase. Chat AI integrata, knowledge base, orchestrazione dei processi, plug-in MCP, ecc., compatibile con i modelli di grandi dimensioni tradizionali. Guidare il modello di sviluppo di "generazione AI → configurazione online → generazione di co...
-Link: https://github.com/jeecgboot/JeecgBoot</description>
+      <description>46327 stelle | Lingua originale: Cinese Piattaforma AI low-code, driver dual-mode "low-code + zero-code": low-code genera codice front-end e back-end con un clic, zero-code costruisce il sistema in 5 minuti e AI Skills può disegnare processi, progettare moduli e generare l'intero sistema in una frase. Chat AI integrata, knowledge base, orchestrazione dei processi, plug-in MCP, ecc., compatibile con i modelli di grandi dimensioni tradizionali. Guidare il modello di sviluppo di "generazione AI → configurazione online → generazione di co... Link: https://github.com/jeecgboot/JeecgBoot</description>
       <guid>https://github.com/jeecgboot/JeecgBoot</guid>
       <pubDate>Tue, 19 May 2026 19:52:11 +0000</pubDate>
     </item>
     <item>
       <title>mudler/LocalAI</title>
       <link>https://github.com/mudler/LocalAI</link>
-      <description>46361 stelle | Lingua originale: Inglese
-LocalAI è il motore AI open source. Esegui qualsiasi modello (LLM, visione, voce, immagini, video) su qualsiasi hardware. Nessuna GPU richiesta.
-Link: https://github.com/mudler/LocalAI</description>
+      <description>46361 stelle | Lingua originale: Inglese LocalAI è il motore AI open source. Esegui qualsiasi modello (LLM, visione, voce, immagini, video) su qualsiasi hardware. Nessuna GPU richiesta. Link: https://github.com/mudler/LocalAI</description>
       <guid>https://github.com/mudler/LocalAI</guid>
       <pubDate>Tue, 19 May 2026 19:52:10 +0000</pubDate>
     </item>
     <item>
       <title>upstash/context7</title>
       <link>https://github.com/upstash/context7</link>
-      <description>55648 stelle | Lingua originale: Inglese
-Piattaforma Context7: documentazione aggiornata del codice per LLM ed editor di codice AI
-Link: https://github.com/upstash/context7</description>
+      <description>55648 stelle | Lingua originale: Inglese Piattaforma Context7: documentazione aggiornata del codice per LLM ed editor di codice AI Link: https://github.com/upstash/context7</description>
       <guid>https://github.com/upstash/context7</guid>
       <pubDate>Tue, 19 May 2026 19:52:10 +0000</pubDate>
     </item>
@@ -330,41 +365,6 @@ Link: https://github.com/upstash/context7</description>
       <description>77128 stelle | Lingua originale: Inglese Lo spazio definitivo per il lavoro e la vita: per trovare, costruire e collaborare con colleghi di agenti che crescono insieme a te. Stiamo portando il cablaggio degli agenti a un livello superiore, consentendo la collaborazione tra più agenti, la progettazione semplice del team di agenti e l'introduzione degli agenti come unità di interazione lavorativa. Link: https://github.com/lobehub/lobehub</description>
       <guid>https://github.com/lobehub/lobehub</guid>
       <pubDate>Fri, 15 May 2026 19:38:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>AstrBotDevs/AstrBot</title>
-      <link>https://github.com/AstrBotDevs/AstrBot</link>
-      <description>32239 stelle | Lingua originale: Inglese Assistente agente AI e framework di sviluppo che integra molte piattaforme di messaggistica istantanea, LLM, plug-in e funzionalità AI e può essere la tua alternativa a Openclaw.  Link: https://github.com/AstrBotDevs/AstrBot</description>
-      <guid>https://github.com/AstrBotDevs/AstrBot</guid>
-      <pubDate>Fri, 15 May 2026 08:49:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>bytedance/UI-TARS-desktop</title>
-      <link>https://github.com/bytedance/UI-TARS-desktop</link>
-      <description>33992 stelle | Lingua originale: Inglese Lo stack di agenti IA multimodali open source: connessione di modelli IA all'avanguardia e infrastruttura di agenti Link: https://github.com/bytedance/UI-TARS-desktop</description>
-      <guid>https://github.com/bytedance/UI-TARS-desktop</guid>
-      <pubDate>Fri, 15 May 2026 08:49:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>danny-avila/LibreChat</title>
-      <link>https://github.com/danny-avila/LibreChat</link>
-      <description>37024 stelle | Lingua originale: Inglese Clone ChatGPT avanzato: funzionalità agenti, MCP, DeepSeek, Anthropic, AWS, OpenAI, API di risposta, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, cambio di modello AI, ricerca di messaggi, interprete di codice, langchain, DALL-E-3, azioni OpenAPI, funzioni, autenticazione multiutente sicura, preimpostazioni, open source per self-hosting. Attivo. Link: https://github.com/danny-avila/LibreChat</description>
-      <guid>https://github.com/danny-avila/LibreChat</guid>
-      <pubDate>Fri, 15 May 2026 08:49:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>mindsdb/minds-platform</title>
-      <link>https://github.com/mindsdb/minds-platform</link>
-      <description>39172 stelle | Lingua originale: Inglese Piattaforma dedicata alla costruzione di una base aperta per l'intelligenza artificiale applicata, progettata per le persone che cercano sistemi di intelligenza artificiale pronti per la produzione che possano realmente controllare, estendere e implementare ovunque. Link: https://github.com/mindsdb/minds-platform</description>
-      <guid>https://github.com/mindsdb/minds-platform</guid>
-      <pubDate>Fri, 15 May 2026 08:49:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>zhayujie/CowAgent</title>
-      <link>https://github.com/zhayujie/CowAgent</link>
-      <description>44475 stelle | Lingua originale: VI CowAgent (chatgpt-on-wechat) è un super assistente AI basato su modelli di grandi dimensioni. Può pensare e pianificare in modo proattivo le attività, accedere al sistema operativo e alle risorse esterne, creare ed eseguire competenze e crescere continuamente attraverso la memoria a lungo termine e la base di conoscenza. È più leggero e conveniente di OpenClaw. Supporta anche l'accesso a WeChat, Feishu, DingTalk, Qiwei, QQ, account pubblici, pagine web, ecc. Puoi scegliere DeepSeek/OpenAI/Claude... Link: https://github.com/zhayujie/CowAgent</description>
-      <guid>https://github.com/zhayujie/CowAgent</guid>
-      <pubDate>Fri, 15 May 2026 08:49:13 +0000</pubDate>
     </item>
   </channel>
 </rss>

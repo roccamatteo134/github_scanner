@@ -190,20 +190,16 @@ def scan():
     
     queries = [
     # I tuoi originali (già ottimi)
-    "topic:mcp stars:>=1000", 
-    "topic:ai-agents stars:>=1000",
-    "topic:copilot-extension stars:>=1000",
-    "topic:llm-tool stars:>=1000",
-    "topic:vscode-extension stars:>=1000",
+    "topic:mcp stars:>=500", 
+    "topic:computer-use stars:>=500", # Agenti che interagiscono con l'interfaccia OS
+    "topic:agentic-workflow stars:>=500", # Workflow iterativi complessi
+    "topic:llm-tool stars:>=500",
+    "topic:multi-agent-systems stars:>=500", # Collaborazione tra più AI
+    "topic:mcp-server stars:>=500",
+    "topic:rag-framework stars:>=500",
+    "topic:open-webui stars:>=500",
 
-    # Integrazioni basate sui trend attuali
-    "topic:agentic-workflow stars:>=1000", # Workflow iterativi complessi
-    "topic:multi-agent-systems stars:>=1000", # Collaborazione tra più AI
-    "topic:autonomous-agents stars:>=1000", # Agenti che operano in autonomia
-    "topic:agent-orchestration stars:>=1000", # Framework per gestire agenti (es. LangGraph)
-    "topic:computer-use stars:>=1000", # Agenti che interagiscono con l'interfaccia OS
-    "topic:llmops stars:>=1000", # Strumenti per la messa in produzione e monitoraggio
-    "topic:generative-ai stars:>=1000" # Il tag "ombrello" per non perdere i big player
+    "topic:mcp-server stars:>=500",
 ]
 
     msg_sent_this_session = 0

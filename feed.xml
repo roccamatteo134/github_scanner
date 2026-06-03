@@ -5,49 +5,84 @@
     <link>https://github.com</link>
     <description>Nuove risorse AI trovate su GitHub</description>
     <language>it</language>
-    <lastBuildDate>Wed, 03 Jun 2026 10:59:17 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 03 Jun 2026 20:55:52 +0000</lastBuildDate>
+    <item>
+      <title>RightNow-AI/openfang</title>
+      <link>https://github.com/RightNow-AI/openfang</link>
+      <description>17718 stelle | Lingua originale: Inglese
+Sistema operativo dell'agente open source
+Link: https://github.com/RightNow-AI/openfang</description>
+      <guid>https://github.com/RightNow-AI/openfang</guid>
+      <pubDate>Wed, 03 Jun 2026 20:55:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>nukeop/nuclear</title>
+      <link>https://github.com/nukeop/nuclear</link>
+      <description>17724 stelle | Lingua originale: Inglese
+Lettore musicale in streaming che trova musica gratuita per te
+Link: https://github.com/nukeop/nuclear</description>
+      <guid>https://github.com/nukeop/nuclear</guid>
+      <pubDate>Wed, 03 Jun 2026 20:55:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>Panniantong/Agent-Reach</title>
+      <link>https://github.com/Panniantong/Agent-Reach</link>
+      <description>20963 stelle | Lingua originale: Inglese
+Dai gli occhi al tuo agente IA per vedere l'intera Internet. Leggi e cerca su Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu: una CLI, zero costi API.
+Link: https://github.com/Panniantong/Agent-Reach</description>
+      <guid>https://github.com/Panniantong/Agent-Reach</guid>
+      <pubDate>Wed, 03 Jun 2026 20:55:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>heygen-com/hyperframes</title>
+      <link>https://github.com/heygen-com/hyperframes</link>
+      <description>23934 stelle | Lingua originale: DA
+Scrivi HTML. Renderizza il video. Costruito per gli agenti.
+Link: https://github.com/heygen-com/hyperframes</description>
+      <guid>https://github.com/heygen-com/hyperframes</guid>
+      <pubDate>Wed, 03 Jun 2026 20:55:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>agentscope-ai/agentscope</title>
+      <link>https://github.com/agentscope-ai/agentscope</link>
+      <description>26068 stelle | Lingua originale: Inglese
+Costruisci ed esegui agenti visibili, comprensibili e di cui ti puoi fidare.
+Link: https://github.com/agentscope-ai/agentscope</description>
+      <guid>https://github.com/agentscope-ai/agentscope</guid>
+      <pubDate>Wed, 03 Jun 2026 20:55:48 +0000</pubDate>
+    </item>
     <item>
       <title>alibaba/page-agent</title>
       <link>https://github.com/alibaba/page-agent</link>
-      <description>18229 stelle | Lingua originale: Inglese
-Agente GUI in-page JavaScript. Controlla le interfacce web con il linguaggio naturale.
-Link: https://github.com/alibaba/page-agent</description>
+      <description>18229 stelle | Lingua originale: Inglese Agente GUI in-page JavaScript. Controlla le interfacce web con il linguaggio naturale. Link: https://github.com/alibaba/page-agent</description>
       <guid>https://github.com/alibaba/page-agent</guid>
       <pubDate>Wed, 03 Jun 2026 10:59:17 +0000</pubDate>
     </item>
     <item>
       <title>PrefectHQ/fastmcp</title>
       <link>https://github.com/PrefectHQ/fastmcp</link>
-      <description>25457 stelle | Lingua originale: Inglese
- Il modo veloce e Pythonico per creare server e client MCP.
-Link: https://github.com/PrefectHQ/fastmcp</description>
+      <description>25457 stelle | Lingua originale: Inglese  Il modo veloce e Pythonico per creare server e client MCP. Link: https://github.com/PrefectHQ/fastmcp</description>
       <guid>https://github.com/PrefectHQ/fastmcp</guid>
       <pubDate>Wed, 03 Jun 2026 10:59:16 +0000</pubDate>
     </item>
     <item>
       <title>go-kratos/kratos</title>
       <link>https://github.com/go-kratos/kratos</link>
-      <description>25707 stelle | Lingua originale: Inglese
-Il tuo framework di microservizi Go definitivo per l'era del cloud-native.
-Link: https://github.com/go-kratos/kratos</description>
+      <description>25707 stelle | Lingua originale: Inglese Il tuo framework di microservizi Go definitivo per l'era del cloud-native. Link: https://github.com/go-kratos/kratos</description>
       <guid>https://github.com/go-kratos/kratos</guid>
       <pubDate>Wed, 03 Jun 2026 10:59:14 +0000</pubDate>
     </item>
     <item>
       <title>anthropics/claude-plugins-official</title>
       <link>https://github.com/anthropics/claude-plugins-official</link>
-      <description>29227 stelle | Lingua originale: Inglese
-Directory ufficiale gestita da Anthropic di plugin Claude Code di alta qualità.
-Link: https://github.com/anthropics/claude-plugins-official</description>
+      <description>29227 stelle | Lingua originale: Inglese Directory ufficiale gestita da Anthropic di plugin Claude Code di alta qualità. Link: https://github.com/anthropics/claude-plugins-official</description>
       <guid>https://github.com/anthropics/claude-plugins-official</guid>
       <pubDate>Wed, 03 Jun 2026 10:59:13 +0000</pubDate>
     </item>
     <item>
       <title>microsoft/playwright-mcp</title>
       <link>https://github.com/microsoft/playwright-mcp</link>
-      <description>33397 stelle | Lingua originale: Inglese
-Server MCP del drammaturgo
-Link: https://github.com/microsoft/playwright-mcp</description>
+      <description>33397 stelle | Lingua originale: Inglese Server MCP del drammaturgo Link: https://github.com/microsoft/playwright-mcp</description>
       <guid>https://github.com/microsoft/playwright-mcp</guid>
       <pubDate>Wed, 03 Jun 2026 10:59:12 +0000</pubDate>
     </item>
@@ -330,41 +365,6 @@ Link: https://github.com/microsoft/playwright-mcp</description>
       <description>198791 stelle | Lingua originale: Inglese Il sistema di ottimizzazione delle prestazioni del cablaggio dell'agente. Competenze, istinto, memoria, sicurezza e sviluppo incentrato sulla ricerca per Claude Code, Codex, Opencode, Cursor e oltre. Link: https://github.com/affaan-m/ECC</description>
       <guid>https://github.com/affaan-m/ECC</guid>
       <pubDate>Sat, 30 May 2026 08:28:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>udecode/plate</title>
-      <link>https://github.com/udecode/plate</link>
-      <description>16304 stelle | Lingua originale: Inglese Editor di testo ricco con AI e shadcn/ui Link: https://github.com/udecode/plate</description>
-      <guid>https://github.com/udecode/plate</guid>
-      <pubDate>Fri, 29 May 2026 20:25:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>PDFMathTranslate/PDFMathTranslate</title>
-      <link>https://github.com/PDFMathTranslate/PDFMathTranslate</link>
-      <description>34219 stelle | Lingua originale: Inglese [Demo EMNLP 2025] Traduzione di articoli scientifici in PDF con formati preservati - Traduzione bilingue del testo completo di documenti PDF basata sull'intelligenza artificiale che mantiene completamente la composizione, supporta Google/DeepL/Ollama/OpenAI e altri servizi e fornisce CLI/GUI/MCP/Docker/Zotero Link: https://github.com/PDFMathTranslate/PDFMathTranslate</description>
-      <guid>https://github.com/PDFMathTranslate/PDFMathTranslate</guid>
-      <pubDate>Fri, 29 May 2026 20:25:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>sansan0/TrendRadar</title>
-      <link>https://github.com/sansan0/TrendRadar</link>
-      <description>58559 stelle | Lingua originale: NO  Monitoraggio dell'opinione pubblica e delle tendenze basato sull'intelligenza artificiale con aggregazione multipiattaforma, RSS e avvisi intelligenti.  Dì addio al sovraccarico di informazioni con il tuo assistente per il monitoraggio dell'opinione pubblica basato sull'intelligenza artificiale e lo strumento di screening degli hot spot! Aggrega hotspot multipiattaforma + abbonamenti RSS per supportare un preciso filtraggio delle parole chiave. Screening di notizie intelligenti tramite intell... Link: https://github.com/sansan0/TrendRadar</description>
-      <guid>https://github.com/sansan0/TrendRadar</guid>
-      <pubDate>Fri, 29 May 2026 20:25:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>farion1231/cc-switch</title>
-      <link>https://github.com/farion1231/cc-switch</link>
-      <description>84618 stelle | Lingua originale: Inglese Un assistente desktop All-in-One multipiattaforma per Claude Code, Codex, OpenCode, OpenClaw, Gemini CLI e Hermes Agent. Unico sito ufficiale: ccswitch.io Link: https://github.com/farion1231/cc-switch</description>
-      <guid>https://github.com/farion1231/cc-switch</guid>
-      <pubDate>Fri, 29 May 2026 20:25:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>punkpeye/awesome-mcp-servers</title>
-      <link>https://github.com/punkpeye/awesome-mcp-servers</link>
-      <description>88155 stelle | Lingua originale: Inglese Una raccolta di server MCP. Link: https://github.com/punkpeye/awesome-mcp-servers</description>
-      <guid>https://github.com/punkpeye/awesome-mcp-servers</guid>
-      <pubDate>Fri, 29 May 2026 20:25:37 +0000</pubDate>
     </item>
   </channel>
 </rss>

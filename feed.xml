@@ -5,49 +5,84 @@
     <link>https://github.com</link>
     <description>Nuove risorse AI trovate su GitHub</description>
     <language>it</language>
-    <lastBuildDate>Wed, 03 Jun 2026 20:55:52 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 04 Jun 2026 09:56:18 +0000</lastBuildDate>
+    <item>
+      <title>mksglu/context-mode</title>
+      <link>https://github.com/mksglu/context-mode</link>
+      <description>16390 stelle | Lingua originale: Inglese
+Ottimizzazione della finestra di contesto per gli agenti di codifica AI. Output dello strumento Sandbox, riduzione del 98%. 15 piattaforme
+Link: https://github.com/mksglu/context-mode</description>
+      <guid>https://github.com/mksglu/context-mode</guid>
+      <pubDate>Thu, 04 Jun 2026 09:56:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>PDFMathTranslate/PDFMathTranslate</title>
+      <link>https://github.com/PDFMathTranslate/PDFMathTranslate</link>
+      <description>34468 stelle | Lingua originale: Inglese
+[Demo EMNLP 2025] Traduzione di articoli scientifici in PDF con formati preservati - Traduzione bilingue del testo completo di documenti PDF basata sull'intelligenza artificiale che mantiene completamente la composizione, supporta Google/DeepL/Ollama/OpenAI e altri servizi e fornisce CLI/GUI/MCP/Docker/Zotero
+Link: https://github.com/PDFMathTranslate/PDFMathTranslate</description>
+      <guid>https://github.com/PDFMathTranslate/PDFMathTranslate</guid>
+      <pubDate>Thu, 04 Jun 2026 09:56:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>sansan0/TrendRadar</title>
+      <link>https://github.com/sansan0/TrendRadar</link>
+      <description>58815 stelle | Lingua originale: Inglese
+ Monitoraggio dell'opinione pubblica e delle tendenze basato sull'intelligenza artificiale con aggregazione multipiattaforma, RSS e avvisi intelligenti.  Dì addio al sovraccarico di informazioni con il tuo assistente per il monitoraggio dell'opinione pubblica basato sull'intelligenza artificiale e lo strumento di screening degli hot spot! Aggrega hotspot multipiattaforma + abbonamenti RSS per supportare un preciso filtraggio delle parole chiave. Screening di notizie intelligenti tramite intell...
+Link: https://github.com/sansan0/TrendRadar</description>
+      <guid>https://github.com/sansan0/TrendRadar</guid>
+      <pubDate>Thu, 04 Jun 2026 09:56:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>punkpeye/awesome-mcp-servers</title>
+      <link>https://github.com/punkpeye/awesome-mcp-servers</link>
+      <description>88485 stelle | Lingua originale: Inglese
+Una raccolta di server MCP.
+Link: https://github.com/punkpeye/awesome-mcp-servers</description>
+      <guid>https://github.com/punkpeye/awesome-mcp-servers</guid>
+      <pubDate>Thu, 04 Jun 2026 09:56:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>farion1231/cc-switch</title>
+      <link>https://github.com/farion1231/cc-switch</link>
+      <description>91267 stelle | Lingua originale: Inglese
+Un assistente desktop All-in-One multipiattaforma per Claude Code, Codex, OpenCode, OpenClaw, Gemini CLI e Hermes Agent. Unico sito ufficiale: ccswitch.io
+Link: https://github.com/farion1231/cc-switch</description>
+      <guid>https://github.com/farion1231/cc-switch</guid>
+      <pubDate>Thu, 04 Jun 2026 09:56:10 +0000</pubDate>
+    </item>
     <item>
       <title>RightNow-AI/openfang</title>
       <link>https://github.com/RightNow-AI/openfang</link>
-      <description>17718 stelle | Lingua originale: Inglese
-Sistema operativo dell'agente open source
-Link: https://github.com/RightNow-AI/openfang</description>
+      <description>17718 stelle | Lingua originale: Inglese Sistema operativo dell'agente open source Link: https://github.com/RightNow-AI/openfang</description>
       <guid>https://github.com/RightNow-AI/openfang</guid>
       <pubDate>Wed, 03 Jun 2026 20:55:52 +0000</pubDate>
     </item>
     <item>
       <title>nukeop/nuclear</title>
       <link>https://github.com/nukeop/nuclear</link>
-      <description>17724 stelle | Lingua originale: Inglese
-Lettore musicale in streaming che trova musica gratuita per te
-Link: https://github.com/nukeop/nuclear</description>
+      <description>17724 stelle | Lingua originale: Inglese Lettore musicale in streaming che trova musica gratuita per te Link: https://github.com/nukeop/nuclear</description>
       <guid>https://github.com/nukeop/nuclear</guid>
       <pubDate>Wed, 03 Jun 2026 20:55:51 +0000</pubDate>
     </item>
     <item>
       <title>Panniantong/Agent-Reach</title>
       <link>https://github.com/Panniantong/Agent-Reach</link>
-      <description>20963 stelle | Lingua originale: Inglese
-Dai gli occhi al tuo agente IA per vedere l'intera Internet. Leggi e cerca su Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu: una CLI, zero costi API.
-Link: https://github.com/Panniantong/Agent-Reach</description>
+      <description>20963 stelle | Lingua originale: Inglese Dai gli occhi al tuo agente IA per vedere l'intera Internet. Leggi e cerca su Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu: una CLI, zero costi API. Link: https://github.com/Panniantong/Agent-Reach</description>
       <guid>https://github.com/Panniantong/Agent-Reach</guid>
       <pubDate>Wed, 03 Jun 2026 20:55:50 +0000</pubDate>
     </item>
     <item>
       <title>heygen-com/hyperframes</title>
       <link>https://github.com/heygen-com/hyperframes</link>
-      <description>23934 stelle | Lingua originale: DA
-Scrivi HTML. Renderizza il video. Costruito per gli agenti.
-Link: https://github.com/heygen-com/hyperframes</description>
+      <description>23934 stelle | Lingua originale: DA Scrivi HTML. Renderizza il video. Costruito per gli agenti. Link: https://github.com/heygen-com/hyperframes</description>
       <guid>https://github.com/heygen-com/hyperframes</guid>
       <pubDate>Wed, 03 Jun 2026 20:55:50 +0000</pubDate>
     </item>
     <item>
       <title>agentscope-ai/agentscope</title>
       <link>https://github.com/agentscope-ai/agentscope</link>
-      <description>26068 stelle | Lingua originale: Inglese
-Costruisci ed esegui agenti visibili, comprensibili e di cui ti puoi fidare.
-Link: https://github.com/agentscope-ai/agentscope</description>
+      <description>26068 stelle | Lingua originale: Inglese Costruisci ed esegui agenti visibili, comprensibili e di cui ti puoi fidare. Link: https://github.com/agentscope-ai/agentscope</description>
       <guid>https://github.com/agentscope-ai/agentscope</guid>
       <pubDate>Wed, 03 Jun 2026 20:55:48 +0000</pubDate>
     </item>
@@ -330,41 +365,6 @@ Link: https://github.com/agentscope-ai/agentscope</description>
       <description>56424 stelle | Lingua originale: Inglese Piattaforma Context7: documentazione aggiornata del codice per LLM ed editor di codice AI Link: https://github.com/upstash/context7</description>
       <guid>https://github.com/upstash/context7</guid>
       <pubDate>Sat, 30 May 2026 19:16:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>netdata/netdata</title>
-      <link>https://github.com/netdata/netdata</link>
-      <description>78972 stelle | Lingua originale: Inglese Il percorso più veloce verso l'osservabilità dell'intero stack basato sull'intelligenza artificiale, anche per i team snelli. Link: https://github.com/netdata/netdata</description>
-      <guid>https://github.com/netdata/netdata</guid>
-      <pubDate>Sat, 30 May 2026 08:28:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>open-webui/open-webui</title>
-      <link>https://github.com/open-webui/open-webui</link>
-      <description>139239 stelle | Lingua originale: Inglese Interfaccia AI intuitiva (supporta Ollama, API OpenAI, ...) Link: https://github.com/open-webui/open-webui</description>
-      <guid>https://github.com/open-webui/open-webui</guid>
-      <pubDate>Sat, 30 May 2026 08:28:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>langgenius/dify</title>
-      <link>https://github.com/langgenius/dify</link>
-      <description>143149 stelle | Lingua originale: Inglese Piattaforma pronta per la produzione per lo sviluppo del flusso di lavoro degli agenti. Link: https://github.com/langgenius/dify</description>
-      <guid>https://github.com/langgenius/dify</guid>
-      <pubDate>Sat, 30 May 2026 08:28:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>Snailclimb/JavaGuide</title>
-      <link>https://github.com/Snailclimb/JavaGuide</link>
-      <description>155966 stelle | Lingua originale: Cinese Intervista Java e guida generale all'intervista back-end, che copre le basi del computer, i database, la distribuzione, l'alta concorrenza, la progettazione del sistema e lo sviluppo di applicazioni AI Link: https://github.com/Snailclimb/JavaGuide</description>
-      <guid>https://github.com/Snailclimb/JavaGuide</guid>
-      <pubDate>Sat, 30 May 2026 08:28:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>affaan-m/ECC</title>
-      <link>https://github.com/affaan-m/ECC</link>
-      <description>198791 stelle | Lingua originale: Inglese Il sistema di ottimizzazione delle prestazioni del cablaggio dell'agente. Competenze, istinto, memoria, sicurezza e sviluppo incentrato sulla ricerca per Claude Code, Codex, Opencode, Cursor e oltre. Link: https://github.com/affaan-m/ECC</description>
-      <guid>https://github.com/affaan-m/ECC</guid>
-      <pubDate>Sat, 30 May 2026 08:28:11 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -5,49 +5,84 @@
     <link>https://github.com</link>
     <description>Nuove risorse AI trovate su GitHub</description>
     <language>it</language>
-    <lastBuildDate>Fri, 12 Jun 2026 20:11:07 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 13 Jun 2026 08:58:14 +0000</lastBuildDate>
+    <item>
+      <title>czlonkowski/n8n-mcp</title>
+      <link>https://github.com/czlonkowski/n8n-mcp</link>
+      <description>21712 stelle | Lingua originale: Inglese
+Un MCP per Claude Desktop/Claude Code/Windsurf/Cursor per creare flussi di lavoro n8n per te
+Link: https://github.com/czlonkowski/n8n-mcp</description>
+      <guid>https://github.com/czlonkowski/n8n-mcp</guid>
+      <pubDate>Sat, 13 Jun 2026 08:58:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>activepieces/activepieces</title>
+      <link>https://github.com/activepieces/activepieces</link>
+      <description>22730 stelle | Lingua originale: Inglese
+Agenti AI e MCP e automazione del flusso di lavoro AI • (~400 server MCP per agenti AI) • Automazione AI/agente AI con MCP • Flussi di lavoro AI e agenti AI • MCP per agenti AI
+Link: https://github.com/activepieces/activepieces</description>
+      <guid>https://github.com/activepieces/activepieces</guid>
+      <pubDate>Sat, 13 Jun 2026 08:58:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>flipped-aurora/gin-vue-admin</title>
+      <link>https://github.com/flipped-aurora/gin-vue-admin</link>
+      <description>24778 stelle | Lingua originale: Cinese
+Vite+Vue3+Gin dispone di una piattaforma di sviluppo di base assistita da intelligenza artificiale, una soluzione di sviluppo AI+ aziendale a livello aziendale, servizi ausiliari mcp integrati, gestione delle competenze integrata e supporta l'uso misto di TS e JS. Integra funzioni di sviluppo essenziali come autenticazione JWT, gestione dei diritti, routing dinamico, componenti controllabili visibili e nascosti, incapsulamento del paging, intercettazione dell'accesso multipunto, autorizzazioni ...
+Link: https://github.com/flipped-aurora/gin-vue-admin</description>
+      <guid>https://github.com/flipped-aurora/gin-vue-admin</guid>
+      <pubDate>Sat, 13 Jun 2026 08:58:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>labring/FastGPT</title>
+      <link>https://github.com/labring/FastGPT</link>
+      <description>28381 stelle | Lingua originale: Inglese
+FastGPT è una piattaforma basata sulla conoscenza costruita sugli LLM, offre una suite completa di funzionalità pronte all'uso come elaborazione dei dati, recupero RAG e orchestrazione del flusso di lavoro con intelligenza artificiale visiva, consentendoti di sviluppare e distribuire facilmente complessi sistemi di risposta alle domande senza la necessità di impostazioni o configurazioni estese.
+Link: https://github.com/labring/FastGPT</description>
+      <guid>https://github.com/labring/FastGPT</guid>
+      <pubDate>Sat, 13 Jun 2026 08:58:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>ChromeDevTools/chrome-devtools-mcp</title>
+      <link>https://github.com/ChromeDevTools/chrome-devtools-mcp</link>
+      <description>43503 stelle | Lingua originale: Inglese
+Chrome DevTools per agenti di codifica
+Link: https://github.com/ChromeDevTools/chrome-devtools-mcp</description>
+      <guid>https://github.com/ChromeDevTools/chrome-devtools-mcp</guid>
+      <pubDate>Sat, 13 Jun 2026 08:58:08 +0000</pubDate>
+    </item>
     <item>
       <title>78/xiaozhi-esp32</title>
       <link>https://github.com/78/xiaozhi-esp32</link>
-      <description>27273 stelle | Lingua originale: Inglese
-Un chatbot basato su MCP | Un chatbot basato su MCP
-Link: https://github.com/78/xiaozhi-esp32</description>
+      <description>27273 stelle | Lingua originale: Inglese Un chatbot basato su MCP | Un chatbot basato su MCP Link: https://github.com/78/xiaozhi-esp32</description>
       <guid>https://github.com/78/xiaozhi-esp32</guid>
       <pubDate>Fri, 12 Jun 2026 20:11:07 +0000</pubDate>
     </item>
     <item>
       <title>assafelovic/gpt-researcher</title>
       <link>https://github.com/assafelovic/gpt-researcher</link>
-      <description>27664 stelle | Lingua originale: Inglese
-Un agente autonomo che conduce ricerche approfondite su qualsiasi dato utilizzando qualsiasi fornitore LLM
-Link: https://github.com/assafelovic/gpt-researcher</description>
+      <description>27664 stelle | Lingua originale: Inglese Un agente autonomo che conduce ricerche approfondite su qualsiasi dato utilizzando qualsiasi fornitore LLM Link: https://github.com/assafelovic/gpt-researcher</description>
       <guid>https://github.com/assafelovic/gpt-researcher</guid>
       <pubDate>Fri, 12 Jun 2026 20:11:06 +0000</pubDate>
     </item>
     <item>
       <title>ComposioHQ/composio</title>
       <link>https://github.com/ComposioHQ/composio</link>
-      <description>28742 stelle | Lingua originale: Inglese
-Composio supporta oltre 1000 toolkit, ricerca di strumenti, gestione del contesto, autenticazione e un ambiente di lavoro sandbox per aiutarti a creare agenti IA che trasformano le intenzioni in azione.
-Link: https://github.com/ComposioHQ/composio</description>
+      <description>28742 stelle | Lingua originale: Inglese Composio supporta oltre 1000 toolkit, ricerca di strumenti, gestione del contesto, autenticazione e un ambiente di lavoro sandbox per aiutarti a creare agenti IA che trasformano le intenzioni in azione. Link: https://github.com/ComposioHQ/composio</description>
       <guid>https://github.com/ComposioHQ/composio</guid>
       <pubDate>Fri, 12 Jun 2026 20:11:05 +0000</pubDate>
     </item>
     <item>
       <title>github/github-mcp-server</title>
       <link>https://github.com/github/github-mcp-server</link>
-      <description>30616 stelle | Lingua originale: Inglese
-Il server MCP ufficiale di GitHub
-Link: https://github.com/github/github-mcp-server</description>
+      <description>30616 stelle | Lingua originale: Inglese Il server MCP ufficiale di GitHub Link: https://github.com/github/github-mcp-server</description>
       <guid>https://github.com/github/github-mcp-server</guid>
       <pubDate>Fri, 12 Jun 2026 20:11:04 +0000</pubDate>
     </item>
     <item>
       <title>alibaba/nacos</title>
       <link>https://github.com/alibaba/nacos</link>
-      <description>33019 stelle | Lingua originale: Inglese
-una piattaforma dinamica di rilevamento, configurazione e gestione dei servizi facile da usare per la creazione di applicazioni native del cloud AI.
-Link: https://github.com/alibaba/nacos</description>
+      <description>33019 stelle | Lingua originale: Inglese una piattaforma dinamica di rilevamento, configurazione e gestione dei servizi facile da usare per la creazione di applicazioni native del cloud AI. Link: https://github.com/alibaba/nacos</description>
       <guid>https://github.com/alibaba/nacos</guid>
       <pubDate>Fri, 12 Jun 2026 20:11:03 +0000</pubDate>
     </item>
@@ -330,41 +365,6 @@ Link: https://github.com/alibaba/nacos</description>
       <description>33645 stelle | Lingua originale: Inglese Server MCP del drammaturgo Link: https://github.com/microsoft/playwright-mcp</description>
       <guid>https://github.com/microsoft/playwright-mcp</guid>
       <pubDate>Mon, 08 Jun 2026 20:16:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>tirth8205/code-review-graph</title>
-      <link>https://github.com/tirth8205/code-review-graph</link>
-      <description>18215 stelle | Lingua originale: Inglese Grafico di intelligence del codice con priorità locale per MCP e CLI. Costruisce una mappa persistente della tua base di codice in modo che gli strumenti di codifica AI leggano solo ciò che conta, con riduzioni del contesto confrontate con revisioni e flussi di lavoro di repository di grandi dimensioni. Link: https://github.com/tirth8205/code-review-graph</description>
-      <guid>https://github.com/tirth8205/code-review-graph</guid>
-      <pubDate>Mon, 08 Jun 2026 10:55:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>mastra-ai/mastra</title>
-      <link>https://github.com/mastra-ai/mastra</link>
-      <description>24874 stelle | Lingua originale: Inglese Dal team dietro Gatsby, Mastra è un framework per la creazione di applicazioni e agenti basati sull'intelligenza artificiale con un moderno stack TypeScript. Link: https://github.com/mastra-ai/mastra</description>
-      <guid>https://github.com/mastra-ai/mastra</guid>
-      <pubDate>Mon, 08 Jun 2026 10:55:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>yamadashy/repomix</title>
-      <link>https://github.com/yamadashy/repomix</link>
-      <description>26088 stelle | Lingua originale: Inglese  Repomix è un potente strumento che racchiude l'intero repository in un unico file compatibile con l'intelligenza artificiale. Perfetto per quando devi fornire la tua base di codice a Large Language Models (LLM) o altri strumenti di intelligenza artificiale come Claude, ChatGPT, DeepSeek, Perplexity, Gemini, Gemma, Llama, Grok e altri. Link: https://github.com/yamadashy/repomix</description>
-      <guid>https://github.com/yamadashy/repomix</guid>
-      <pubDate>Mon, 08 Jun 2026 10:55:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>wshobson/agents</title>
-      <link>https://github.com/wshobson/agents</link>
-      <description>36505 stelle | Lingua originale: Inglese Marketplace di plug-in per agenti multi-harness per Claude Code, Codex CLI, Cursor, OpenCode e Gemini CLI Link: https://github.com/wshobson/agents</description>
-      <guid>https://github.com/wshobson/agents</guid>
-      <pubDate>Mon, 08 Jun 2026 10:55:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>aaif-goose/goose</title>
-      <link>https://github.com/aaif-goose/goose</link>
-      <description>47812 stelle | Lingua originale: Inglese un agente AI open source ed estensibile che va oltre i suggerimenti del codice: installa, esegui, modifica e testa con qualsiasi LLM Link: https://github.com/aaif-goose/goose</description>
-      <guid>https://github.com/aaif-goose/goose</guid>
-      <pubDate>Mon, 08 Jun 2026 10:55:07 +0000</pubDate>
     </item>
   </channel>
 </rss>

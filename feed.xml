@@ -5,49 +5,84 @@
     <link>https://github.com</link>
     <description>Nuove risorse AI trovate su GitHub</description>
     <language>it</language>
-    <lastBuildDate>Fri, 19 Jun 2026 10:26:30 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jun 2026 19:49:34 +0000</lastBuildDate>
+    <item>
+      <title>PrefectHQ/fastmcp</title>
+      <link>https://github.com/PrefectHQ/fastmcp</link>
+      <description>25712 stelle | Lingua originale: Inglese
+ Il modo veloce e Pythonico per creare server e client MCP.
+Link: https://github.com/PrefectHQ/fastmcp</description>
+      <guid>https://github.com/PrefectHQ/fastmcp</guid>
+      <pubDate>Fri, 19 Jun 2026 19:49:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>go-kratos/kratos</title>
+      <link>https://github.com/go-kratos/kratos</link>
+      <description>25733 stelle | Lingua originale: Inglese
+Il tuo framework di microservizi Go definitivo per l'era del cloud-native.
+Link: https://github.com/go-kratos/kratos</description>
+      <guid>https://github.com/go-kratos/kratos</guid>
+      <pubDate>Fri, 19 Jun 2026 19:49:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>anthropics/claude-plugins-official</title>
+      <link>https://github.com/anthropics/claude-plugins-official</link>
+      <description>30445 stelle | Lingua originale: Inglese
+Directory ufficiale gestita da Anthropic di plugin Claude Code di alta qualità.
+Link: https://github.com/anthropics/claude-plugins-official</description>
+      <guid>https://github.com/anthropics/claude-plugins-official</guid>
+      <pubDate>Fri, 19 Jun 2026 19:49:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>microsoft/playwright-mcp</title>
+      <link>https://github.com/microsoft/playwright-mcp</link>
+      <description>34119 stelle | Lingua originale: Inglese
+Server MCP del drammaturgo
+Link: https://github.com/microsoft/playwright-mcp</description>
+      <guid>https://github.com/microsoft/playwright-mcp</guid>
+      <pubDate>Fri, 19 Jun 2026 19:49:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>chopratejas/headroom</title>
+      <link>https://github.com/chopratejas/headroom</link>
+      <description>38084 stelle | Lingua originale: Inglese
+Comprimi output, log, file e blocchi RAG dello strumento prima che raggiungano LLM. 60-95% di token in meno, stesse risposte. Libreria, proxy, server MCP.
+Link: https://github.com/chopratejas/headroom</description>
+      <guid>https://github.com/chopratejas/headroom</guid>
+      <pubDate>Fri, 19 Jun 2026 19:49:30 +0000</pubDate>
+    </item>
     <item>
       <title>czlonkowski/n8n-mcp</title>
       <link>https://github.com/czlonkowski/n8n-mcp</link>
-      <description>21849 stelle | Lingua originale: Inglese
-Un MCP per Claude Desktop/Claude Code/Windsurf/Cursor per creare flussi di lavoro n8n per te
-Link: https://github.com/czlonkowski/n8n-mcp</description>
+      <description>21849 stelle | Lingua originale: Inglese Un MCP per Claude Desktop/Claude Code/Windsurf/Cursor per creare flussi di lavoro n8n per te Link: https://github.com/czlonkowski/n8n-mcp</description>
       <guid>https://github.com/czlonkowski/n8n-mcp</guid>
       <pubDate>Fri, 19 Jun 2026 10:26:30 +0000</pubDate>
     </item>
     <item>
       <title>mastra-ai/mastra</title>
       <link>https://github.com/mastra-ai/mastra</link>
-      <description>25238 stelle | Lingua originale: Inglese
-Dal team dietro Gatsby, Mastra è un framework per la creazione di applicazioni e agenti basati sull'intelligenza artificiale con un moderno stack TypeScript.
-Link: https://github.com/mastra-ai/mastra</description>
+      <description>25238 stelle | Lingua originale: Inglese Dal team dietro Gatsby, Mastra è un framework per la creazione di applicazioni e agenti basati sull'intelligenza artificiale con un moderno stack TypeScript. Link: https://github.com/mastra-ai/mastra</description>
       <guid>https://github.com/mastra-ai/mastra</guid>
       <pubDate>Fri, 19 Jun 2026 10:26:29 +0000</pubDate>
     </item>
     <item>
       <title>yamadashy/repomix</title>
       <link>https://github.com/yamadashy/repomix</link>
-      <description>26397 stelle | Lingua originale: Inglese
- Repomix è un potente strumento che racchiude l'intero repository in un unico file compatibile con l'intelligenza artificiale. Perfetto per quando devi fornire la tua base di codice a Large Language Models (LLM) o altri strumenti di intelligenza artificiale come Claude, ChatGPT, DeepSeek, Perplexity, Gemini, Gemma, Llama, Grok e altri.
-Link: https://github.com/yamadashy/repomix</description>
+      <description>26397 stelle | Lingua originale: Inglese  Repomix è un potente strumento che racchiude l'intero repository in un unico file compatibile con l'intelligenza artificiale. Perfetto per quando devi fornire la tua base di codice a Large Language Models (LLM) o altri strumenti di intelligenza artificiale come Claude, ChatGPT, DeepSeek, Perplexity, Gemini, Gemma, Llama, Grok e altri. Link: https://github.com/yamadashy/repomix</description>
       <guid>https://github.com/yamadashy/repomix</guid>
       <pubDate>Fri, 19 Jun 2026 10:26:28 +0000</pubDate>
     </item>
     <item>
       <title>wshobson/agents</title>
       <link>https://github.com/wshobson/agents</link>
-      <description>36954 stelle | Lingua originale: Inglese
-Marketplace di plug-in per agenti multi-harness per Claude Code, Codex CLI, Cursor, OpenCode, GitHub Copilot e Gemini CLI
-Link: https://github.com/wshobson/agents</description>
+      <description>36954 stelle | Lingua originale: Inglese Marketplace di plug-in per agenti multi-harness per Claude Code, Codex CLI, Cursor, OpenCode, GitHub Copilot e Gemini CLI Link: https://github.com/wshobson/agents</description>
       <guid>https://github.com/wshobson/agents</guid>
       <pubDate>Fri, 19 Jun 2026 10:26:26 +0000</pubDate>
     </item>
     <item>
       <title>aaif-goose/goose</title>
       <link>https://github.com/aaif-goose/goose</link>
-      <description>49802 stelle | Lingua originale: Inglese
-un agente AI open source ed estensibile che va oltre i suggerimenti del codice: installa, esegui, modifica e testa con qualsiasi LLM
-Link: https://github.com/aaif-goose/goose</description>
+      <description>49802 stelle | Lingua originale: Inglese un agente AI open source ed estensibile che va oltre i suggerimenti del codice: installa, esegui, modifica e testa con qualsiasi LLM Link: https://github.com/aaif-goose/goose</description>
       <guid>https://github.com/aaif-goose/goose</guid>
       <pubDate>Fri, 19 Jun 2026 10:26:25 +0000</pubDate>
     </item>
@@ -330,41 +365,6 @@ Link: https://github.com/aaif-goose/goose</description>
       <description>101370 stelle | Lingua originale: Inglese Un assistente desktop All-in-One multipiattaforma per Claude Code, Codex, OpenCode, OpenClaw, Gemini CLI e Hermes Agent. Unico sito ufficiale: ccswitch.io Link: https://github.com/farion1231/cc-switch</description>
       <guid>https://github.com/farion1231/cc-switch</guid>
       <pubDate>Mon, 15 Jun 2026 12:13:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>tirth8205/code-review-graph</title>
-      <link>https://github.com/tirth8205/code-review-graph</link>
-      <description>18485 stelle | Lingua originale: Inglese Grafico di intelligence del codice con priorità locale per MCP e CLI. Costruisce una mappa persistente della tua base di codice in modo che gli strumenti di codifica AI leggano solo ciò che conta, con riduzioni del contesto confrontate con revisioni e flussi di lavoro di repository di grandi dimensioni. Link: https://github.com/tirth8205/code-review-graph</description>
-      <guid>https://github.com/tirth8205/code-review-graph</guid>
-      <pubDate>Sun, 14 Jun 2026 19:26:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>alibaba/page-agent</title>
-      <link>https://github.com/alibaba/page-agent</link>
-      <description>18547 stelle | Lingua originale: Inglese Agente GUI in-page JavaScript. Controlla le interfacce web con il linguaggio naturale. Link: https://github.com/alibaba/page-agent</description>
-      <guid>https://github.com/alibaba/page-agent</guid>
-      <pubDate>Sun, 14 Jun 2026 19:26:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>agentscope-ai/agentscope</title>
-      <link>https://github.com/agentscope-ai/agentscope</link>
-      <description>26809 stelle | Lingua originale: Inglese Costruisci ed esegui agenti visibili, comprensibili e di cui ti puoi fidare. Link: https://github.com/agentscope-ai/agentscope</description>
-      <guid>https://github.com/agentscope-ai/agentscope</guid>
-      <pubDate>Sun, 14 Jun 2026 19:26:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>heygen-com/hyperframes</title>
-      <link>https://github.com/heygen-com/hyperframes</link>
-      <description>27592 stelle | Lingua originale: DA Scrivi HTML. Renderizza il video. Costruito per gli agenti. Link: https://github.com/heygen-com/hyperframes</description>
-      <guid>https://github.com/heygen-com/hyperframes</guid>
-      <pubDate>Sun, 14 Jun 2026 19:26:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>Panniantong/Agent-Reach</title>
-      <link>https://github.com/Panniantong/Agent-Reach</link>
-      <description>28592 stelle | Lingua originale: Inglese Dai gli occhi al tuo agente IA per vedere l'intera Internet. Leggi e cerca su Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu: una CLI, zero costi API. Link: https://github.com/Panniantong/Agent-Reach</description>
-      <guid>https://github.com/Panniantong/Agent-Reach</guid>
-      <pubDate>Sun, 14 Jun 2026 19:26:28 +0000</pubDate>
     </item>
   </channel>
 </rss>

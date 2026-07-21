@@ -5,49 +5,84 @@
     <link>https://github.com</link>
     <description>Nuove risorse AI trovate su GitHub</description>
     <language>it</language>
-    <lastBuildDate>Mon, 20 Jul 2026 19:43:11 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 21 Jul 2026 08:28:02 +0000</lastBuildDate>
+    <item>
+      <title>assafelovic/gpt-researcher</title>
+      <link>https://github.com/assafelovic/gpt-researcher</link>
+      <description>28508 stelle | Lingua originale: Inglese
+Un agente autonomo che conduce ricerche approfondite su qualsiasi dato utilizzando qualsiasi fornitore LLM
+Link: https://github.com/assafelovic/gpt-researcher</description>
+      <guid>https://github.com/assafelovic/gpt-researcher</guid>
+      <pubDate>Tue, 21 Jul 2026 08:28:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>ComposioHQ/composio</title>
+      <link>https://github.com/ComposioHQ/composio</link>
+      <description>29301 stelle | Lingua originale: Inglese
+Composio supporta oltre 1000 toolkit, ricerca di strumenti, gestione del contesto, autenticazione e un ambiente di lavoro sandbox per aiutarti a creare agenti IA che trasformano le intenzioni in azione.
+Link: https://github.com/ComposioHQ/composio</description>
+      <guid>https://github.com/ComposioHQ/composio</guid>
+      <pubDate>Tue, 21 Jul 2026 08:28:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>github/github-mcp-server</title>
+      <link>https://github.com/github/github-mcp-server</link>
+      <description>31594 stelle | Lingua originale: Inglese
+Il server MCP ufficiale di GitHub
+Link: https://github.com/github/github-mcp-server</description>
+      <guid>https://github.com/github/github-mcp-server</guid>
+      <pubDate>Tue, 21 Jul 2026 08:28:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>alibaba/nacos</title>
+      <link>https://github.com/alibaba/nacos</link>
+      <description>33189 stelle | Lingua originale: Inglese
+una piattaforma dinamica di rilevamento, configurazione e gestione dei servizi facile da usare per la creazione di applicazioni native del cloud AI.
+Link: https://github.com/alibaba/nacos</description>
+      <guid>https://github.com/alibaba/nacos</guid>
+      <pubDate>Tue, 21 Jul 2026 08:27:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>mindsdb/mindshub</title>
+      <link>https://github.com/mindsdb/mindshub</link>
+      <description>39470 stelle | Lingua originale: Inglese
+Fai in modo che l’IA svolga un lavoro reale. Scambia il modello in qualsiasi momento: conserva tutto ciò che hai costruito.
+Link: https://github.com/mindsdb/mindshub</description>
+      <guid>https://github.com/mindsdb/mindshub</guid>
+      <pubDate>Tue, 21 Jul 2026 08:27:58 +0000</pubDate>
+    </item>
     <item>
       <title>HKUDS/Vibe-Trading</title>
       <link>https://github.com/HKUDS/Vibe-Trading</link>
-      <description>25642 stelle | Lingua originale: Inglese
-"Vibe-Trading: il tuo agente di trading personale"
-Link: https://github.com/HKUDS/Vibe-Trading</description>
+      <description>25642 stelle | Lingua originale: Inglese "Vibe-Trading: il tuo agente di trading personale" Link: https://github.com/HKUDS/Vibe-Trading</description>
       <guid>https://github.com/HKUDS/Vibe-Trading</guid>
       <pubDate>Mon, 20 Jul 2026 19:43:11 +0000</pubDate>
     </item>
     <item>
       <title>patchy631/ai-engineering-hub</title>
       <link>https://github.com/patchy631/ai-engineering-hub</link>
-      <description>36612 stelle | Lingua originale: Inglese
-Tutorial approfonditi su LLM, RAG e applicazioni di agenti AI nel mondo reale.
-Link: https://github.com/patchy631/ai-engineering-hub</description>
+      <description>36612 stelle | Lingua originale: Inglese Tutorial approfonditi su LLM, RAG e applicazioni di agenti AI nel mondo reale. Link: https://github.com/patchy631/ai-engineering-hub</description>
       <guid>https://github.com/patchy631/ai-engineering-hub</guid>
       <pubDate>Mon, 20 Jul 2026 19:43:09 +0000</pubDate>
     </item>
     <item>
       <title>ComposioHQ/awesome-claude-skills</title>
       <link>https://github.com/ComposioHQ/awesome-claude-skills</link>
-      <description>68214 stelle | Lingua originale: Inglese
-Un elenco curato di fantastiche competenze, risorse e strumenti di Claude per personalizzare i flussi di lavoro AI di Claude
-Link: https://github.com/ComposioHQ/awesome-claude-skills</description>
+      <description>68214 stelle | Lingua originale: Inglese Un elenco curato di fantastiche competenze, risorse e strumenti di Claude per personalizzare i flussi di lavoro AI di Claude Link: https://github.com/ComposioHQ/awesome-claude-skills</description>
       <guid>https://github.com/ComposioHQ/awesome-claude-skills</guid>
       <pubDate>Mon, 20 Jul 2026 19:43:08 +0000</pubDate>
     </item>
     <item>
       <title>lobehub/lobehub</title>
       <link>https://github.com/lobehub/lobehub</link>
-      <description>80579 stelle | Lingua originale: Inglese
- LobeHub è il tuo Chief Agent Operator, che organizza i tuoi agenti in operazioni 7×24 assumendo, programmando e segnalando l'intero team AI.
-Link: https://github.com/lobehub/lobehub</description>
+      <description>80579 stelle | Lingua originale: Inglese  LobeHub è il tuo Chief Agent Operator, che organizza i tuoi agenti in operazioni 7×24 assumendo, programmando e segnalando l'intero team AI. Link: https://github.com/lobehub/lobehub</description>
       <guid>https://github.com/lobehub/lobehub</guid>
       <pubDate>Mon, 20 Jul 2026 19:43:07 +0000</pubDate>
     </item>
     <item>
       <title>Graphify-Labs/graphify</title>
       <link>https://github.com/Graphify-Labs/graphify</link>
-      <description>92179 stelle | Lingua originale: Inglese
-Trasforma qualsiasi base di codice, con i suoi documenti, schemi SQL, configurazioni e PDF, in un grafico della conoscenza interrogabile. Una competenza /graphify per Claude Code, Cursor, Codex e Gemini CLI: analisi AST deterministica locale, ogni bordo spiegato, nessun archivio vettoriale.
-Link: https://github.com/Graphify-Labs/graphify</description>
+      <description>92179 stelle | Lingua originale: Inglese Trasforma qualsiasi base di codice, con i suoi documenti, schemi SQL, configurazioni e PDF, in un grafico della conoscenza interrogabile. Una competenza /graphify per Claude Code, Cursor, Codex e Gemini CLI: analisi AST deterministica locale, ogni bordo spiegato, nessun archivio vettoriale. Link: https://github.com/Graphify-Labs/graphify</description>
       <guid>https://github.com/Graphify-Labs/graphify</guid>
       <pubDate>Mon, 20 Jul 2026 19:43:05 +0000</pubDate>
     </item>
@@ -330,41 +365,6 @@ Link: https://github.com/Graphify-Labs/graphify</description>
       <description>61929 stelle | Lingua originale: Inglese Dashboard di intelligence globale in tempo reale. Aggregazione di notizie basata sull'intelligenza artificiale, monitoraggio geopolitico e monitoraggio delle infrastrutture in un'interfaccia unificata di consapevolezza situazionale Link: https://github.com/koala73/worldmonitor</description>
       <guid>https://github.com/koala73/worldmonitor</guid>
       <pubDate>Thu, 16 Jul 2026 19:10:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>flipped-aurora/gin-vue-admin</title>
-      <link>https://github.com/flipped-aurora/gin-vue-admin</link>
-      <description>24856 stelle | Lingua originale: Cinese Vite+Vue3+Gin dispone di una piattaforma di sviluppo di base assistita da intelligenza artificiale, una soluzione di sviluppo AI+ aziendale a livello aziendale, servizi ausiliari mcp integrati, gestione delle competenze integrata e supporta l'uso misto di TS e JS. Integra funzioni di sviluppo essenziali come autenticazione JWT, gestione dei diritti, routing dinamico, componenti controllabili visibili e nascosti, incapsulamento del paging, intercettazione dell'accesso multipunto, autorizzazioni ... Link: https://github.com/flipped-aurora/gin-vue-admin</description>
-      <guid>https://github.com/flipped-aurora/gin-vue-admin</guid>
-      <pubDate>Thu, 16 Jul 2026 08:12:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>78/xiaozhi-esp32</title>
-      <link>https://github.com/78/xiaozhi-esp32</link>
-      <description>28137 stelle | Lingua originale: Inglese Un chatbot basato su MCP | Un chatbot basato su MCP Link: https://github.com/78/xiaozhi-esp32</description>
-      <guid>https://github.com/78/xiaozhi-esp32</guid>
-      <pubDate>Thu, 16 Jul 2026 08:12:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>labring/FastGPT</title>
-      <link>https://github.com/labring/FastGPT</link>
-      <description>28988 stelle | Lingua originale: Inglese FastGPT è una piattaforma basata sulla conoscenza costruita sugli LLM, offre una suite completa di funzionalità pronte all'uso come elaborazione dei dati, recupero RAG e orchestrazione del flusso di lavoro con intelligenza artificiale visiva, consentendoti di sviluppare e distribuire facilmente complessi sistemi di risposta alle domande senza la necessità di impostazioni o configurazioni estese. Link: https://github.com/labring/FastGPT</description>
-      <guid>https://github.com/labring/FastGPT</guid>
-      <pubDate>Thu, 16 Jul 2026 08:12:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>siyuan-note/siyuan</title>
-      <link>https://github.com/siyuan-note/siyuan</link>
-      <description>45144 stelle | Lingua originale: Inglese Un software di gestione della conoscenza personale incentrato sulla privacy, self-hosted e completamente open source, scritto in dattiloscritto e golang. Link: https://github.com/siyuan-note/siyuan</description>
-      <guid>https://github.com/siyuan-note/siyuan</guid>
-      <pubDate>Thu, 16 Jul 2026 08:12:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>ChromeDevTools/chrome-devtools-mcp</title>
-      <link>https://github.com/ChromeDevTools/chrome-devtools-mcp</link>
-      <description>47045 stelle | Lingua originale: Inglese Chrome DevTools per agenti di codifica Link: https://github.com/ChromeDevTools/chrome-devtools-mcp</description>
-      <guid>https://github.com/ChromeDevTools/chrome-devtools-mcp</guid>
-      <pubDate>Thu, 16 Jul 2026 08:12:41 +0000</pubDate>
     </item>
   </channel>
 </rss>

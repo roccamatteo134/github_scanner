@@ -5,49 +5,84 @@
     <link>https://github.com</link>
     <description>Nuove risorse AI trovate su GitHub</description>
     <language>it</language>
-    <lastBuildDate>Tue, 21 Jul 2026 08:28:02 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 21 Jul 2026 19:21:25 +0000</lastBuildDate>
+    <item>
+      <title>flipped-aurora/gin-vue-admin</title>
+      <link>https://github.com/flipped-aurora/gin-vue-admin</link>
+      <description>24863 stelle | Lingua originale: Cinese
+Vite+Vue3+Gin dispone di una piattaforma di sviluppo di base assistita da intelligenza artificiale, una soluzione di sviluppo AI+ aziendale a livello aziendale, servizi ausiliari mcp integrati, gestione delle competenze integrata e supporta l'uso misto di TS e JS. Integra funzioni di sviluppo essenziali come autenticazione JWT, gestione dei diritti, routing dinamico, componenti controllabili visibili e nascosti, incapsulamento del paging, intercettazione dell'accesso multipunto, autorizzazioni ...
+Link: https://github.com/flipped-aurora/gin-vue-admin</description>
+      <guid>https://github.com/flipped-aurora/gin-vue-admin</guid>
+      <pubDate>Tue, 21 Jul 2026 19:21:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>78/xiaozhi-esp32</title>
+      <link>https://github.com/78/xiaozhi-esp32</link>
+      <description>28257 stelle | Lingua originale: Inglese
+Un chatbot basato su MCP | Un chatbot basato su MCP
+Link: https://github.com/78/xiaozhi-esp32</description>
+      <guid>https://github.com/78/xiaozhi-esp32</guid>
+      <pubDate>Tue, 21 Jul 2026 19:21:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>labring/FastGPT</title>
+      <link>https://github.com/labring/FastGPT</link>
+      <description>29059 stelle | Lingua originale: Inglese
+FastGPT è una piattaforma basata sulla conoscenza costruita sugli LLM, offre una suite completa di funzionalità pronte all'uso come elaborazione dei dati, recupero RAG e orchestrazione del flusso di lavoro con intelligenza artificiale visiva, consentendoti di sviluppare e distribuire facilmente complessi sistemi di risposta alle domande senza la necessità di impostazioni o configurazioni estese.
+Link: https://github.com/labring/FastGPT</description>
+      <guid>https://github.com/labring/FastGPT</guid>
+      <pubDate>Tue, 21 Jul 2026 19:21:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>siyuan-note/siyuan</title>
+      <link>https://github.com/siyuan-note/siyuan</link>
+      <description>45317 stelle | Lingua originale: Inglese
+Un software di gestione della conoscenza personale incentrato sulla privacy, self-hosted e completamente open source, scritto in dattiloscritto e golang.
+Link: https://github.com/siyuan-note/siyuan</description>
+      <guid>https://github.com/siyuan-note/siyuan</guid>
+      <pubDate>Tue, 21 Jul 2026 19:21:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>ChromeDevTools/chrome-devtools-mcp</title>
+      <link>https://github.com/ChromeDevTools/chrome-devtools-mcp</link>
+      <description>47323 stelle | Lingua originale: Inglese
+Chrome DevTools per agenti di codifica
+Link: https://github.com/ChromeDevTools/chrome-devtools-mcp</description>
+      <guid>https://github.com/ChromeDevTools/chrome-devtools-mcp</guid>
+      <pubDate>Tue, 21 Jul 2026 19:21:20 +0000</pubDate>
+    </item>
     <item>
       <title>assafelovic/gpt-researcher</title>
       <link>https://github.com/assafelovic/gpt-researcher</link>
-      <description>28508 stelle | Lingua originale: Inglese
-Un agente autonomo che conduce ricerche approfondite su qualsiasi dato utilizzando qualsiasi fornitore LLM
-Link: https://github.com/assafelovic/gpt-researcher</description>
+      <description>28508 stelle | Lingua originale: Inglese Un agente autonomo che conduce ricerche approfondite su qualsiasi dato utilizzando qualsiasi fornitore LLM Link: https://github.com/assafelovic/gpt-researcher</description>
       <guid>https://github.com/assafelovic/gpt-researcher</guid>
       <pubDate>Tue, 21 Jul 2026 08:28:02 +0000</pubDate>
     </item>
     <item>
       <title>ComposioHQ/composio</title>
       <link>https://github.com/ComposioHQ/composio</link>
-      <description>29301 stelle | Lingua originale: Inglese
-Composio supporta oltre 1000 toolkit, ricerca di strumenti, gestione del contesto, autenticazione e un ambiente di lavoro sandbox per aiutarti a creare agenti IA che trasformano le intenzioni in azione.
-Link: https://github.com/ComposioHQ/composio</description>
+      <description>29301 stelle | Lingua originale: Inglese Composio supporta oltre 1000 toolkit, ricerca di strumenti, gestione del contesto, autenticazione e un ambiente di lavoro sandbox per aiutarti a creare agenti IA che trasformano le intenzioni in azione. Link: https://github.com/ComposioHQ/composio</description>
       <guid>https://github.com/ComposioHQ/composio</guid>
       <pubDate>Tue, 21 Jul 2026 08:28:01 +0000</pubDate>
     </item>
     <item>
       <title>github/github-mcp-server</title>
       <link>https://github.com/github/github-mcp-server</link>
-      <description>31594 stelle | Lingua originale: Inglese
-Il server MCP ufficiale di GitHub
-Link: https://github.com/github/github-mcp-server</description>
+      <description>31594 stelle | Lingua originale: Inglese Il server MCP ufficiale di GitHub Link: https://github.com/github/github-mcp-server</description>
       <guid>https://github.com/github/github-mcp-server</guid>
       <pubDate>Tue, 21 Jul 2026 08:28:00 +0000</pubDate>
     </item>
     <item>
       <title>alibaba/nacos</title>
       <link>https://github.com/alibaba/nacos</link>
-      <description>33189 stelle | Lingua originale: Inglese
-una piattaforma dinamica di rilevamento, configurazione e gestione dei servizi facile da usare per la creazione di applicazioni native del cloud AI.
-Link: https://github.com/alibaba/nacos</description>
+      <description>33189 stelle | Lingua originale: Inglese una piattaforma dinamica di rilevamento, configurazione e gestione dei servizi facile da usare per la creazione di applicazioni native del cloud AI. Link: https://github.com/alibaba/nacos</description>
       <guid>https://github.com/alibaba/nacos</guid>
       <pubDate>Tue, 21 Jul 2026 08:27:59 +0000</pubDate>
     </item>
     <item>
       <title>mindsdb/mindshub</title>
       <link>https://github.com/mindsdb/mindshub</link>
-      <description>39470 stelle | Lingua originale: Inglese
-Fai in modo che l’IA svolga un lavoro reale. Scambia il modello in qualsiasi momento: conserva tutto ciò che hai costruito.
-Link: https://github.com/mindsdb/mindshub</description>
+      <description>39470 stelle | Lingua originale: Inglese Fai in modo che l’IA svolga un lavoro reale. Scambia il modello in qualsiasi momento: conserva tutto ciò che hai costruito. Link: https://github.com/mindsdb/mindshub</description>
       <guid>https://github.com/mindsdb/mindshub</guid>
       <pubDate>Tue, 21 Jul 2026 08:27:58 +0000</pubDate>
     </item>
@@ -330,41 +365,6 @@ Link: https://github.com/mindsdb/mindshub</description>
       <description>35189 stelle | Lingua originale: Inglese Server MCP del drammaturgo Link: https://github.com/microsoft/playwright-mcp</description>
       <guid>https://github.com/microsoft/playwright-mcp</guid>
       <pubDate>Fri, 17 Jul 2026 08:09:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>mastra-ai/mastra</title>
-      <link>https://github.com/mastra-ai/mastra</link>
-      <description>26241 stelle | Lingua originale: Inglese Mastra è il moderno framework TypeScript per applicazioni e agenti basati sull'intelligenza artificiale. Link: https://github.com/mastra-ai/mastra</description>
-      <guid>https://github.com/mastra-ai/mastra</guid>
-      <pubDate>Thu, 16 Jul 2026 19:10:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>yamadashy/repomix</title>
-      <link>https://github.com/yamadashy/repomix</link>
-      <description>27170 stelle | Lingua originale: Inglese  Repomix è un potente strumento che racchiude l'intero repository in un unico file compatibile con l'intelligenza artificiale. Perfetto per quando devi fornire la tua base di codice a Large Language Models (LLM) o altri strumenti di intelligenza artificiale come Claude, ChatGPT, DeepSeek, Perplexity, Gemini, Gemma, Llama, Grok e altri. Link: https://github.com/yamadashy/repomix</description>
-      <guid>https://github.com/yamadashy/repomix</guid>
-      <pubDate>Thu, 16 Jul 2026 19:10:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>wshobson/agents</title>
-      <link>https://github.com/wshobson/agents</link>
-      <description>37963 stelle | Lingua originale: Inglese Marketplace di plug-in per agenti multi-harness per Claude Code, Codex CLI, Cursor, OpenCode, GitHub Copilot e Gemini CLI Link: https://github.com/wshobson/agents</description>
-      <guid>https://github.com/wshobson/agents</guid>
-      <pubDate>Thu, 16 Jul 2026 19:10:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>aaif-goose/goose</title>
-      <link>https://github.com/aaif-goose/goose</link>
-      <description>51204 stelle | Lingua originale: Inglese un agente AI open source ed estensibile che va oltre i suggerimenti del codice: installa, esegui, modifica e testa con qualsiasi LLM Link: https://github.com/aaif-goose/goose</description>
-      <guid>https://github.com/aaif-goose/goose</guid>
-      <pubDate>Thu, 16 Jul 2026 19:10:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>koala73/worldmonitor</title>
-      <link>https://github.com/koala73/worldmonitor</link>
-      <description>61929 stelle | Lingua originale: Inglese Dashboard di intelligence globale in tempo reale. Aggregazione di notizie basata sull'intelligenza artificiale, monitoraggio geopolitico e monitoraggio delle infrastrutture in un'interfaccia unificata di consapevolezza situazionale Link: https://github.com/koala73/worldmonitor</description>
-      <guid>https://github.com/koala73/worldmonitor</guid>
-      <pubDate>Thu, 16 Jul 2026 19:10:17 +0000</pubDate>
     </item>
   </channel>
 </rss>

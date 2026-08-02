@@ -5,49 +5,84 @@
     <link>https://github.com</link>
     <description>Nuove risorse AI trovate su GitHub</description>
     <language>it</language>
-    <lastBuildDate>Sat, 01 Aug 2026 19:07:07 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 02 Aug 2026 08:23:37 +0000</lastBuildDate>
+    <item>
+      <title>yamadashy/repomix</title>
+      <link>https://github.com/yamadashy/repomix</link>
+      <description>27571 stelle | Lingua originale: Inglese
+ Repomix è un potente strumento che racchiude l'intero repository in un unico file compatibile con l'intelligenza artificiale. Perfetto per quando devi fornire la tua base di codice a Large Language Models (LLM) o altri strumenti di intelligenza artificiale come Claude, ChatGPT, DeepSeek, Perplexity, Gemini, Gemma, Llama, Grok e altri.
+Link: https://github.com/yamadashy/repomix</description>
+      <guid>https://github.com/yamadashy/repomix</guid>
+      <pubDate>Sun, 02 Aug 2026 08:23:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>78/xiaozhi-esp32</title>
+      <link>https://github.com/78/xiaozhi-esp32</link>
+      <description>28541 stelle | Lingua originale: Inglese
+Un chatbot basato su MCP | Un chatbot basato su MCP
+Link: https://github.com/78/xiaozhi-esp32</description>
+      <guid>https://github.com/78/xiaozhi-esp32</guid>
+      <pubDate>Sun, 02 Aug 2026 08:23:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>wshobson/agents</title>
+      <link>https://github.com/wshobson/agents</link>
+      <description>38429 stelle | Lingua originale: Inglese
+Marketplace di plug-in per agenti multi-harness per Claude Code, Codex CLI, Cursor, OpenCode, GitHub Copilot e Gemini CLI
+Link: https://github.com/wshobson/agents</description>
+      <guid>https://github.com/wshobson/agents</guid>
+      <pubDate>Sun, 02 Aug 2026 08:23:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>aaif-goose/goose</title>
+      <link>https://github.com/aaif-goose/goose</link>
+      <description>52095 stelle | Lingua originale: Inglese
+un agente AI open source ed estensibile che va oltre i suggerimenti del codice: installa, esegui, modifica e testa con qualsiasi LLM
+Link: https://github.com/aaif-goose/goose</description>
+      <guid>https://github.com/aaif-goose/goose</guid>
+      <pubDate>Sun, 02 Aug 2026 08:23:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>koala73/worldmonitor</title>
+      <link>https://github.com/koala73/worldmonitor</link>
+      <description>77904 stelle | Lingua originale: Inglese
+Dashboard di intelligence globale in tempo reale. Aggregazione di notizie basata sull'intelligenza artificiale, monitoraggio geopolitico e monitoraggio delle infrastrutture in un'interfaccia unificata di consapevolezza situazionale
+Link: https://github.com/koala73/worldmonitor</description>
+      <guid>https://github.com/koala73/worldmonitor</guid>
+      <pubDate>Sun, 02 Aug 2026 08:23:31 +0000</pubDate>
+    </item>
     <item>
       <title>bojieli/ai-agent-book</title>
       <link>https://github.com/bojieli/ai-agent-book</link>
-      <description>29118 stelle | Lingua originale: Cinese
-"Comprensione approfondita dell'agente AI: principi di progettazione e pratica ingegneristica" (scritto da Li Bojie) Repository principale open source: testo completo del libro, PDF compilato e codice di supporto capitolo per capitolo
-Link: https://github.com/bojieli/ai-agent-book</description>
+      <description>29118 stelle | Lingua originale: Cinese "Comprensione approfondita dell'agente AI: principi di progettazione e pratica ingegneristica" (scritto da Li Bojie) Repository principale open source: testo completo del libro, PDF compilato e codice di supporto capitolo per capitolo Link: https://github.com/bojieli/ai-agent-book</description>
       <guid>https://github.com/bojieli/ai-agent-book</guid>
       <pubDate>Sat, 01 Aug 2026 19:07:07 +0000</pubDate>
     </item>
     <item>
       <title>labring/FastGPT</title>
       <link>https://github.com/labring/FastGPT</link>
-      <description>29222 stelle | Lingua originale: Inglese
-FastGPT è una piattaforma basata sulla conoscenza costruita sugli LLM, offre una suite completa di funzionalità pronte all'uso come elaborazione dei dati, recupero RAG e orchestrazione del flusso di lavoro con intelligenza artificiale visiva, consentendoti di sviluppare e distribuire facilmente complessi sistemi di risposta alle domande senza la necessità di impostazioni o configurazioni estese.
-Link: https://github.com/labring/FastGPT</description>
+      <description>29222 stelle | Lingua originale: Inglese FastGPT è una piattaforma basata sulla conoscenza costruita sugli LLM, offre una suite completa di funzionalità pronte all'uso come elaborazione dei dati, recupero RAG e orchestrazione del flusso di lavoro con intelligenza artificiale visiva, consentendoti di sviluppare e distribuire facilmente complessi sistemi di risposta alle domande senza la necessità di impostazioni o configurazioni estese. Link: https://github.com/labring/FastGPT</description>
       <guid>https://github.com/labring/FastGPT</guid>
       <pubDate>Sat, 01 Aug 2026 19:07:06 +0000</pubDate>
     </item>
     <item>
       <title>siyuan-note/siyuan</title>
       <link>https://github.com/siyuan-note/siyuan</link>
-      <description>45558 stelle | Lingua originale: Inglese
-Un software di gestione della conoscenza personale incentrato sulla privacy, self-hosted e completamente open source, scritto in dattiloscritto e golang.
-Link: https://github.com/siyuan-note/siyuan</description>
+      <description>45558 stelle | Lingua originale: Inglese Un software di gestione della conoscenza personale incentrato sulla privacy, self-hosted e completamente open source, scritto in dattiloscritto e golang. Link: https://github.com/siyuan-note/siyuan</description>
       <guid>https://github.com/siyuan-note/siyuan</guid>
       <pubDate>Sat, 01 Aug 2026 19:07:06 +0000</pubDate>
     </item>
     <item>
       <title>HKUDS/nanobot</title>
       <link>https://github.com/HKUDS/nanobot</link>
-      <description>46500 stelle | Lingua originale: Inglese
-Framework di agenti AI personali ultraleggeri, open source e self-hosted in Python con WebUI, strumenti, memoria, MCP, flussi di lavoro multi-agente, automazione e app di chat
-Link: https://github.com/HKUDS/nanobot</description>
+      <description>46500 stelle | Lingua originale: Inglese Framework di agenti AI personali ultraleggeri, open source e self-hosted in Python con WebUI, strumenti, memoria, MCP, flussi di lavoro multi-agente, automazione e app di chat Link: https://github.com/HKUDS/nanobot</description>
       <guid>https://github.com/HKUDS/nanobot</guid>
       <pubDate>Sat, 01 Aug 2026 19:07:05 +0000</pubDate>
     </item>
     <item>
       <title>ChromeDevTools/chrome-devtools-mcp</title>
       <link>https://github.com/ChromeDevTools/chrome-devtools-mcp</link>
-      <description>48328 stelle | Lingua originale: Inglese
-Chrome DevTools per agenti di codifica
-Link: https://github.com/ChromeDevTools/chrome-devtools-mcp</description>
+      <description>48328 stelle | Lingua originale: Inglese Chrome DevTools per agenti di codifica Link: https://github.com/ChromeDevTools/chrome-devtools-mcp</description>
       <guid>https://github.com/ChromeDevTools/chrome-devtools-mcp</guid>
       <pubDate>Sat, 01 Aug 2026 19:07:03 +0000</pubDate>
     </item>
@@ -330,41 +365,6 @@ Link: https://github.com/ChromeDevTools/chrome-devtools-mcp</description>
       <description>61583 stelle | Lingua originale: Inglese Dai gli occhi al tuo agente IA per vedere l'intera Internet. Leggi e cerca su Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu: una CLI, zero costi API. Link: https://github.com/Panniantong/Agent-Reach</description>
       <guid>https://github.com/Panniantong/Agent-Reach</guid>
       <pubDate>Tue, 28 Jul 2026 19:22:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>go-kratos/kratos</title>
-      <link>https://github.com/go-kratos/kratos</link>
-      <description>25820 stelle | Lingua originale: Inglese Il tuo framework di microservizi Go definitivo per l'era del cloud-native. Link: https://github.com/go-kratos/kratos</description>
-      <guid>https://github.com/go-kratos/kratos</guid>
-      <pubDate>Tue, 28 Jul 2026 08:33:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>PrefectHQ/fastmcp</title>
-      <link>https://github.com/PrefectHQ/fastmcp</link>
-      <description>26890 stelle | Lingua originale: Inglese  Il modo veloce e Pythonico per creare server e client MCP. Link: https://github.com/PrefectHQ/fastmcp</description>
-      <guid>https://github.com/PrefectHQ/fastmcp</guid>
-      <pubDate>Tue, 28 Jul 2026 08:33:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>anthropics/claude-plugins-official</title>
-      <link>https://github.com/anthropics/claude-plugins-official</link>
-      <description>32766 stelle | Lingua originale: Inglese Directory ufficiale gestita da Anthropic di plugin Claude Code di alta qualità. Link: https://github.com/anthropics/claude-plugins-official</description>
-      <guid>https://github.com/anthropics/claude-plugins-official</guid>
-      <pubDate>Tue, 28 Jul 2026 08:33:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>microsoft/playwright-mcp</title>
-      <link>https://github.com/microsoft/playwright-mcp</link>
-      <description>35557 stelle | Lingua originale: Inglese Server MCP del drammaturgo Link: https://github.com/microsoft/playwright-mcp</description>
-      <guid>https://github.com/microsoft/playwright-mcp</guid>
-      <pubDate>Tue, 28 Jul 2026 08:33:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>DeusData/codebase-memory-mcp</title>
-      <link>https://github.com/DeusData/codebase-memory-mcp</link>
-      <description>36030 stelle | Lingua originale: Inglese Server MCP con intelligenza del codice ad alte prestazioni. Indicizza le basi di codice in un grafico della conoscenza persistente: repository medio in millisecondi. 158 lingue, query sub-ms, 99% di token in meno. Singolo binario statico, zero dipendenze. Link: https://github.com/DeusData/codebase-memory-mcp</description>
-      <guid>https://github.com/DeusData/codebase-memory-mcp</guid>
-      <pubDate>Tue, 28 Jul 2026 08:33:03 +0000</pubDate>
     </item>
   </channel>
 </rss>

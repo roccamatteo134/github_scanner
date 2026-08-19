@@ -5,49 +5,84 @@
     <link>https://github.com</link>
     <description>Nuove risorse AI trovate su GitHub</description>
     <language>it</language>
-    <lastBuildDate>Wed, 19 Aug 2026 06:41:38 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 18:34:15 +0000</lastBuildDate>
+    <item>
+      <title>agentscope-ai/agentscope</title>
+      <link>https://github.com/agentscope-ai/agentscope</link>
+      <description>29062 stelle | Lingua originale: Inglese
+Costruisci ed esegui agenti visibili, comprensibili e di cui ti puoi fidare.
+Link: https://github.com/agentscope-ai/agentscope</description>
+      <guid>https://github.com/agentscope-ai/agentscope</guid>
+      <pubDate>Wed, 19 Aug 2026 18:34:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>mukul975/Anthropic-Cybersecurity-Skills</title>
+      <link>https://github.com/mukul975/Anthropic-Cybersecurity-Skills</link>
+      <description>29706 stelle | Lingua originale: Inglese
+817 competenze strutturate di sicurezza informatica per agenti AI · Mappate su 6 framework: MITRE ATT&amp;CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF e MITRE F3 (Fight Fraud) · Agentskills.io standard · Funziona con Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI e oltre 20 piattaforme · 29 domini di sicurezza · Apache 2.0
+Link: https://github.com/mukul975/Anthropic-Cybersecurity-Skills</description>
+      <guid>https://github.com/mukul975/Anthropic-Cybersecurity-Skills</guid>
+      <pubDate>Wed, 19 Aug 2026 18:34:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>heygen-com/hyperframes</title>
+      <link>https://github.com/heygen-com/hyperframes</link>
+      <description>41688 stelle | Lingua originale: DA
+Scrivi HTML. Renderizza il video. Costruito per gli agenti.
+Link: https://github.com/heygen-com/hyperframes</description>
+      <guid>https://github.com/heygen-com/hyperframes</guid>
+      <pubDate>Wed, 19 Aug 2026 18:34:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>diegosouzapw/OmniRoute</title>
+      <link>https://github.com/diegosouzapw/OmniRoute</link>
+      <description>51089 stelle | Lingua originale: Inglese
+Non smettere mai di programmare. Gateway AI MIT gratuito: un endpoint, 340 provider (90+ gratuiti), oltre 1200 modelli: Kimi, Claude, GPT, Gemini, GLM, DeepSeek, MiniMax. Funziona con Claude Code, Codex, Cursor, OpenCode, Cline e Copilot. Fallback automatico in base alla quota, compressione RTK+Caveman consente di risparmiare il 15-95% di token, MCP/A2A, Desktop/PWA. Costruito da oltre 450 contributori
+Link: https://github.com/diegosouzapw/OmniRoute</description>
+      <guid>https://github.com/diegosouzapw/OmniRoute</guid>
+      <pubDate>Wed, 19 Aug 2026 18:34:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>Panniantong/Agent-Reach</title>
+      <link>https://github.com/Panniantong/Agent-Reach</link>
+      <description>73043 stelle | Lingua originale: Inglese
+Dai gli occhi al tuo agente IA per vedere l'intera Internet. Leggi e cerca su Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu: una CLI, zero costi API.
+Link: https://github.com/Panniantong/Agent-Reach</description>
+      <guid>https://github.com/Panniantong/Agent-Reach</guid>
+      <pubDate>Wed, 19 Aug 2026 18:34:11 +0000</pubDate>
+    </item>
     <item>
       <title>yamadashy/repomix</title>
       <link>https://github.com/yamadashy/repomix</link>
-      <description>27949 stelle | Lingua originale: Inglese
- Repomix è un potente strumento che racchiude l'intero repository in un unico file compatibile con l'intelligenza artificiale. Perfetto per quando devi fornire la tua base di codice a Large Language Models (LLM) o altri strumenti di intelligenza artificiale come Claude, ChatGPT, DeepSeek, Perplexity, Gemini, Gemma, Llama, Grok e altri.
-Link: https://github.com/yamadashy/repomix</description>
+      <description>27949 stelle | Lingua originale: Inglese  Repomix è un potente strumento che racchiude l'intero repository in un unico file compatibile con l'intelligenza artificiale. Perfetto per quando devi fornire la tua base di codice a Large Language Models (LLM) o altri strumenti di intelligenza artificiale come Claude, ChatGPT, DeepSeek, Perplexity, Gemini, Gemma, Llama, Grok e altri. Link: https://github.com/yamadashy/repomix</description>
       <guid>https://github.com/yamadashy/repomix</guid>
       <pubDate>Wed, 19 Aug 2026 06:41:38 +0000</pubDate>
     </item>
     <item>
       <title>OtterMind/Chat2DB</title>
       <link>https://github.com/OtterMind/Chat2DB</link>
-      <description>27975 stelle | Lingua originale: Inglese
-Chat2DB è un client di database locale e multipiattaforma gratuito e un'area di lavoro SQL per sviluppatori, DBA, analisti e team di dati. Connettiti a oltre 40 database, gestisci dati, modifica ed esegui SQL e utilizza il tuo modello di intelligenza artificiale per generare, spiegare e ottimizzare le query. Disponibile su desktop, Web, Docker e CLI, con supporto MCP.
-Link: https://github.com/OtterMind/Chat2DB</description>
+      <description>27975 stelle | Lingua originale: Inglese Chat2DB è un client di database locale e multipiattaforma gratuito e un'area di lavoro SQL per sviluppatori, DBA, analisti e team di dati. Connettiti a oltre 40 database, gestisci dati, modifica ed esegui SQL e utilizza il tuo modello di intelligenza artificiale per generare, spiegare e ottimizzare le query. Disponibile su desktop, Web, Docker e CLI, con supporto MCP. Link: https://github.com/OtterMind/Chat2DB</description>
       <guid>https://github.com/OtterMind/Chat2DB</guid>
       <pubDate>Wed, 19 Aug 2026 06:41:36 +0000</pubDate>
     </item>
     <item>
       <title>anthropics/claude-plugins-official</title>
       <link>https://github.com/anthropics/claude-plugins-official</link>
-      <description>33683 stelle | Lingua originale: Inglese
-Directory ufficiale gestita da Anthropic di plugin Claude Code di alta qualità.
-Link: https://github.com/anthropics/claude-plugins-official</description>
+      <description>33683 stelle | Lingua originale: Inglese Directory ufficiale gestita da Anthropic di plugin Claude Code di alta qualità. Link: https://github.com/anthropics/claude-plugins-official</description>
       <guid>https://github.com/anthropics/claude-plugins-official</guid>
       <pubDate>Wed, 19 Aug 2026 06:41:35 +0000</pubDate>
     </item>
     <item>
       <title>microsoft/playwright-mcp</title>
       <link>https://github.com/microsoft/playwright-mcp</link>
-      <description>36263 stelle | Lingua originale: Inglese
-Server MCP del drammaturgo
-Link: https://github.com/microsoft/playwright-mcp</description>
+      <description>36263 stelle | Lingua originale: Inglese Server MCP del drammaturgo Link: https://github.com/microsoft/playwright-mcp</description>
       <guid>https://github.com/microsoft/playwright-mcp</guid>
       <pubDate>Wed, 19 Aug 2026 06:41:34 +0000</pubDate>
     </item>
     <item>
       <title>DeusData/codebase-memory-mcp</title>
       <link>https://github.com/DeusData/codebase-memory-mcp</link>
-      <description>39460 stelle | Lingua originale: Inglese
-Server MCP con intelligenza del codice ad alte prestazioni. Indicizza le basi di codice in un grafico della conoscenza persistente: repository medio in millisecondi. 158 lingue, query sub-ms, 99% di token in meno. Singolo binario statico, zero dipendenze.
-Link: https://github.com/DeusData/codebase-memory-mcp</description>
+      <description>39460 stelle | Lingua originale: Inglese Server MCP con intelligenza del codice ad alte prestazioni. Indicizza le basi di codice in un grafico della conoscenza persistente: repository medio in millisecondi. 158 lingue, query sub-ms, 99% di token in meno. Singolo binario statico, zero dipendenze. Link: https://github.com/DeusData/codebase-memory-mcp</description>
       <guid>https://github.com/DeusData/codebase-memory-mcp</guid>
       <pubDate>Wed, 19 Aug 2026 06:41:33 +0000</pubDate>
     </item>
@@ -330,41 +365,6 @@ Link: https://github.com/DeusData/codebase-memory-mcp</description>
       <description>240184 stelle | Lingua originale: Inglese Il sistema di ottimizzazione delle prestazioni del cablaggio dell'agente. Competenze, istinto, memoria, sicurezza e sviluppo incentrato sulla ricerca per Claude Code, Codex, Opencode, Cursor e oltre. Link: https://github.com/affaan-m/ECC</description>
       <guid>https://github.com/affaan-m/ECC</guid>
       <pubDate>Sat, 15 Aug 2026 06:36:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>alibaba/page-agent</title>
-      <link>https://github.com/alibaba/page-agent</link>
-      <description>28626 stelle | Lingua originale: Inglese Agente GUI in-page JavaScript. Controlla le interfacce web con il linguaggio naturale. Link: https://github.com/alibaba/page-agent</description>
-      <guid>https://github.com/alibaba/page-agent</guid>
-      <pubDate>Fri, 14 Aug 2026 18:53:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>PDFMathTranslate/PDFMathTranslate</title>
-      <link>https://github.com/PDFMathTranslate/PDFMathTranslate</link>
-      <description>36161 stelle | Lingua originale: Inglese [Demo EMNLP 2025] Traduzione di articoli scientifici in PDF con formati preservati - Traduzione bilingue del testo completo di documenti PDF basata sull'intelligenza artificiale che mantiene completamente la composizione, supporta Google/DeepL/Ollama/OpenAI e altri servizi e fornisce CLI/GUI/MCP/Docker/Zotero Link: https://github.com/PDFMathTranslate/PDFMathTranslate</description>
-      <guid>https://github.com/PDFMathTranslate/PDFMathTranslate</guid>
-      <pubDate>Fri, 14 Aug 2026 18:53:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>sansan0/TrendRadar</title>
-      <link>https://github.com/sansan0/TrendRadar</link>
-      <description>61465 stelle | Lingua originale: NO  Monitoraggio dell'opinione pubblica e delle tendenze basato sull'intelligenza artificiale con aggregazione multipiattaforma, RSS e avvisi intelligenti.  Dì addio al sovraccarico di informazioni con il tuo assistente per il monitoraggio dell'opinione pubblica basato sull'intelligenza artificiale e lo strumento di screening degli hot spot! Aggrega hotspot multipiattaforma + abbonamenti RSS per supportare un preciso filtraggio delle parole chiave. Screening di notizie intelligenti tramite intell... Link: https://github.com/sansan0/TrendRadar</description>
-      <guid>https://github.com/sansan0/TrendRadar</guid>
-      <pubDate>Fri, 14 Aug 2026 18:53:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>punkpeye/awesome-mcp-servers</title>
-      <link>https://github.com/punkpeye/awesome-mcp-servers</link>
-      <description>92312 stelle | Lingua originale: Inglese Una raccolta di server MCP. Link: https://github.com/punkpeye/awesome-mcp-servers</description>
-      <guid>https://github.com/punkpeye/awesome-mcp-servers</guid>
-      <pubDate>Fri, 14 Aug 2026 18:53:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>farion1231/cc-switch</title>
-      <link>https://github.com/farion1231/cc-switch</link>
-      <description>127275 stelle | Lingua originale: Inglese Un assistente desktop All-in-One multipiattaforma per Claude Code, Codex, OpenCode, OpenClaw, Grok Build e Hermes Agent. Unico sito ufficiale: ccswitch.io Link: https://github.com/farion1231/cc-switch</description>
-      <guid>https://github.com/farion1231/cc-switch</guid>
-      <pubDate>Fri, 14 Aug 2026 18:52:59 +0000</pubDate>
     </item>
   </channel>
 </rss>
